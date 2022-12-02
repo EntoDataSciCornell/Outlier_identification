@@ -1,0 +1,748 @@
+,old_name,final_name,source,longitude,latitude,year,month,day,collector
+1,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.393216,37.45072,2019,9,15,
+2,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.369209,46.025001,2018,5,22,
+3,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.400265,37.446664,2018,7,8,
+4,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.381052,37.461233,2018,7,10,
+5,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.387787,37.455878,2018,7,10,
+6,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.399921,37.446732,2018,7,15,
+7,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.395104,37.449664,2018,7,15,
+8,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.37744,37.450793,2017,3,13,
+9,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.760362,37.994219,2017,7,15,
+10,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.148094,37.778438,2017,8,2,
+11,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-117.115524,47.915148,2017,9,1,
+12,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.3571,37.4221,2016,2,16,
+13,"Polygonia oreas satellow Scott, 2006",Polygonia_oreas,gbif,-108.125906,38.375266,2016,4,22,
+14,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-116.06104,46.022625,2016,5,1,
+15,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-120.364915,37.990758,2016,5,30,
+16,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.351475,37.180493,2016,6,27,
+17,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.357507,37.1694,2015,3,24,
+18,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.267204,37.196762,2015,3,24,
+19,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.400605,37.446567,2015,5,6,
+20,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.381592,37.456561,2015,5,6,
+21,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.381592,37.456561,2015,5,6,
+22,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-121.746247,36.483817,2015,6,5,
+23,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.339115,37.185485,2014,4,12,
+24,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-125.032428,50.104004,2014,6,12,
+25,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-111.27467,43.560186,2014,8,29,
+26,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.147015,37.804427,2013,6,14,
+27,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.14789,37.805732,2013,6,17,
+28,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-121.739667,36.476333,2013,6,16,
+29,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.16615,37.813852,2010,7,15,
+30,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-115.826454,48.920471,2008,8,16,
+31,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.75777,38.00103,2007,3,16,
+32,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.86805,38.05267,2007,3,16,
+33,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-121.808845,48.905332,2007,5,30,
+34,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-113.931418,46.631495,2007,6,26,
+35,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-113.800171,48.68318,2007,9,15,
+36,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-120.003469,36.09412,2006,1,5,
+37,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-113.938319,46.603612,2006,6,30,
+38,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-113.938319,46.603612,2006,6,28,
+39,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-113.938319,46.603612,2006,6,28,
+40,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-113.938319,46.603612,2006,6,28,
+41,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-113.938319,46.603612,2006,7,11,
+42,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-113.938319,46.603612,2006,7,1,
+43,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-104.55273,45.888887,2005,7,13,
+44,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.86805,38.05267,2005,10,13,
+45,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.86004,38.06598,2005,10,13,
+46,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.802495,40.712558,2003,5,28,
+47,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.802495,40.712558,2003,6,12,
+48,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.802495,40.712558,2003,6,9,
+49,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.802495,40.712558,2003,6,9,
+50,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.802495,40.712558,2003,6,14,
+51,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.802495,40.712558,2003,6,2,
+52,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.137964,48.583988,2002,5,22,
+53,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-110.798385,43.328155,2002,6,28,
+54,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-118.616667,50.266667,2001,5,13,
+55,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-114.689363,43.506973,2001,8,1,
+56,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.80037,38.01097,2001,10,23,
+57,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.82844,38.04502,2000,8,20,
+58,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.8241,38.02541,2000,11,2,
+59,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-120.530069,46.958181,1999,6,18,
+60,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-114.533,45.333,1999,7,31,
+61,"Polygonia oreas nigrozephyrus Scott, 1984",Polygonia_oreas,gbif,-105.07498,40.397761,1999,8,2,
+62,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.83777,38.07463,1999,10,16,
+63,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.83777,38.07463,1999,10,7,
+64,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-117.4783,49.0472,1999,1,1,
+65,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-119.2833,50.3167,1999,1,1,
+66,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-119.2833,50.3167,1999,1,1,
+67,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.794278,44.743173,1998,4,26,
+68,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.7996,38.02395,1998,10,21,
+69,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.85189,38.07536,1998,10,9,
+70,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.80037,38.01097,1998,10,6,
+71,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-120.3444,49.0561,1998,1,1,
+72,"Polygonia oreas nigrozephyrus Scott, 1984",Polygonia_oreas,gbif,-105.203322,39.66971,1997,3,21,
+73,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.861194,41.606226,1997,7,3,
+74,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-113.235553,46.515267,1997,8,12,
+75,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-122.333333,52.9,1996,4,6,
+76,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-112.53948,47.838839,1996,5,17,
+77,"Polygonia oreas nigrozephyrus Scott, 1984",Polygonia_oreas,gbif,-106.22002,38.993328,1996,8,10,
+78,"Polygonia oreas nigrozephyrus Scott, 1984",Polygonia_oreas,gbif,-105.826285,38.69431,1996,8,10,
+79,Polygonia oreas oreas,Polygonia_oreas,gbif,-122.08212,36.956425,1996,10,12,
+80,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.85143,38.07314,1995,2,9,
+81,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.85144,38.06826,1995,2,9,
+82,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.713054,39.320008,1995,5,24,
+83,"Polygonia oreas nigrozephyrus Scott, 1984",Polygonia_oreas,gbif,-107.835476,38.152745,1994,8,11,
+84,Polygonia oreas oreas,Polygonia_oreas,gbif,-122.154979,36.980407,1993,8,3,
+85,Polygonia oreas oreas,Polygonia_oreas,gbif,-121.838999,36.945291,1992,4,6,
+86,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-114.240439,48.383909,1992,5,8,
+87,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-114.240439,48.383909,1992,5,8,
+88,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-114.240439,48.383909,1992,5,8,
+89,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.7996,38.02395,1988,8,8,
+90,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-119,50.7833,1987,5,4,
+91,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-114.818,50.934,1987,7,26,
+92,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-114.818,50.934,1987,8,29,
+93,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-114.818,50.934,1987,8,29,
+94,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-114.818,50.934,1987,8,29,
+95,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-114.818,50.934,1987,8,29,
+96,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-114.818,50.934,1987,8,31,
+97,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-114.818,50.934,1987,8,31,
+98,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-114.818,50.934,1987,8,29,
+99,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-114.818,50.934,1987,8,29,
+100,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-115.017,51.033,1987,8,27,
+101,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-114.818,50.934,1987,8,29,
+102,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-119.5085,49.0743,1987,10,1,
+103,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.7996,38.02395,1986,8,25,
+104,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-114.5,49.6333,1986,1,1,
+105,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.167,45.456,1983,5,24,
+106,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.167,45.456,1983,8,18,
+107,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.167,45.456,1983,8,18,
+108,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.167,45.456,1983,8,18,
+109,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.167,45.456,1983,8,18,
+110,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.167,45.456,1983,8,18,
+111,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-115.15,43.609,1983,8,9,
+112,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.167,45.456,1983,8,18,
+113,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-115.15,43.609,1983,8,9,
+114,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.167,45.456,1983,8,18,
+115,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.167,45.456,1983,8,18,
+116,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.167,45.456,1983,8,18,
+117,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.167,45.456,1983,8,18,
+118,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-119.4333,52.9667,1983,8,26,
+119,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-119.25,50.2,1983,9,21,
+120,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-114.35,49.4,1983,1,1,
+121,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-114.2167,49.2833,1983,1,1,
+122,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-114.2167,49.2833,1982,1,1,
+123,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.425,46.475,1981,4,18,
+124,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.776,46.311,1981,7,6,
+125,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.769,46.205,1981,8,1,
+126,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.769,46.205,1981,8,1,
+127,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.724,46.151,1980,7,26,
+128,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.724,46.151,1980,7,26,
+129,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-106.58596,41.00211,1980,9,3,
+130,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.164,45.419,1979,5,24,
+131,"Polygonia oreas nigrozephyrus Scott, 1984",Polygonia_oreas,gbif,-111.502,42.082,1979,7,20,
+132,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-117.193,46.08,1978,8,27,
+133,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-117.193,46.08,1978,8,27,
+134,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-117.193,46.08,1978,8,27,
+135,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-117.193,46.08,1978,8,27,
+136,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-117.193,46.08,1978,8,27,
+137,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-117.193,46.08,1978,8,27,
+138,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-117.193,46.08,1978,8,27,
+139,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-117.193,46.08,1978,8,27,
+140,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-117.216,46.114,1978,9,1,
+141,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.7,46.733,1977,4,24,
+142,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.336,46.957,1976,6,15,
+143,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.336,46.957,1976,8,16,
+144,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-111.40553,44.04085,1975,6,24,
+145,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.9,46.8,1974,7,22,
+146,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-120.8,49.1,1974,8,4,
+147,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.9,46.8,1973,7,15,
+148,"Polygonia oreas nigrozephyrus Scott, 1984",Polygonia_oreas,gbif,-105.291197,39.998471,1973,10,2,
+149,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-105.08628,39.37645,1972,8,12,
+150,"Polygonia oreas nigrozephyrus Scott, 1984",Polygonia_oreas,gbif,-105.22681,39.256312,1972,8,16,
+151,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-118.6667,52.8,1972,8,13,
+152,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-121.4292,51.0383,1969,7,11,
+153,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-110.13408,46.02078,1966,6,27,
+154,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-147.80278,64.85694,1966,8,1,
+155,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-110.13408,46.02078,1966,8,16,
+156,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-110.13408,46.02078,1966,8,16,
+157,"Polygonia oreas silenus (W.H.Edwards, 1870)",Polygonia_oreas,gbif,-123.84278,45.45639,1966,9,1,
+158,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-121.7,48.65,1965,5,20,
+159,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-121.882,48.927,1964,8,23,
+160,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.54663,44.56421,1963,9,2,
+161,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-117.20943,45.3098,1962,9,1,
+162,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-117.20943,45.3098,1962,9,1,
+163,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-105.64372,39.58823,1960,8,7,
+164,"Polygonia oreas nigrozephyrus Scott, 1984",Polygonia_oreas,gbif,-105.473819,39.413819,1959,7,17,
+165,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-125.2207,49.643,1959,7,22,
+166,"Polygonia oreas nigrozephyrus Scott, 1984",Polygonia_oreas,gbif,-105.332714,39.415602,1959,8,9,
+167,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-124.016667,49.2,1958,7,11,
+168,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-117.971,46.324,1957,4,20,
+169,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-116.4,51.41667,1957,6,27,
+170,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-125.2207,49.643,1957,8,28,
+171,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-125.3167,49.6833,1957,8,27,
+172,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-125.3167,49.6833,1957,8,14,
+173,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-124.6667,49.4333,1955,5,31,
+174,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-124.3667,49.2833,1955,8,2,
+175,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-120.077966,38.412413,1954,7,21,
+176,"Polygonia oreas nigrozephyrus Scott, 1984",Polygonia_oreas,gbif,-106.344284,38.704947,1953,9,16,
+177,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-124.3667,49.2833,1952,5,26,
+178,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-124.3667,49.2833,1952,5,26,
+179,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-124.3667,49.2833,1951,7,2,
+180,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-124.3667,49.2833,1951,9,2,
+181,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-122.9167,49.2167,1943,5,13,
+182,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-121.45,49.3833,1942,7,5,
+183,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-118.9167,50.4,1940,7,23,
+184,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-124.3667,49.2833,1940,8,2,
+185,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-79.833333,43.25,1940,9,20,
+186,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-80.17795,43.47019,1940,9,17,
+187,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-115.730322,43.98914,1939,8,3,
+188,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.7,48.7833,1934,7,24,
+189,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-119.55,49.1833,1933,4,27,
+190,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.6333,48.6167,1933,9,29,
+191,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.1667,49.3667,1932,4,24,
+192,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.6333,48.6167,1932,5,3,
+193,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.6333,48.6167,1932,8,19,
+194,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.6333,48.6167,1931,4,23,
+195,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-124.3167,49.3167,1931,5,25,
+196,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.7,48.7833,1931,7,8,
+197,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-121.8333,49,1927,8,1,
+198,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.7,48.7833,1921,4,8,
+199,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-120.875,49.8181,1920,6,30,
+200,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.132886,49.249996,1918,8,22,
+201,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.667,48.7932,1918,8,2,
+202,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-115.566669,51.166666,1918,9,3,
+203,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-114.377,49.57,1918,9,21,
+204,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.3667,48.4333,1917,5,23,
+205,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-121.4333,49.5667,1914,7,23,
+206,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-115.927,47.474,1914,9,27,
+207,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.9667,49.2,1913,7,5,
+208,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-125.5,49.5,1913,7,5,
+209,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-121.7667,49.2333,1909,7,25,
+210,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.7,48.7833,1905,8,26,
+211,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.55,48.4667,1903,4,6,
+212,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.1167,49.25,1903,5,3,
+213,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.55,48.4667,1903,9,6,
+214,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.3667,48.4333,1902,9,5,
+215,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.3667,48.4167,1900,6,27,
+216,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-121.95,49.25,1890,7,24,
+217,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-80.05,47,1887,7,27,
+218,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.3667,48.4333,1885,5,25,
+219,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-105.6905,40.3383,,,,
+220,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-104.9803493,38.06995299,,,,
+221,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-106.277837,38.740837,,,,
+222,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-117.834385,44.774875,,,,
+223,"Polygonia oreas nigrozephyrus Scott, 1984",Polygonia_oreas,gbif,-105.4896,39.9031,,,,
+224,"Polygonia oreas threatfuli C.Guppy & J.Shepard, 2001",Polygonia_oreas,gbif,-116.468,45.622,,,,
+225,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.3667,48.55,,,,
+226,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.7,48.7833,,,,
+227,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.1167,49.25,,,,
+228,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-121.7667,49.2333,,,,
+229,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-123.7,48.7833,,,,
+230,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-138.5,62.8,,,,
+231,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-125.066667,49.15,,,,
+232,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-125.066667,49.15,,,,
+233,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-125.316667,49.716667,,,,
+234,"Polygonia oreas Edwards, 1870",Polygonia_oreas,gbif,-125.5,49.5,,,,
+235,Polygonia oreas,Polygonia_oreas,bison,-110.47379,48.00331,1956,8,14,
+236,Polygonia oreas,Polygonia_oreas,bison,-121.71954,37.29389,1989,3,12,
+237,Polygonia oreas,Polygonia_oreas,bison,-114.15315,48.424152,1981,4,15,
+238,Polygonia oreas,Polygonia_oreas,bison,-113.68699,47.02405,1898,4,16,
+239,Polygonia oreas,Polygonia_oreas,bison,-121.71143,48.424194,1950,1,1,
+240,Polygonia oreas,Polygonia_oreas,bison,-120.674904,47.944534,1950,1,1,
+241,Polygonia oreas,Polygonia_oreas,bison,-123.19514,47.425114,1950,1,1,
+242,Polygonia oreas,Polygonia_oreas,bison,-112.40298,47.2964,1964,5,16,
+243,Polygonia oreas,Polygonia_oreas,bison,-112.27176,47.901997,1996,5,17,
+244,Polygonia oreas,Polygonia_oreas,bison,-109.10026,45.28202,1964,7,16,
+245,Polygonia oreas,Polygonia_oreas,bison,-120.28747,39.324646,1985,6,25,
+246,Polygonia oreas,Polygonia_oreas,bison,-112.97455,46.931145,1992,9,11,
+247,Polygonia oreas,Polygonia_oreas,bison,-121.354164,36.31362,1967,7,2,
+248,Polygonia oreas,Polygonia_oreas,bison,-121.354164,36.31362,1967,7,2,
+249,Polygonia oreas,Polygonia_oreas,bison,-112.97455,46.931145,1950,1,1,
+250,Polygonia oreas,Polygonia_oreas,bison,-114.39404,47.290745,1983,8,24,
+251,Polygonia oreas,Polygonia_oreas,bison,-118.58548,46.236984,1950,1,1,
+252,Polygonia oreas,Polygonia_oreas,bison,-122.77469,46.17465,1950,1,1,
+253,Polygonia oreas,Polygonia_oreas,bison,-113.10931,45.213512,1940,9,1,
+254,Polygonia oreas,Polygonia_oreas,bison,-113.021225,46.10953,1983,9,21,
+255,Polygonia oreas,Polygonia_oreas,bison,-118.497406,48.471836,1950,1,1,
+256,Polygonia oreas,Polygonia_oreas,bison,-122.22215,37.86949,2013,6,27,
+257,Polygonia oreas,Polygonia_oreas,bison,-117.527664,46.518562,1950,1,1,
+258,Polygonia oreas,Polygonia_oreas,bison,-121.901794,37.85341,1968,4,13,
+259,Polygonia oreas,Polygonia_oreas,bison,-120.712006,40.53944,1985,9,21,
+260,Polygonia oreas,Polygonia_oreas,bison,-120.80395,39.992683,2009,7,5,
+261,Polygonia oreas,Polygonia_oreas,bison,-117.972435,46.323753,1950,1,1,
+262,Polygonia oreas,Polygonia_oreas,bison,-120.80395,39.992683,2009,7,5,
+263,Polygonia oreas,Polygonia_oreas,bison,-120.80395,39.992683,2009,7,1,
+264,Polygonia oreas,Polygonia_oreas,bison,-120.80395,39.992683,2009,7,1,
+265,Polygonia oreas,Polygonia_oreas,bison,-120.80395,39.992683,2009,7,5,
+266,Polygonia oreas,Polygonia_oreas,bison,-120.80395,39.992683,2009,7,1,
+267,Polygonia oreas,Polygonia_oreas,bison,-117.58873,46.83634,1950,1,1,
+268,Polygonia oreas,Polygonia_oreas,bison,-123.30401,47.742455,1950,1,1,
+269,Polygonia oreas,Polygonia_oreas,bison,-112.91966,48.521748,1980,5,15,
+270,Polygonia oreas,Polygonia_oreas,bison,-109.4141,47.212673,1950,1,1,
+271,Polygonia oreas,Polygonia_oreas,bison,-122.64126,47.64766,1950,1,1,
+272,Polygonia oreas,Polygonia_oreas,bison,-113.25827,46.50389,1997,8,12,
+273,Polygonia oreas,Polygonia_oreas,bison,-123.826454,46.51808,1950,1,1,
+274,Polygonia oreas,Polygonia_oreas,bison,-123.70125,46.995354,1950,1,1,
+275,Polygonia oreas,Polygonia_oreas,bison,-122.7696,46.864574,1950,1,1,
+276,Polygonia oreas,Polygonia_oreas,bison,-121.97186,48.878716,1950,1,1,
+277,Polygonia oreas,Polygonia_oreas,bison,-120.43576,35.31023,1932,9,17,
+278,Polygonia oreas,Polygonia_oreas,bison,-120.43576,35.31023,1932,9,16,
+279,Polygonia oreas,Polygonia_oreas,bison,-120.43576,35.31023,1932,9,16,
+280,Polygonia oreas,Polygonia_oreas,bison,-120.43576,35.31023,1932,10,8,
+281,Polygonia oreas,Polygonia_oreas,bison,-120.43576,35.31023,1932,9,9,
+282,Polygonia oreas,Polygonia_oreas,bison,-120.43576,35.31023,1929,4,21,
+283,Polygonia oreas,Polygonia_oreas,bison,-120.43576,35.31023,1932,10,8,
+284,Polygonia oreas,Polygonia_oreas,bison,-121.83395,48.032997,1950,1,1,
+285,Polygonia oreas,Polygonia_oreas,bison,-120.80395,39.992683,1984,6,2,
+286,Polygonia oreas,Polygonia_oreas,bison,-122.45547,46.619545,1950,1,1,
+287,Polygonia oreas,Polygonia_oreas,bison,-122.129524,47.06759,1950,1,1,
+288,Polygonia oreas,Polygonia_oreas,bison,-121.354164,36.31362,1990,7,30,
+289,Polygonia oreas,Polygonia_oreas,bison,-121.354164,36.31362,1973,2,17,
+290,Polygonia oreas,Polygonia_oreas,bison,-121.354164,36.31362,1990,6,23,
+291,Polygonia oreas,Polygonia_oreas,bison,-114.13393,47.671375,1897,8,20,
+292,Polygonia oreas,Polygonia_oreas,bison,-117.31734,48.435905,1950,1,1,
+293,Polygonia oreas,Polygonia_oreas,bison,-110.25771,47.060936,1993,8,14,
+294,Polygonia oreas,Polygonia_oreas,bison,-121.983604,47.548035,1950,1,1,
+295,Polygonia oreas,Polygonia_oreas,bison,-119.652214,48.589684,1950,1,1,
+296,Polygonia oreas,Polygonia_oreas,bison,-121.896225,45.942852,1950,1,1,
+297,Polygonia oreas,Polygonia_oreas,bison,-113.938324,46.67761,2016,3,30,
+298,Polygonia oreas,Polygonia_oreas,bison,-115.65965,48.58809,1986,8,6,
+299,Polygonia oreas,Polygonia_oreas,bison,-122.57701,41.774326,1980,7,5,
+300,Polygonia oreas,Polygonia_oreas,bison,-122.57701,41.774326,1986,6,22,
+301,Polygonia oreas,Polygonia_oreas,bison,-111.54533,47.468834,1931,6,15,
+302,Polygonia oreas,Polygonia_oreas,bison,-114.96269,47.149704,1982,5,11,
+303,Polygonia oreas,Polygonia_oreas,bison,-110.80825,45.089195,1950,1,1,
+304,Polygonia oreas,Polygonia_oreas,bison,-121.77005,36.51403,1974,2,16,
+305,Polygonia oreas,Polygonia_oreas,bison,-111.11942,45.538887,1920,8,10,
+306,Polygonia oreas,Polygonia_oreas,bison,-122.058624,37.079025,2016,5,30,
+307,Polygonia oreas,Polygonia_oreas,bison,-122.40142,37.433735,1997,6,16,
+308,Polygonia oreas,Polygonia_oreas,bison,-114.04053,46.638054,1981,4,18,
+309,Polygonia oreas,Polygonia_oreas,bison,-117.20852,46.14601,1950,1,1,
+310,Polygonia oreas,Polygonia_oreas,bison,-120.93194,47.174953,1950,1,1,
+311,Polygonia oreas,Polygonia_oreas,bison,-116.4,51.41667,1957,6,27,
+312,Polygonia oreas,Polygonia_oreas,bison,-117.83439,44.774876,,,,
+313,Polygonia oreas,Polygonia_oreas,bison,-114.24044,48.383907,1992,5,8,
+314,Polygonia oreas,Polygonia_oreas,bison,-122.38105,37.46123,2018,7,10,
+315,Polygonia oreas,Polygonia_oreas,bison,-125.032425,50.104004,2014,6,12,
+316,Polygonia oreas,Polygonia_oreas,bison,-114.35,49.4,1983,1,1,
+317,Polygonia oreas,Polygonia_oreas,bison,-114.2167,49.2833,1983,1,1,
+318,Polygonia oreas,Polygonia_oreas,bison,-114.2167,49.2833,1982,1,1,
+319,Polygonia oreas,Polygonia_oreas,bison,-114.5,49.6333,1986,1,1,
+320,Polygonia oreas,Polygonia_oreas,bison,-122.38159,37.456562,2015,5,6,
+321,Polygonia oreas,Polygonia_oreas,bison,-117.20943,45.3098,1962,9,1,
+322,Polygonia oreas,Polygonia_oreas,bison,-111.40553,44.04085,1975,6,24,
+323,Polygonia oreas,Polygonia_oreas,bison,-122.14789,37.805733,2013,6,17,
+328,Polygonia oreas,Polygonia_oreas,bison,-117.20943,45.3098,1962,9,1,
+329,Polygonia oreas,Polygonia_oreas,bison,-105.6905,40.3383,,,,
+330,Polygonia oreas,Polygonia_oreas,bison,-121.8333,49,1927,8,1,
+331,Polygonia oreas,Polygonia_oreas,bison,-123.9667,49.2,1913,7,5,
+332,Polygonia oreas,Polygonia_oreas,bison,-121.91329,37.648136,2013,6,27,
+333,Polygonia oreas,Polygonia_oreas,bison,-123.31612,45.24814,2015,3,7,
+334,Polygonia oreas,Polygonia_oreas,bison,-123.36921,46.025,2018,5,22,
+335,Polygonia oreas,Polygonia_oreas,bison,-113.97536,46.71981,2015,7,7,
+336,Polygonia oreas,Polygonia_oreas,bison,-111.45197,46.269375,1984,9,14,
+337,Polygonia oreas,Polygonia_oreas,bison,-122.35148,37.180492,2016,6,27,
+338,Polygonia oreas,Polygonia_oreas,bison,-121.73967,36.476334,2013,6,16,
+339,Polygonia oreas,Polygonia_oreas,bison,-122.37744,37.450794,2017,3,13,
+340,Polygonia oreas,Polygonia_oreas,bison,-122.148094,37.77844,2017,8,2,
+341,Polygonia oreas,Polygonia_oreas,bison,-122.33911,37.185486,2014,4,12,
+342,Polygonia oreas,Polygonia_oreas,bison,-113.93832,46.60361,2006,6,28,
+343,Polygonia oreas,Polygonia_oreas,bison,-122.8025,40.71256,2003,6,2,
+344,Polygonia oreas,Polygonia_oreas,bison,-113.93832,46.60361,2006,6,28,
+345,Polygonia oreas,Polygonia_oreas,bison,-113.93142,46.631496,2007,6,26,
+346,Polygonia oreas,Polygonia_oreas,bison,-122.8025,40.71256,2003,5,28,
+347,Polygonia oreas,Polygonia_oreas,bison,-122.86119,41.606228,1997,7,3,
+348,Polygonia oreas,Polygonia_oreas,bison,-122.8025,40.71256,2003,6,12,
+349,Polygonia oreas,Polygonia_oreas,bison,-122.8025,40.71256,2003,6,9,
+350,Polygonia oreas,Polygonia_oreas,bison,-122.8025,40.71256,2003,6,9,
+351,Polygonia oreas,Polygonia_oreas,bison,-122.8025,40.71256,2003,6,14,
+352,Polygonia oreas,Polygonia_oreas,bison,-113.93832,46.60361,2006,6,30,
+353,Polygonia oreas,Polygonia_oreas,bison,-114.24044,48.383907,1992,5,8,
+354,Polygonia oreas,Polygonia_oreas,bison,-113.93832,46.60361,2006,7,11,
+355,Polygonia oreas,Polygonia_oreas,bison,-113.93832,46.60361,2006,7,1,
+356,Polygonia oreas,Polygonia_oreas,bison,-113.93832,46.60361,2006,6,28,
+357,Polygonia oreas,Polygonia_oreas,bison,-114.24044,48.383907,1992,5,8,
+358,Polygonia oreas,Polygonia_oreas,bison,-122.357506,37.1694,2015,3,24,
+359,Polygonia oreas,Polygonia_oreas,bison,-122.400604,37.446568,2015,5,6,
+360,Polygonia oreas,Polygonia_oreas,bison,-122.3951,37.449665,2018,7,15,
+361,Polygonia oreas,Polygonia_oreas,bison,-122.39992,37.44673,2018,7,15,
+362,Polygonia oreas,Polygonia_oreas,bison,-122.40027,37.446663,2018,7,8,
+363,Polygonia oreas,Polygonia_oreas,bison,-122.38779,37.45588,2018,7,10,
+364,Polygonia oreas,Polygonia_oreas,bison,-122.3571,37.4221,2016,2,16,
+365,Polygonia oreas,Polygonia_oreas,bison,-116.06104,46.022625,2016,5,1,
+366,Polygonia oreas,Polygonia_oreas,bison,-120.3444,49.0561,1998,1,1,
+367,Polygonia oreas,Polygonia_oreas,bison,-122.38159,37.456562,2015,5,6,
+368,Polygonia oreas,Polygonia_oreas,bison,-122.267204,37.196762,2015,3,24,
+369,Polygonia oreas,Polygonia_oreas,bison,-121.74625,36.483818,2015,6,5,
+370,Polygonia oreas,Polygonia_oreas,bison,-124.01667,49.2,1958,7,11,
+371,Polygonia oreas,Polygonia_oreas,bison,-110.13408,46.02078,1966,8,16,
+372,Polygonia oreas,Polygonia_oreas,bison,-110.13408,46.02078,1966,8,16,
+373,Polygonia oreas,Polygonia_oreas,bison,-147.80278,64.85694,1966,8,1,
+374,Polygonia oreas,Polygonia_oreas,bison,-104.98035,38.069954,,,,
+375,Polygonia oreas,Polygonia_oreas,bison,-105.08628,39.37645,1972,8,12,
+376,Polygonia oreas,Polygonia_oreas,bison,-106.58596,41.00211,1980,9,3,
+377,Polygonia oreas,Polygonia_oreas,bison,-115.566666,51.166664,1918,9,3,
+378,Polygonia oreas,Polygonia_oreas,bison,-122.403175,37.444622,2017,9,21,
+379,Polygonia oreas,Polygonia_oreas,bison,-123.54663,44.56421,1963,9,2,
+380,Polygonia oreas,Polygonia_oreas,bison,-110.13408,46.02078,1966,6,27,
+381,Polygonia oreas,Polygonia_oreas,bison,-123.13289,49.249996,1918,8,22,
+382,Polygonia oreas,Polygonia_oreas,bison,-122.16615,37.81385,2010,7,15,
+383,Polygonia oreas,Polygonia_oreas,bison,-105.64372,39.58823,1960,8,7,
+384,Polygonia oreas,Polygonia_oreas,bison,-119.5085,49.0743,1987,10,1,
+385,Polygonia oreas,Polygonia_oreas,bison,-123.3667,48.4333,1902,9,5,
+386,Polygonia oreas,Polygonia_oreas,bison,-124.3667,49.2833,1952,5,26,
+387,Polygonia oreas,Polygonia_oreas,bison,-124.3667,49.2833,1955,8,2,
+388,Polygonia oreas,Polygonia_oreas,bison,-123.7,48.7833,1921,4,8,
+389,Polygonia oreas,Polygonia_oreas,bison,-125.2207,49.643,1959,7,22,
+390,Polygonia oreas,Polygonia_oreas,bison,-124.3667,49.2833,1951,7,2,
+391,Polygonia oreas,Polygonia_oreas,bison,-123.55,48.4667,1903,4,6,
+392,Polygonia oreas,Polygonia_oreas,bison,-124.3667,49.2833,1951,9,2,
+393,Polygonia oreas,Polygonia_oreas,bison,-124.3667,49.2833,1940,8,2,
+394,Polygonia oreas,Polygonia_oreas,bison,-125.2207,49.643,1957,8,28,
+395,Polygonia oreas,Polygonia_oreas,bison,-123.3667,48.55,,,,
+396,Polygonia oreas,Polygonia_oreas,bison,-123.6333,48.6167,1932,8,19,
+397,Polygonia oreas,Polygonia_oreas,bison,-123.6333,48.6167,1933,9,29,
+398,Polygonia oreas,Polygonia_oreas,bison,-123.7,48.7833,1931,7,8,
+399,Polygonia oreas,Polygonia_oreas,bison,-123.6333,48.6167,1931,4,23,
+400,Polygonia oreas,Polygonia_oreas,bison,-123.667,48.7932,1918,8,2,
+401,Polygonia oreas,Polygonia_oreas,bison,-124.3667,49.2833,1952,5,26,
+402,Polygonia oreas,Polygonia_oreas,bison,-125.3167,49.6833,1957,8,27,
+403,Polygonia oreas,Polygonia_oreas,bison,-123.3667,48.4167,1900,6,27,
+404,Polygonia oreas,Polygonia_oreas,bison,-125.3167,49.6833,1957,8,14,
+405,Polygonia oreas,Polygonia_oreas,bison,-124.3167,49.3167,1931,5,25,
+406,Polygonia oreas,Polygonia_oreas,bison,-123.55,48.4667,1903,9,6,
+407,Polygonia oreas,Polygonia_oreas,bison,-123.7,48.7833,1934,7,24,
+408,Polygonia oreas,Polygonia_oreas,bison,-123.6333,48.6167,1932,5,3,
+409,Polygonia oreas,Polygonia_oreas,bison,-123.1667,49.3667,1932,4,24,
+410,Polygonia oreas,Polygonia_oreas,bison,-121.4333,49.5667,1914,7,23,
+411,Polygonia oreas,Polygonia_oreas,bison,-121.45,49.3833,1942,7,5,
+412,Polygonia oreas,Polygonia_oreas,bison,-122.9167,49.2167,1943,5,13,
+413,Polygonia oreas,Polygonia_oreas,bison,-119,50.7833,1987,5,4,
+414,Polygonia oreas,Polygonia_oreas,bison,-119.25,50.2,1983,9,21,
+415,Polygonia oreas,Polygonia_oreas,bison,-125.066666,49.15,,,,
+416,Polygonia oreas,Polygonia_oreas,bison,-125.066666,49.15,,,,
+417,Polygonia oreas,Polygonia_oreas,bison,-125.316666,49.716667,,,,
+418,Polygonia oreas,Polygonia_oreas,bison,-120.8,49.1,1974,8,4,
+419,Polygonia oreas,Polygonia_oreas,bison,-123.7,48.7833,,,,
+420,Polygonia oreas,Polygonia_oreas,bison,-123.3667,48.4333,1917,5,23,
+421,Polygonia oreas,Polygonia_oreas,bison,-123.3667,48.4333,1885,5,25,
+422,Polygonia oreas,Polygonia_oreas,bison,-123.1167,49.25,,,,
+423,Polygonia oreas,Polygonia_oreas,bison,-123.1167,49.25,1903,5,3,
+424,Polygonia oreas,Polygonia_oreas,bison,-124.6667,49.4333,1955,5,31,
+425,Polygonia oreas,Polygonia_oreas,bison,-121.7667,49.2333,1909,7,25,
+426,Polygonia oreas,Polygonia_oreas,bison,-121.7667,49.2333,,,,
+427,Polygonia oreas,Polygonia_oreas,bison,-119.55,49.1833,1933,4,27,
+428,Polygonia oreas,Polygonia_oreas,bison,-123.7,48.7833,,,,
+429,Polygonia oreas,Polygonia_oreas,bison,-138.5,62.8,,,,
+430,Polygonia oreas,Polygonia_oreas,bison,-119.4333,52.9667,1983,8,26,
+431,Polygonia oreas,Polygonia_oreas,bison,-122.14702,37.80443,2013,6,14,
+432,Polygonia oreas,Polygonia_oreas,bison,-122.8241,38.02541,2000,11,2,
+433,Polygonia oreas,Polygonia_oreas,bison,-122.7996,38.02395,1988,8,8,
+434,Polygonia oreas,Polygonia_oreas,bison,-122.82636,38.04518,2000,8,20,
+435,Polygonia oreas,Polygonia_oreas,bison,-122.85143,38.07314,1995,2,9,
+436,Polygonia oreas,Polygonia_oreas,bison,-122.7996,38.02395,1986,8,25,
+437,Polygonia oreas,Polygonia_oreas,bison,-122.82167,38.06389,1999,10,16,
+438,Polygonia oreas,Polygonia_oreas,bison,-122.7996,38.02395,1998,10,21,
+439,Polygonia oreas,Polygonia_oreas,bison,-122.75777,38.00103,2007,3,16,
+440,Polygonia oreas,Polygonia_oreas,bison,-122.80037,38.01097,2001,10,23,
+441,Polygonia oreas,Polygonia_oreas,bison,-122.85189,38.07536,1998,10,9,
+442,Polygonia oreas,Polygonia_oreas,bison,-122.85144,38.06826,1995,2,9,
+443,Polygonia oreas,Polygonia_oreas,bison,-122.86805,38.05267,2005,10,13,
+444,Polygonia oreas,Polygonia_oreas,bison,-122.86004,38.06598,2005,10,13,
+445,Polygonia oreas,Polygonia_oreas,bison,-122.80037,38.01097,1998,10,6,
+446,Polygonia oreas,Polygonia_oreas,bison,-122.86805,38.05267,2007,3,16,
+447,Polygonia oreas,Polygonia_oreas,bison,-122.82167,38.06389,1999,10,7,
+448,Polygonia oreas,Polygonia_oreas,bison,-117.4783,49.0472,1999,1,1,
+449,Polygonia oreas,Polygonia_oreas,bison,-119.2833,50.3167,1999,1,1,
+450,Polygonia oreas,Polygonia_oreas,bison,-119.2833,50.3167,1999,1,1,
+451,Polygonia oreas,Polygonia_oreas,bison,-123.7,48.7833,1905,8,26,
+452,Polygonia oreas,Polygonia_oreas,bison,-121.95,49.25,1890,7,24,
+453,Polygonia oreas,Polygonia_oreas,bison,-120.875,49.8181,1920,6,30,
+454,Polygonia oreas,Polygonia_oreas,bison,-118.9167,50.4,1940,7,23,
+455,Polygonia oreas,Polygonia_oreas,bison,-80.05,47,1887,7,27,
+456,Polygonia oreas,Polygonia_oreas,bison,-125.5,49.5,,,,
+457,Polygonia oreas,Polygonia_oreas,bison,-125.5,49.5,1913,7,5,
+458,Polygonia oreas,Polygonia_oreas,bison,-121.4292,51.0383,1969,7,11,
+459,Polygonia oreas,Polygonia_oreas,bison,-115.18022,47.75647,2007,5,8,
+460,Polygonia oreas,Polygonia_oreas,bison,-120.28747,39.324646,1985,6,30,
+461,Polygonia oreas,Polygonia_oreas,bison,-123.65542,45.117077,2015,3,7,
+462,Polygonia oreas,Polygonia_oreas,bison,-109.89799,45.76728,1966,8,16,
+463,Polygonia oreas,Polygonia_oreas,bison,-124.01677,48.040512,1950,1,1,
+464,Polygonia oreas,Polygonia_oreas,bison,-122.763306,38.083405,1968,5,3,
+465,Polygonia oreas,Polygonia_oreas,bison,-120.75583,46.543606,1950,1,1,
+466,Polygonia oreas,Polygonia_oreas,bison,-123.49456,46.325947,1950,1,1,
+467,Polygonia oreas,Polygonia_oreas,bison,-112.56946,45.70851,2005,8,12,
+468,"Polygonia oreas (W.H. Edwards, 1869)",Polygonia_oreas,ecoengine,-122.8217,38.0639,1999,10,16,
+469,Polygonia oreas,Polygonia_oreas,ecoengine,-121.567,36.3793,1937,1,1,
+470,"Polygonia oreas (W.H. Edwards, 1869)",Polygonia_oreas,ecoengine,-122.8241,38.0254,2000,11,2,
+471,"Polygonia oreas (W.H. Edwards, 1869)",Polygonia_oreas,ecoengine,-122.7578,38.001,2007,3,16,
+472,"Polygonia oreas (W.H. Edwards, 1869)",Polygonia_oreas,ecoengine,-122.8217,38.0639,1999,10,7,
+473,"Polygonia oreas (W.H. Edwards, 1869)",Polygonia_oreas,ecoengine,-122.8264,38.0452,2000,8,20,
+474,polygonia oreas,Polygonia_oreas,idigbio,-110.13408,46.02078,1966,6,27,
+475,polygonia oreas,Polygonia_oreas,idigbio,-122.802495,40.712558,2003,6,9,
+476,polygonia oreas,Polygonia_oreas,idigbio,-113.938319,46.603612,2006,6,28,
+477,polygonia oreas,Polygonia_oreas,idigbio,-106.58596,41.00211,1980,9,3,
+478,polygonia oreas,Polygonia_oreas,idigbio,-113.938319,46.603612,2006,6,28,
+479,polygonia oreas,Polygonia_oreas,idigbio,-79.833333,43.25,1940,9,20,
+480,polygonia oreas,Polygonia_oreas,idigbio,-123.1328857,49.2499962,1918,8,22,
+481,polygonia oreas,Polygonia_oreas,idigbio,-122.802495,40.712558,2003,6,2,
+482,polygonia oreas,Polygonia_oreas,idigbio,-122.802495,40.712558,2003,6,12,
+483,polygonia oreas,Polygonia_oreas,idigbio,-117.20943,45.3098,1962,9,1,
+484,polygonia oreas,Polygonia_oreas,idigbio,-122.802495,40.712558,2003,6,14,
+485,polygonia oreas,Polygonia_oreas,idigbio,-114.240439,48.383909,1992,5,8,
+486,polygonia oreas,Polygonia_oreas,idigbio,-113.938319,46.603612,2006,6,28,
+487,polygonia oreas,Polygonia_oreas,idigbio,-122.802495,40.712558,2003,5,28,
+488,polygonia oreas,Polygonia_oreas,idigbio,-115.5666695,51.166666,1918,9,3,
+489,polygonia oreas,Polygonia_oreas,idigbio,-106.277837,38.740837,,,,
+490,polygonia oreas,Polygonia_oreas,idigbio,-110.13408,46.02078,1966,8,16,
+491,polygonia oreas,Polygonia_oreas,idigbio,-105.6905,40.3383,,,,
+492,polygonia oreas,Polygonia_oreas,idigbio,-117.8343848,44.7748748,,,,
+493,polygonia oreas,Polygonia_oreas,idigbio,-113.931418,46.631495,2007,6,26,
+494,polygonia oreas,Polygonia_oreas,idigbio,-114.240439,48.383909,1992,5,8,
+495,polygonia oreas,Polygonia_oreas,idigbio,-121.7,48.65,1965,5,20,
+496,polygonia oreas,Polygonia_oreas,idigbio,-122.272747,37.871593,,,,
+497,polygonia oreas,Polygonia_oreas,idigbio,-117.20943,45.3098,1962,9,1,
+498,polygonia oreas,Polygonia_oreas,idigbio,-124.016667,49.2,1958,7,11,
+499,polygonia oreas,Polygonia_oreas,idigbio,-113.938319,46.603612,2006,7,1,
+500,polygonia oreas,Polygonia_oreas,idigbio,-121.882,48.927,1964,8,23,
+501,polygonia oreas,Polygonia_oreas,idigbio,-123.54663,44.56421,1963,9,2,
+502,polygonia oreas,Polygonia_oreas,idigbio,-120.077966,38.412413,1954,7,21,
+503,polygonia oreas,Polygonia_oreas,idigbio,-122.861194,41.606226,1997,7,3,
+504,polygonia oreas,Polygonia_oreas,idigbio,-122.802495,40.712558,2003,6,9,
+505,polygonia oreas,Polygonia_oreas,idigbio,-147.80278,64.85694,1966,8,8,
+506,polygonia oreas,Polygonia_oreas,idigbio,-80.17795,43.47019,1940,9,17,
+507,polygonia oreas,Polygonia_oreas,idigbio,-104.9805437,38.07000644,,,,
+508,polygonia oreas,Polygonia_oreas,idigbio,-115.730322,43.98914,1939,8,3,
+509,polygonia oreas,Polygonia_oreas,idigbio,-113.938319,46.603612,2006,6,30,
+510,polygonia oreas,Polygonia_oreas,idigbio,-116.4,51.41667,1957,6,27,
+511,polygonia oreas,Polygonia_oreas,idigbio,-113.938319,46.603612,2006,7,11,
+512,polygonia oreas,Polygonia_oreas,idigbio,-111.40553,44.04085,1975,6,24,
+513,polygonia oreas,Polygonia_oreas,idigbio,-105.08628,39.37645,1972,8,12,
+514,polygonia oreas,Polygonia_oreas,idigbio,-114.240439,48.383909,1992,5,8,
+515,polygonia oreas,Polygonia_oreas,idigbio,-105.64372,39.58823,1960,8,7,
+516,polygonia oreas,Polygonia_oreas,idigbio,-110.13408,46.02078,1966,8,16,
+CBIF06_83393,Polygonia oreas,Polygonia_oreas,master,-114.21,49.28,1982,5,24,guy
+L_Kond_6014,Polygonia oreas threatfuli,Polygonia_oreas,master,-114.2167,49.2833,1982,5,24,kondla
+1338986,,Polygonia_oreas,master,-114.2167,49.2833,1982,5,24,
+L_Kond_6034,Polygonia oreas threatfuli,Polygonia_oreas,master,-114.2167,49.2833,1983,5,22,kondla
+1339008,,Polygonia_oreas,master,-114.2167,49.2833,1983,5,22,
+1330468,,Polygonia_oreas,master,-114.2167,49.2833,1990,5,23,
+1339043,,Polygonia_oreas,master,-114.25,49.2833,1983,5,22,
+L_Kond_5763,Polygonia oreas threatfuli,Polygonia_oreas,master,-114.35,49.4,1983,7,21,kondla
+1338891,,Polygonia_oreas,master,-114.35,49.4,1983,7,21,
+L_Kond_1935,Polygonia oreas threatfuli,Polygonia_oreas,master,-114.5,49.6333,1986,7,1,kondla
+1337043,,Polygonia_oreas,master,-114.5,49.6333,1986,7,1,
+L_Shep_11745,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.0667,49.5,1896,5,24,guppy
+L_Kond_10098,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.1306,49.2529,1983,7,30,kondla
+EB-129839,Polygonia oreas,Polygonia_oreas,master,-115.664535,49.719763,2015,5,19,Dean  Nicholson
+L_Shep_11664,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1896,5,13,guppy
+L_Shep_11997,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1896,7,1,guppy
+L_Shep_12926,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1908,9,12,guppy
+L_Shep_13081,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1910,5,8,guppy
+L_Shep_13115,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1910,5,25,guppy
+L_Shep_13123,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1910,5,30,guppy
+L_Shep_13141,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1910,6,12,guppy
+L_Shep_13155,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1910,6,25,guppy
+L_Shep_13196,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1910,9,13,guppy
+L_Shep_13198,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1910,9,14,guppy
+L_Shep_13203,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1910,9,15,guppy
+L_Shep_13218,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1911,5,23,guppy
+L_Shep_13219,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1911,5,23,guppy
+L_Shep_13682,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1915,9,20,guppy
+L_Shep_13808,Polygonia oreas threatfuli,Polygonia_oreas,master,-115.7667,49.5167,1917,6,5,guppy
+1339598,,Polygonia_oreas,master,-117.4783,49.0472,1999,5,29,
+L_Kond_7592,Polygonia oreas threatfuli,Polygonia_oreas,master,-117.4838,49.0447,1999,5,29,kondla
+G_17036,Polygonia oreas,Polygonia_oreas,master,-118.61667,50.26667,2001,5,13,Guppy
+EB-47980,Polygonia oreas,Polygonia_oreas,master,-118.794098,49.102404,2013,5,2,Doug Brown
+EB-48152,Polygonia oreas,Polygonia_oreas,master,-118.79582,49.104396,2013,5,2,Doug Brown
+EB-47984,Polygonia oreas,Polygonia_oreas,master,-118.806317,49.082388,2013,5,2,Doug Brown
+EB-48159,Polygonia oreas,Polygonia_oreas,master,-118.807585,49.108444,2013,5,2,Doug Brown
+EB-48155,Polygonia oreas,Polygonia_oreas,master,-118.815449,49.110544,2013,5,2,Doug Brown
+EB-46710,Polygonia oreas,Polygonia_oreas,master,-118.865928,49.083076,2013,6,5,Doug Brown
+EB-46747,Polygonia oreas,Polygonia_oreas,master,-118.898827,49.119652,2013,6,8,Doug Brown
+CBIF06_69846,Polygonia oreas,Polygonia_oreas,master,-118.91,50.4,1940,7,23,guy
+1304664,,Polygonia_oreas,master,-118.9167,50.4,1940,7,23,
+EB-75326,Polygonia oreas,Polygonia_oreas,master,-118.950052,49.097223,2014,5,7,Doug Brown
+EB-76062,Polygonia oreas,Polygonia_oreas,master,-118.959487,49.22954,2014,5,15,Doug Brown
+EB-74344,Polygonia oreas,Polygonia_oreas,master,-118.977058,49.191395,2014,4,14,Doug Brown
+1303658,,Polygonia_oreas,master,-119,50.7833,1987,5,4,
+CBIF06_80625,Polygonia oreas,Polygonia_oreas,master,-119,50.78,1987,5,4,guy
+EB-76036,Polygonia oreas,Polygonia_oreas,master,-119.001044,49.242898,2014,5,15,Doug Brown
+EB-75630,Polygonia oreas,Polygonia_oreas,master,-119.008206,49.188104,2014,5,11,Doug Brown
+EB-75629,Polygonia oreas,Polygonia_oreas,master,-119.011758,49.192091,2014,5,11,Doug Brown
+L_Kond_19756,Polygonia oreas ,Polygonia_oreas,master,-119.0138,49.0421,2005,5,2,kondla
+EB-74348,Polygonia oreas,Polygonia_oreas,master,-119.018896,49.210642,2014,4,14,Doug Brown
+EB-74456,Polygonia oreas,Polygonia_oreas,master,-119.028064,49.210211,2014,4,14,Doug Brown
+EB-75316,Polygonia oreas,Polygonia_oreas,master,-119.048582,49.162097,2014,5,7,Doug Brown
+EB-74272,Polygonia oreas,Polygonia_oreas,master,-119.051707,49.124519,2014,4,13,Doug Brown
+L_Kond_10489,Polygonia oreas threatfuli,Polygonia_oreas,master,-119.0531,49.0336,2000,5,25,kondla
+L_Kond_10490,Polygonia oreas threatfuli,Polygonia_oreas,master,-119.0531,49.0336,2000,5,25,kondla
+L_Kond_10485,Polygonia oreas threatfuli,Polygonia_oreas,master,-119.0531,49.0336,2000,9,17,kondla
+L_Kond_10486,Polygonia oreas threatfuli,Polygonia_oreas,master,-119.0531,49.0336,2000,9,17,kondla
+L_Kond_23674,Polygonia oreas ,Polygonia_oreas,master,-119.0583,50.1944,2007,5,22,kondla
+L_RBCM_8495,Polygonia oreas,Polygonia_oreas,master,-119.25,50.2,1992,9,21,rbcm
+EB-57118,Polygonia oreas,Polygonia_oreas,master,-119.255018,49.048489,2012,5,30,Doug Brown
+G_17040,Polygonia oreas,Polygonia_oreas,master,-119.26287,50.1991,1983,9,21,Guppy
+L_Kond_23138,Polygonia oreas ,Polygonia_oreas,master,-119.2667,50.2583,2006,4,20,kondla
+L_Kond_23675,Polygonia oreas ,Polygonia_oreas,master,-119.2667,50.2583,2007,4,7,kondla
+L_Kond_12368,Polygonia oreas threatfuli,Polygonia_oreas,master,-119.2833,50.3167,1999,4,10,kondla
+1351920,,Polygonia_oreas,master,-119.2833,50.3167,1999,4,10,
+L_Kond_22887,Polygonia oreas ,Polygonia_oreas,master,-119.2833,50.3167,2005,4,25,kondla
+L_Kond_23196,Polygonia oreas ,Polygonia_oreas,master,-119.2833,50.3167,2006,8,7,kondla
+L_Kond_23787,Polygonia oreas ,Polygonia_oreas,master,-119.2833,50.3167,2008,5,28,kondla
+EB-79404,Polygonia oreas,Polygonia_oreas,master,-119.337673,50.03322,2014,6,8,Logan  Lalonde
+CBIF06_65033,Polygonia oreas,Polygonia_oreas,master,-119.43,52.96,1983,8,26,guy
+1351180,,Polygonia_oreas,master,-119.4333,52.9667,1983,8,26,
+CBIF06_77354,Polygonia oreas,Polygonia_oreas,master,-119.5,49.07,1987,10,1,guy
+1304056,,Polygonia_oreas,master,-119.5085,49.0743,1987,10,1,
+L_RBCM_6860,Polygonia oreas,Polygonia_oreas,master,-119.5403,49.0822,1987,10,1,rbcm
+1304036,,Polygonia_oreas,master,-119.55,49.1833,1933,4,27,
+CBIF06_65030,Polygonia oreas,Polygonia_oreas,master,-119.55,49.18,1933,4,27,guy
+EB-401,Polygonia oreas,Polygonia_oreas,master,-119.84953,49.27313,2011,7,18,Maxim Larriv_e
+EB-60091,Polygonia oreas,Polygonia_oreas,master,-119.84953,49.27313,2011,7,18,eButterfly Admin
+L_Kond_11562,Polygonia oreas threatfuli,Polygonia_oreas,master,-120.1597,50.7551,1994,5,22,kondla
+L_Kond_6584,Polygonia oreas threatfuli,Polygonia_oreas,master,-120.3444,49.0561,1998,6,11,kondla
+1339229,,Polygonia_oreas,master,-120.3444,49.0561,1998,6,11,
+L_Kond_23064,Polygonia oreas ,Polygonia_oreas,master,-120.6269,49.8094,2005,6,9,kondla
+CBIF06_65032,Polygonia oreas,Polygonia_oreas,master,-120.8,49.1,1974,8,4,guy
+1348783,,Polygonia_oreas,master,-120.8,49.1,1974,8,4,
+CBIF06_69845,Polygonia oreas,Polygonia_oreas,master,-120.87,49.81,1920,6,30,guy
+1323145,,Polygonia_oreas,master,-120.875,49.8181,1920,6,30,
+L_Kond_12454,Polygonia oreas silenus,Polygonia_oreas,master,-121.25,49.1333,2000,5,25,kondla
+L_Kond_12456,Polygonia oreas silenus,Polygonia_oreas,master,-121.25,49.1333,2000,5,25,kondla
+L_Kond_14311,Polygonia oreas ,Polygonia_oreas,master,-121.25,49.1333,2001,5,23,kondla
+L_Kond_16647,Polygonia oreas ,Polygonia_oreas,master,-121.25,49.1333,2002,5,16,kondla
+L_Kond_16611,Polygonia oreas ,Polygonia_oreas,master,-121.25,49.1333,2002,6,10,kondla
+CBIF06_86222,Polygonia oreas,Polygonia_oreas,master,-121.42,51.03,1969,7,11,guy
+1347871,,Polygonia_oreas,master,-121.4292,51.0383,1969,7,11,
+CBIF06_77332,Polygonia oreas,Polygonia_oreas,master,-121.43,49.56,1914,7,23,guy
+L_RBCM_548,Polygonia oreas,Polygonia_oreas,master,-121.4306,49.5631,1914,7,23,rbcm
+1341059,,Polygonia_oreas,master,-121.4333,49.5667,1914,7,23,
+1341026,,Polygonia_oreas,master,-121.45,49.3833,1942,7,5,
+CBIF06_77344,Polygonia oreas,Polygonia_oreas,master,-121.45,49.38,1942,7,5,guy
+L_RBCM_1971,Polygonia oreas,Polygonia_oreas,master,-121.4569,49.3833,1942,7,5,rbcm
+CBIF06_65027,Polygonia oreas,Polygonia_oreas,master,-121.76,49.23,1909,7,25,guy
+1302462,,Polygonia_oreas,master,-121.7667,49.2333,1909,7,25,
+CBIF06_65029,Polygonia oreas,Polygonia_oreas,master,-121.83,49,1927,8,1,guy
+1303550,,Polygonia_oreas,master,-121.8333,49,1927,8,1,
+L_Shep_11569,Polygonia oreas threatfuli,Polygonia_oreas,master,-121.9333,50.6833,1896,4,5,guppy
+CBIF06_69842,Polygonia oreas,Polygonia_oreas,master,-121.95,49.25,1890,7,24,guy
+1342543,,Polygonia_oreas,master,-121.95,49.25,1890,7,24,
+L_Kond_23994,Polygonia oreas threatfuli,Polygonia_oreas,master,-121.9511,51.2959,2008,6,12,kondla
+G_17035,Polygonia oreas,Polygonia_oreas,master,-122.32455,52.90943,1996,4,6,Guppy
+CBIF06_77345,Polygonia oreas,Polygonia_oreas,master,-122.91,49.21,1943,5,13,guy
+L_RBCM_2192,Polygonia oreas,Polygonia_oreas,master,-122.9122,49.2047,1943,5,13,rbcm
+1323002,,Polygonia_oreas,master,-122.9167,49.2167,1943,5,13,
+CBIF06_65026,Polygonia oreas,Polygonia_oreas,master,-123.11,49.25,1903,5,3,guy
+1304719,,Polygonia_oreas,master,-123.1167,49.25,1903,5,3,
+CBIF06_77339,Polygonia oreas,Polygonia_oreas,master,-123.16,49.36,1932,4,24,guy
+L_RBCM_1436,Polygonia oreas,Polygonia_oreas,master,-123.1625,49.3314,1932,4,24,rbcm
+1332829,,Polygonia_oreas,master,-123.1667,49.3667,1932,4,24,
+G_17037,Polygonia oreas,Polygonia_oreas,master,-123.20509,49.24937,1972,6,19,Guppy
+L_Shep_4442,Polygonia oreas silenus,Polygonia_oreas,master,-123.35,48.4833,1945,7,14,guppy
+L_Shep_12457,Polygonia oreas silenus,Polygonia_oreas,master,-123.35,48.4167,1902,9,5,guppy
+L_Shep_914,Polygonia oreas silenus,Polygonia_oreas,master,-123.35,48.4167,1923,5,24,guppy
+L_Shep_1080,Polygonia oreas silenus,Polygonia_oreas,master,-123.35,48.4167,1923,7,20,guppy
+CBIF06_65025,Polygonia oreas,Polygonia_oreas,master,-123.36,48.43,1885,5,25,guy
+CBIF06_77329,Polygonia oreas,Polygonia_oreas,master,-123.36,48.43,1902,9,5,guy
+CBIF06_65028,Polygonia oreas,Polygonia_oreas,master,-123.36,48.43,1917,5,23,guy
+CBIF06_77328,Polygonia oreas,Polygonia_oreas,master,-123.36,48.41,1900,6,27,guy
+L_RBCM_136,Polygonia oreas,Polygonia_oreas,master,-123.365,48.4133,1900,6,27,rbcm
+1304795,,Polygonia_oreas,master,-123.3667,48.4333,1885,5,25,
+1327458,,Polygonia_oreas,master,-123.3667,48.4333,1902,9,5,
+1304822,,Polygonia_oreas,master,-123.3667,48.4333,1917,5,23,
+1327848,,Polygonia_oreas,master,-123.3667,48.4167,1900,6,27,
+L_RBCM_196,Polygonia oreas,Polygonia_oreas,master,-123.3731,48.4233,1902,9,5,rbcm
+L_RBCM_272,Polygonia oreas,Polygonia_oreas,master,-123.5467,48.4792,1903,4,6,rbcm
+L_RBCM_274,Polygonia oreas,Polygonia_oreas,master,-123.5467,48.4792,1903,9,6,rbcm
+L_Shep_1906,Polygonia oreas silenus,Polygonia_oreas,master,-123.55,48.65,1931,4,23,guppy
+L_Shep_2463,Polygonia oreas silenus,Polygonia_oreas,master,-123.55,48.65,1932,8,19,guppy
+L_Shep_3405,Polygonia oreas silenus,Polygonia_oreas,master,-123.55,48.65,1936,7,30,guppy
+L_Shep_3412,Polygonia oreas silenus,Polygonia_oreas,master,-123.55,48.65,1936,8,6,guppy
+L_Shep_3415,Polygonia oreas silenus,Polygonia_oreas,master,-123.55,48.65,1936,8,8,guppy
+L_Shep_3416,Polygonia oreas silenus,Polygonia_oreas,master,-123.55,48.65,1936,8,10,guppy
+L_Shep_3419,Polygonia oreas silenus,Polygonia_oreas,master,-123.55,48.65,1936,8,14,guppy
+L_Shep_3668,Polygonia oreas silenus,Polygonia_oreas,master,-123.55,48.65,1937,7,26,guppy
+1341025,,Polygonia_oreas,master,-123.55,48.4667,1903,4,6,
+L_Shep_12638,Polygonia oreas silenus,Polygonia_oreas,master,-123.55,48.4667,1903,9,6,guppy
+1332745,,Polygonia_oreas,master,-123.55,48.4667,1903,9,6,
+CBIF06_77331,Polygonia oreas,Polygonia_oreas,master,-123.55,48.46,1903,4,6,guy
+CBIF06_77330,Polygonia oreas,Polygonia_oreas,master,-123.55,48.46,1903,9,6,guy
+CBIF06_77335,Polygonia oreas,Polygonia_oreas,master,-123.63,48.61,1931,4,23,guy
+CBIF06_77340,Polygonia oreas,Polygonia_oreas,master,-123.63,48.61,1932,5,3,guy
+CBIF06_77338,Polygonia oreas,Polygonia_oreas,master,-123.63,48.61,1932,8,19,guy
+CBIF06_77341,Polygonia oreas,Polygonia_oreas,master,-123.63,48.61,1933,9,29,guy
+1332780,,Polygonia_oreas,master,-123.6333,48.6167,1931,4,23,
+1332790,,Polygonia_oreas,master,-123.6333,48.6167,1932,5,3,
+1304430,,Polygonia_oreas,master,-123.6333,48.6167,1932,8,19,
+1332791,,Polygonia_oreas,master,-123.6333,48.6167,1933,9,29,
+L_RBCM_1409,Polygonia oreas,Polygonia_oreas,master,-123.6336,48.6497,1931,4,23,rbcm
+L_RBCM_1478,Polygonia oreas,Polygonia_oreas,master,-123.6336,48.6497,1932,5,3,rbcm
+L_RBCM_1480,Polygonia oreas,Polygonia_oreas,master,-123.6336,48.6497,1932,8,19,rbcm
+L_RBCM_1557,Polygonia oreas,Polygonia_oreas,master,-123.6336,48.6497,1933,9,29,rbcm
+CBIF06_77333,Polygonia oreas,Polygonia_oreas,master,-123.66,48.79,1918,8,2,guy
+1332771,,Polygonia_oreas,master,-123.667,48.7932,1918,8,2,
+L_RBCM_714,Polygonia oreas,Polygonia_oreas,master,-123.6672,48.7997,1918,8,2,rbcm
+1302855,,Polygonia_oreas,master,-123.7,48.7833,1905,8,26,
+L_RBCM_1129,Polygonia oreas,Polygonia_oreas,master,-123.7,48.7833,1921,4,8,rbcm
+L_Shep_455,Polygonia oreas silenus,Polygonia_oreas,master,-123.7,48.7833,1921,4,8,guppy
+1341019,,Polygonia_oreas,master,-123.7,48.7833,1921,4,8,
+1332738,,Polygonia_oreas,master,-123.7,48.7833,1931,7,8,
+L_Shep_3061,Polygonia oreas silenus,Polygonia_oreas,master,-123.7,48.7833,1934,7,24,guppy
+1302873,,Polygonia_oreas,master,-123.7,48.7833,1934,7,24,
+CBIF06_69843,Polygonia oreas,Polygonia_oreas,master,-123.7,48.78,1905,8,26,guy
+CBIF06_77334,Polygonia oreas,Polygonia_oreas,master,-123.7,48.78,1921,4,8,guy
+CBIF06_77336,Polygonia oreas,Polygonia_oreas,master,-123.7,48.78,1931,7,8,guy
+CBIF06_77342,Polygonia oreas,Polygonia_oreas,master,-123.7,48.78,1934,7,24,guy
+L_RBCM_1422,Polygonia oreas,Polygonia_oreas,master,-123.7078,48.7797,1931,7,8,rbcm
+L_RBCM_1624,Polygonia oreas,Polygonia_oreas,master,-123.7078,48.7797,1934,7,24,rbcm
+L_Shep_14010,Polygonia oreas silenus,Polygonia_oreas,master,-123.7833,48.7667,1918,7,11,guppy
+L_Shep_3393,Polygonia oreas silenus,Polygonia_oreas,master,-123.7833,48.7667,1936,7,2,guppy
+L_Shep_3399,Polygonia oreas silenus,Polygonia_oreas,master,-123.7833,48.7667,1936,7,21,guppy
+L_Shep_3400,Polygonia oreas silenus,Polygonia_oreas,master,-123.7833,48.7667,1936,7,24,guppy
+L_Shep_3408,Polygonia oreas silenus,Polygonia_oreas,master,-123.7833,48.7667,1936,7,31,guppy
+L_Shep_3410,Polygonia oreas silenus,Polygonia_oreas,master,-123.7833,48.7667,1936,8,2,guppy
+CBIF06_69844,Polygonia oreas,Polygonia_oreas,master,-123.96,49.2,1913,7,5,guy
+1352613,,Polygonia_oreas,master,-123.9667,49.2,1913,7,5,
+L_Shep_12458,Polygonia oreas silenus,Polygonia_oreas,master,-124.0333,49.2,1903,4,16,guppy
+L_Shep_6649,Polygonia oreas silenus,Polygonia_oreas,master,-124.0333,49.2,1958,6,25,guppy
+L_Shep_6653,Polygonia oreas silenus,Polygonia_oreas,master,-124.0333,49.2,1958,7,1,guppy
+L_Shep_6654,Polygonia oreas silenus,Polygonia_oreas,master,-124.0333,49.2,1958,7,2,guppy
+L_Shep_6666,Polygonia oreas silenus,Polygonia_oreas,master,-124.0333,49.2,1958,7,8,guppy
+L_Shep_1953,Polygonia oreas silenus,Polygonia_oreas,master,-124.3,49.3167,1931,5,25,guppy
+L_Shep_5218,Polygonia oreas silenus,Polygonia_oreas,master,-124.3,49.3167,1952,9,12,guppy
+CBIF06_77337,Polygonia oreas,Polygonia_oreas,master,-124.31,49.31,1931,5,25,guy
+L_RBCM_1426,Polygonia oreas,Polygonia_oreas,master,-124.3167,49.3167,1931,5,25,rbcm
+1328081,,Polygonia_oreas,master,-124.3167,49.3167,1931,5,25,
+CBIF06_77343,Polygonia oreas,Polygonia_oreas,master,-124.36,49.28,1940,8,2,guy
+CBIF06_77346,Polygonia oreas,Polygonia_oreas,master,-124.36,49.28,1951,7,2,guy
+CBIF06_77347,Polygonia oreas,Polygonia_oreas,master,-124.36,49.28,1951,9,2,guy
+CBIF06_77348,Polygonia oreas,Polygonia_oreas,master,-124.36,49.28,1952,5,26,guy
+CBIF06_77349,Polygonia oreas,Polygonia_oreas,master,-124.36,49.28,1955,8,2,guy
+L_Shep_4360,Polygonia oreas silenus,Polygonia_oreas,master,-124.3667,49.2833,1940,8,2,guppy
+1341020,,Polygonia_oreas,master,-124.3667,49.2833,1940,8,2,
+L_Shep_4744,Polygonia oreas silenus,Polygonia_oreas,master,-124.3667,49.2833,1950,4,28,guppy
+L_Shep_4919,Polygonia oreas silenus,Polygonia_oreas,master,-124.3667,49.2833,1951,7,2,guppy
+1327901,,Polygonia_oreas,master,-124.3667,49.2833,1951,7,2,
+L_Shep_4943,Polygonia oreas silenus,Polygonia_oreas,master,-124.3667,49.2833,1951,9,2,guppy
+1302904,,Polygonia_oreas,master,-124.3667,49.2833,1951,9,2,
+L_Shep_4962,Polygonia oreas silenus,Polygonia_oreas,master,-124.3667,49.2833,1952,4,18,guppy
+1302906,,Polygonia_oreas,master,-124.3667,49.2833,1952,5,26,
+L_Shep_5264,Polygonia oreas silenus,Polygonia_oreas,master,-124.3667,49.2833,1953,5,6,guppy
+L_Shep_5415,Polygonia oreas silenus,Polygonia_oreas,master,-124.3667,49.2833,1953,5,26,guppy
+L_Shep_6306,Polygonia oreas silenus,Polygonia_oreas,master,-124.3667,49.2833,1955,8,2,guppy
+1341021,,Polygonia_oreas,master,-124.3667,49.2833,1955,8,2,
+L_RBCM_1769,Polygonia oreas,Polygonia_oreas,master,-124.3667,49.2831,1940,8,2,rbcm
+L_RBCM_3478,Polygonia oreas,Polygonia_oreas,master,-124.3667,49.2831,1951,7,2,rbcm
+L_RBCM_3479,Polygonia oreas,Polygonia_oreas,master,-124.3667,49.2831,1951,9,2,rbcm
+L_RBCM_3694,Polygonia oreas,Polygonia_oreas,master,-124.3667,49.2831,1952,5,26,rbcm
+L_RBCM_3695,Polygonia oreas,Polygonia_oreas,master,-124.3667,49.2831,1952,5,26,rbcm
+L_RBCM_4048,Polygonia oreas,Polygonia_oreas,master,-124.3667,49.2831,1955,8,2,rbcm
+CBIF06_65031,Polygonia oreas,Polygonia_oreas,master,-124.66,49.43,1955,5,31,guy
+1302667,,Polygonia_oreas,master,-124.6667,49.4333,1955,5,31,
+L_RBCM_4178,Polygonia oreas,Polygonia_oreas,master,-125.1617,49.6606,1957,8,27,rbcm
+L_Shep_6529,Polygonia oreas silenus,Polygonia_oreas,master,-125.2,49.65,1957,8,28,guppy
+L_Shep_6875,Polygonia oreas silenus,Polygonia_oreas,master,-125.2,49.65,1959,7,22,guppy
+CBIF06_77350,Polygonia oreas,Polygonia_oreas,master,-125.22,49.64,1957,8,28,guy
+CBIF06_77353,Polygonia oreas,Polygonia_oreas,master,-125.22,49.64,1959,7,22,guy
+1341031,,Polygonia_oreas,master,-125.2207,49.643,1957,8,28,
+1327726,,Polygonia_oreas,master,-125.2207,49.643,1959,7,22,
+L_RBCM_4181,Polygonia oreas,Polygonia_oreas,master,-125.2233,49.6494,1957,8,28,rbcm
+L_RBCM_4321,Polygonia oreas,Polygonia_oreas,master,-125.2747,49.6511,1959,7,22,rbcm
+L_Shep_6521,Polygonia oreas silenus,Polygonia_oreas,master,-125.3,49.6833,1957,8,14,guppy
+CBIF06_77351,Polygonia oreas,Polygonia_oreas,master,-125.31,49.68,1957,8,14,guy
+CBIF06_77352,Polygonia oreas,Polygonia_oreas,master,-125.31,49.68,1957,8,27,guy
+1318505,,Polygonia_oreas,master,-125.3167,49.6833,1957,8,14,
+1341023,,Polygonia_oreas,master,-125.3167,49.6833,1957,8,27,
+L_RBCM_4198,Polygonia oreas,Polygonia_oreas,master,-125.3178,49.6825,1957,8,14,rbcm
+CBIF06_86221,Polygonia oreas,Polygonia_oreas,master,-125.5,49.5,1913,7,5,guy
