@@ -1,4 +1,4 @@
-,old_name,final_name,prov,longitude,latitude,year,month,day,collector
+,old_name,final_name,source,longitude,latitude,year,month,day,collector
 80,"Colias tyche (Bober, 1812)",Colias_tyche,gbif,-145.586925,69.571329,2018,6,26,
 226,"Colias tyche thula Hovanitz, 1955",Colias_tyche,gbif,-149.608611,68.046111,2015,6,14,
 227,"Colias tyche thula Hovanitz, 1955",Colias_tyche,gbif,-148.427778,70.194167,2015,6,23,
