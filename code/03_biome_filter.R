@@ -40,6 +40,8 @@ calculate_accuracy_biome <- function(species_ecoregion, level, proportion_data, 
   
   table_outliers_cum <- table(species_ecoregion_outlier$outliers, species_ecoregion_outlier$ecoregion_outlier_cum)
   
+  ## return all values 
+  
   data.frame(level = level, proportion_data = proportion_data, proportion_cumulative = proportion_cumulative,
              sensitivity_prop = table_outliers_prop[2,2]/sum(table_outliers_prop[2,2], table_outliers_prop[2,1]),
              specificity_prop = table_outliers_prop[1,1]/sum(table_outliers_prop[1,1], table_outliers_prop[1,2]),
@@ -61,18 +63,26 @@ ecoregion <- read_sf('biome_raw_files/na_cec_eco_l3')
 
 ecoregion_crs <- ecoregion %>% st_crs()
 
-## read the species file ##
+## read the species files ##
 
 species_files <- list.files('data/', full.names = TRUE)
 
 species_outputs <- list()
 
+## loop over all species files
+
 for(file_s in species_files){
+  
+  # extract species names from the file
   
   species_name <- str_extract(file_s, "[A-Z][a-z]+\\_[a-z]+")
   
+  # filter any latitude and logitude and read the file
+  
   species_data <- read.csv(file_s) %>% 
     filter(!is.na(longitude) & !is.na(latitude))
+  
+  # transform coordinates into sf object and change crs to match ecoregion crs
   
   species_lat <- st_as_sf(species_data, coords = c("longitude", "latitude"), 
                           crs = 4326) %>% 
@@ -82,20 +92,30 @@ for(file_s in species_files){
   
   species_ecoregion <- st_join(species_lat, ecoregion, join = st_within)
   
+  ## parameters that we want to test for ecoregion level and proportions used
+  
   level_test <- cbind(expand.grid(level = c(1:3), proportion_data = c(0.001, 0.01, 0.1)), expand.grid(level = c(1:3), proportion_cumulative = c(0.9, 0.95, 0.99)))
   
+  ## run the accuracy function for all combinations of the level-test
   
   biome_outlier_test <- lapply(1:nrow(level_test), FUN = function(x) calculate_accuracy_biome(species_ecoregion = species_ecoregion, 
                                                                                               level = level_test$level[x], 
                                                                                               proportion_data = level_test$proportion_data[x], 
                                                                                               proportion_cumulative = level_test$proportion_cumulative[x]))
+  
+  
+  ## output in list 
   species_outputs[[species_name]] <- rbindlist(biome_outlier_test)
   
 }
 
 
+## put all of the list files into a single dataframe
+
 species_outputs_all <- species_outputs %>% 
   map_df(~as.data.frame(.x), .id = 'finalname')
+
+## split the data into the proportion and cumulative proportion results
 
 species_output_prop <- species_outputs_all %>% 
   select(level, proportion_data, finalname,total_number_outliers, total_number_points,  sensitivity_prop:accuracy_prop) %>% 
@@ -111,7 +131,7 @@ species_output_cum <- species_outputs_all %>%
   rename(proportion = proportion_cumulative)
 
 
-## plot the results for each species:
+## plot the results for each species across proportions
 
 
 species_output_prop %>% 
@@ -130,13 +150,15 @@ species_output_cum %>%
   theme_cowplot()
 
 
-### find the combination that has the accuracy and sensitivity 
-
+## join the proportion and cumulative proportion data
+## calculate tss
 
 species_outputs_combined <- bind_rows(species_output_prop, species_output_cum) %>% 
   mutate(test = str_remove(test, "\\_[a-z]+")) %>% 
   pivot_wider(names_from = test, values_from = values) %>%
   mutate(tss = sensitivity + specificity - 1)
+
+## maximize tss
 
 species_outputs_combined %>% 
   group_by(finalname) %>% 
