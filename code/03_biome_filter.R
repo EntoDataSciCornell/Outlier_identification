@@ -79,7 +79,7 @@ ecoregion_crs <- ecoregion %>% st_crs()
 
 ## read the species files ##
 
-species_files <- list.files('data/', full.names = TRUE)
+species_files <- list.files('data/labeled_outlier_files/', full.names = TRUE)
 
 species_outputs <- list()
 
