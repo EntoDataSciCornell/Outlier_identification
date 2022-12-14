@@ -1,0 +1,635 @@
+,old_name,final_name,source,longitude,latitude,year,month,day,outliers
+0,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-71.815448,42.624639,2019.0,5.0,25.0,0
+1,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-71.861076,42.693911,2019.0,5.0,25.0,0
+2,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-65.938254,45.89218,2019.0,5.0,28.0,0
+3,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-77.011401,45.654237,2018.0,5.0,23.0,0
+4,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-77.120688,45.664724,2018.0,5.0,23.0,0
+5,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-66.178769,46.171227,2018.0,5.0,19.0,0
+6,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-64.619503,46.284896,2018.0,6.0,12.0,0
+7,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-76.211111,44.956944,2016.0,5.0,25.0,0
+8,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-77.693056,46.173333,2016.0,5.0,21.0,0
+9,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-65.996471,46.893843,2016.0,6.0,2.0,0
+10,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.843652,45.756229,2013.0,6.0,3.0,0
+11,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-70.625551,46.788056,2011.0,6.0,11.0,0
+12,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.886652,45.815024,2011.0,6.0,5.0,0
+13,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.709758,45.657272,2010.0,5.0,15.0,0
+14,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.709758,45.657272,2009.0,5.0,25.0,0
+15,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.709758,45.657272,2009.0,5.0,15.0,0
+16,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.616694,45.185336,2008.0,6.0,10.0,0
+17,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.709758,45.657272,2005.0,6.0,3.0,0
+18,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-66.670833,45.906667,1998.0,4.0,20.0,0
+19,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-66.670833,45.906667,1998.0,4.0,18.0,0
+20,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-66.670833,45.906667,1998.0,4.0,18.0,0
+21,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.9667,45.1167,1998.0,5.0,16.0,0
+22,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.88,45.07,1997.0,5.0,27.0,0
+23,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.88,45.07,1997.0,5.0,27.0,0
+24,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.97,45.12,1997.0,5.0,27.0,0
+25,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.97,45.12,1997.0,5.0,27.0,0
+26,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.8833,45.0667,1997.0,5.0,27.0,0
+27,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.8833,45.0667,1997.0,5.0,27.0,0
+28,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.8833,45.0667,1997.0,5.0,31.0,0
+29,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.9667,45.1167,1997.0,5.0,31.0,0
+30,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.9667,45.1167,1997.0,5.0,27.0,0
+31,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.959722,45.129167,1996.0,5.0,10.0,0
+32,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.959722,45.129167,1996.0,5.0,28.0,0
+33,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.9833,45.1167,1996.0,5.0,19.0,0
+34,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.9833,45.1167,1996.0,5.0,19.0,0
+35,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-65.467369,47.369645,1996.0,6.0,3.0,0
+36,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.8167,45.5,1994.0,6.0,5.0,0
+37,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.8167,45.5,1991.0,5.0,19.0,0
+38,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-71.307033,46.649583,1989.0,5.0,25.0,0
+39,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-71.307033,46.649583,1989.0,5.0,25.0,0
+40,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.82,45.05,1988.0,5.0,29.0,0
+41,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.82,45.05,1988.0,5.0,29.0,0
+42,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1986.0,5.0,10.0,0
+43,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1986.0,5.0,19.0,0
+44,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-70.56867,44.0091,1984.0,5.0,22.0,0
+45,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-70.56867,44.0091,1984.0,5.0,22.0,0
+46,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.82,45.05,1984.0,5.0,28.0,0
+47,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+48,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.82,45.05,1983.0,5.0,29.0,0
+49,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.82,45.05,1983.0,5.0,29.0,0
+50,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.8167,45.5,1983.0,5.0,29.0,0
+51,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+52,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+53,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+54,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+55,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+56,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+57,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+58,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+59,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+60,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+61,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+62,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+63,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+64,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+65,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+66,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+67,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+68,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+69,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+70,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+71,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+72,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,5.0,21.0,0
+73,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,6.0,21.0,0
+74,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,6.0,21.0,0
+75,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,6.0,21.0,0
+76,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,6.0,21.0,0
+77,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1983.0,6.0,21.0,0
+78,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.82,45.05,1982.0,5.0,22.0,0
+79,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.8167,45.5,1982.0,5.0,22.0,0
+80,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.8167,45.5,1982.0,5.0,22.0,0
+81,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.8167,45.5,1982.0,5.0,22.0,0
+82,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.8167,45.5,1982.0,5.0,22.0,0
+83,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.8167,45.5,1982.0,5.0,22.0,0
+84,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1980.0,5.0,24.0,0
+85,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1979.0,5.0,9.0,0
+86,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1979.0,5.0,23.0,0
+87,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1979.0,5.0,23.0,0
+88,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1979.0,5.0,23.0,0
+89,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1979.0,5.0,22.0,0
+90,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1979.0,5.0,23.0,0
+91,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1979.0,5.0,22.0,0
+92,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1978.0,5.0,24.0,0
+93,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1978.0,5.0,27.0,0
+94,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1978.0,5.0,23.0,0
+95,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1978.0,5.0,24.0,0
+96,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1978.0,5.0,22.0,0
+97,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1977.0,5.0,30.0,0
+98,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1977.0,5.0,20.0,0
+99,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1977.0,5.0,20.0,0
+100,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.3,45.9833,1977.0,5.0,22.0,0
+101,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1977.0,5.0,26.0,0
+102,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1977.0,5.0,21.0,0
+103,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1977.0,5.0,21.0,0
+104,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1976.0,5.0,16.0,0
+105,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1976.0,5.0,16.0,0
+106,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1976.0,5.0,11.0,0
+107,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1976.0,5.0,1.0,0
+108,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1976.0,5.0,14.0,0
+109,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1976.0,5.0,14.0,0
+110,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1976.0,5.0,14.0,0
+111,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-64.3167,44.5333,1976.0,5.0,6.0,0
+112,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-66.4167,46.45,1974.0,6.0,14.0,0
+113,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1973.0,6.0,5.0,0
+114,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1973.0,6.0,5.0,0
+115,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1973.0,6.0,2.0,0
+116,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-63.5333,44.95,1973.0,7.0,10.0,0
+117,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-74.8167,45.5333,1972.0,5.0,22.0,0
+118,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1967.0,6.0,3.0,0
+119,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1967.0,6.0,3.0,0
+120,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1967.0,6.0,3.0,0
+121,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-66.615,45.6603,1967.0,6.0,24.0,0
+122,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-64.3167,44.6167,1967.0,7.0,20.0,0
+123,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1966.0,5.0,21.0,0
+124,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1966.0,5.0,21.0,0
+125,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1966.0,5.0,23.0,0
+126,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1966.0,5.0,23.0,0
+127,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1966.0,5.0,23.0,0
+128,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1966.0,5.0,26.0,0
+129,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1966.0,5.0,23.0,0
+130,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.616694,45.185336,1966.0,5.0,22.0,0
+131,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.594721,45.186304,1966.0,5.0,23.0,0
+132,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.5689,45.2489,1965.0,5.0,16.0,0
+133,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.21667,45.96667,1961.0,6.0,2.0,0
+134,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1960.0,5.0,21.0,0
+135,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1959.0,3.0,21.0,0
+136,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1959.0,3.0,19.0,0
+137,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1959.0,5.0,21.0,0
+138,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1959.0,5.0,19.0,0
+139,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.6172,45.1853,1959.0,5.0,13.0,0
+140,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1957.0,5.0,27.0,0
+141,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.5689,45.2489,1957.0,6.0,1.0,0
+142,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.5056,45.3622,1953.0,5.0,24.0,0
+143,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.5056,45.3622,1953.0,5.0,24.0,0
+144,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1953.0,5.0,23.0,0
+145,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-65.3333,46.9667,1952.0,2.0,18.0,0
+146,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1952.0,5.0,24.0,0
+147,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.5056,45.3622,1950.0,5.0,30.0,0
+148,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.505024,45.362278,1950.0,5.0,30.0,0
+149,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.505024,45.362278,1950.0,5.0,30.0,0
+150,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.5056,45.3622,1949.0,5.0,22.0,0
+151,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1949.0,5.0,15.0,0
+152,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1949.0,5.0,16.0,0
+153,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1948.0,5.0,31.0,0
+154,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1947.0,5.0,31.0,0
+155,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-66.8333,45.1667,1945.0,2.0,14.0,0
+156,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1945.0,5.0,30.0,0
+157,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1941.0,5.0,16.0,0
+158,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1941.0,5.0,11.0,0
+159,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-66.1667,46.2,1940.0,2.0,13.0,0
+160,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-65.4167,47.5833,1940.0,2.0,14.0,0
+161,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-69.901727,45.429771,1940.0,4.0,2.0,0
+162,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1940.0,5.0,29.0,0
+163,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1940.0,5.0,29.0,0
+164,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1940.0,5.0,29.0,0
+165,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.505024,45.362278,1940.0,5.0,25.0,0
+166,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1940.0,6.0,2.0,0
+167,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1940.0,6.0,20.0,0
+168,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-67.4689,45.8953,1939.0,3.0,29.0,0
+169,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1939.0,5.0,21.0,0
+170,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1939.0,5.0,21.0,0
+171,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.5056,45.3622,1939.0,5.0,26.0,0
+172,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.21667,45.96667,1938.0,5.0,22.0,0
+173,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.5056,45.3622,1938.0,5.0,30.0,0
+174,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.5056,45.3622,1938.0,5.0,28.0,0
+175,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1938.0,5.0,22.0,0
+176,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1937.0,5.0,23.0,0
+177,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1937.0,5.0,30.0,0
+178,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.21667,45.96667,1936.0,5.0,24.0,0
+179,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1935.0,6.0,2.0,0
+180,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1935.0,6.0,2.0,0
+181,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1935.0,6.0,2.0,0
+182,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.78933,44.99094,1934.0,5.0,23.0,0
+183,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.3,45.9833,1934.0,5.0,27.0,0
+184,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1934.0,5.0,27.0,0
+185,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.3,45.9833,1933.0,5.0,21.0,0
+186,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1933.0,5.0,2.0,0
+187,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-73.2167,45.9667,1932.0,6.0,12.0,0
+188,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.505024,45.362278,1700.0,1.0,1.0,0
+189,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-68.57652,45.18236,,,,0
+190,"Callophrys lanoraieensis (Sheppard, 1934)",Callophrys_lanoraieensis,gbif,-66.2333,45.85,,,,0
+191,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.954865,42.632305,2014.0,5.0,29.0,0
+192,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.58067,45.32308,1950.0,1.0,1.0,0
+193,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-67.67768,44.984932,1950.0,1.0,1.0,0
+194,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.049774,43.29262,1950.0,1.0,1.0,0
+195,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-66.38484,45.99088,2010.0,5.0,14.0,0
+196,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,2006.0,5.0,30.0,0
+197,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-76.178375,43.026817,1950.0,1.0,1.0,0
+198,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.25061,43.81282,1950.0,1.0,1.0,0
+199,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-70.67025,43.41327,1950.0,1.0,1.0,0
+200,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,2011.0,6.0,3.0,0
+201,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,2009.0,5.0,25.0,0
+202,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,2008.0,5.0,26.0,0
+203,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,2007.0,6.0,7.0,0
+204,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,2006.0,5.0,29.0,0
+205,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,2008.0,5.0,25.0,0
+206,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,2008.0,5.0,26.0,0
+207,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,2004.0,5.0,31.0,0
+208,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,2004.0,5.0,20.0,0
+209,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-66.17877,46.171227,2018.0,5.0,19.0,0
+210,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1966.0,5.0,26.0,0
+211,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-64.6195,46.284897,2018.0,6.0,12.0,0
+212,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1977.0,5.0,21.0,0
+213,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1986.0,5.0,10.0,0
+214,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1966.0,5.0,23.0,0
+215,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1939.0,5.0,21.0,0
+216,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.21667,45.96667,1938.0,5.0,22.0,0
+217,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1934.0,5.0,23.0,0
+218,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1978.0,5.0,27.0,0
+219,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1966.0,5.0,21.0,0
+220,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.57652,45.18236,,,,0
+221,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1960.0,5.0,21.0,0
+222,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.5689,45.2489,1965.0,5.0,16.0,0
+223,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1976.0,5.0,14.0,0
+224,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1945.0,5.0,30.0,0
+225,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1980.0,5.0,24.0,0
+226,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1959.0,5.0,19.0,0
+227,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1973.0,6.0,5.0,0
+228,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1959.0,5.0,13.0,0
+229,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1966.0,5.0,23.0,0
+230,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1978.0,5.0,24.0,0
+231,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1976.0,5.0,16.0,0
+232,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.940285,42.311695,2004.0,5.0,30.0,0
+233,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.940285,42.311695,2008.0,5.0,26.0,0
+234,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.940285,42.311695,2014.0,5.0,26.0,0
+235,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.82,45.05,1983.0,5.0,29.0,0
+236,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.657486,45.390602,1950.0,5.0,30.0,0
+237,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.657486,45.390602,1950.0,5.0,30.0,0
+238,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.30703,46.649582,1989.0,5.0,25.0,0
+239,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.82,45.05,1983.0,5.0,29.0,0
+240,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.82,45.05,1984.0,5.0,28.0,0
+241,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.82,45.05,1988.0,5.0,29.0,0
+242,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.88,45.07,1997.0,5.0,27.0,0
+243,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.88,45.07,1997.0,5.0,27.0,0
+244,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.97,45.12,1997.0,5.0,27.0,0
+245,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.97,45.12,1997.0,5.0,27.0,0
+246,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.82,45.05,1982.0,5.0,22.0,0
+247,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-65.99647,46.893845,2016.0,6.0,2.0,0
+248,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-76.19611,43.00653,1988.0,5.0,9.0,0
+249,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.940285,42.311695,2009.0,5.0,13.0,0
+250,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.940285,42.311695,2008.0,5.0,26.0,0
+251,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.940285,42.311695,2001.0,5.0,29.0,0
+252,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.03593,43.29318,1900.0,1.0,1.0,0
+253,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.30703,46.649582,1989.0,5.0,25.0,0
+254,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.657486,45.390602,1940.0,5.0,25.0,0
+255,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+256,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+257,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+258,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+259,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+260,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+261,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+262,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.657486,45.390602,,,,0
+263,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+264,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+265,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+266,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+267,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+268,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+269,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,1979.0,5.0,23.0,0
+270,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,1979.0,5.0,23.0,0
+271,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,1979.0,5.0,23.0,0
+272,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,1979.0,5.0,22.0,0
+273,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,1979.0,5.0,23.0,0
+274,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+275,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+276,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+277,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+278,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+279,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1959.0,3.0,21.0,0
+280,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1940.0,5.0,29.0,0
+281,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1976.0,5.0,16.0,0
+282,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1940.0,6.0,20.0,0
+283,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1959.0,3.0,19.0,0
+284,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1976.0,5.0,11.0,0
+285,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1976.0,5.0,1.0,0
+286,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1967.0,6.0,3.0,0
+287,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1978.0,5.0,23.0,0
+288,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1939.0,5.0,21.0,0
+289,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1966.0,5.0,21.0,0
+290,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1957.0,5.0,27.0,0
+291,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.5056,45.3622,1949.0,5.0,22.0,0
+292,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.5056,45.3622,1953.0,5.0,24.0,0
+293,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1973.0,6.0,5.0,0
+294,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1959.0,5.0,21.0,0
+295,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1935.0,6.0,2.0,0
+296,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1948.0,5.0,31.0,0
+297,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1940.0,5.0,29.0,0
+298,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1940.0,6.0,2.0,0
+299,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.5689,45.2489,1957.0,6.0,1.0,0
+300,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1966.0,5.0,23.0,0
+301,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1978.0,5.0,24.0,0
+302,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1977.0,5.0,20.0,0
+303,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1976.0,5.0,14.0,0
+304,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1976.0,5.0,14.0,0
+305,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.5056,45.3622,1938.0,5.0,28.0,0
+306,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1979.0,5.0,9.0,0
+307,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1940.0,5.0,29.0,0
+308,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1949.0,5.0,16.0,0
+309,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.21667,45.96667,1961.0,6.0,2.0,0
+310,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.5056,45.3622,1950.0,5.0,30.0,0
+311,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1937.0,5.0,23.0,0
+312,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1977.0,5.0,20.0,0
+313,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1941.0,5.0,16.0,0
+314,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.21667,45.96667,1936.0,5.0,24.0,0
+315,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.5056,45.3622,1938.0,5.0,30.0,0
+316,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1947.0,5.0,31.0,0
+317,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1967.0,6.0,3.0,0
+318,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1977.0,5.0,30.0,0
+319,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.5056,45.3622,1939.0,5.0,26.0,0
+320,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.78933,44.99094,1949.0,5.0,15.0,0
+321,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.5056,45.3622,1953.0,5.0,24.0,0
+322,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1966.0,5.0,23.0,0
+323,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-70.56867,44.0091,1984.0,5.0,22.0,0
+324,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1967.0,6.0,3.0,0
+325,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-64.3167,44.5333,1976.0,5.0,6.0,0
+326,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.3,45.9833,1933.0,5.0,21.0,0
+327,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.3,45.9833,1934.0,5.0,27.0,0
+328,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.3,45.9833,1977.0,5.0,22.0,0
+329,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.8167,45.5333,1972.0,5.0,22.0,0
+330,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.9833,45.1167,1996.0,5.0,19.0,0
+331,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.9833,45.1167,1996.0,5.0,19.0,0
+332,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.8833,45.0667,1997.0,5.0,27.0,0
+333,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.82,45.05,1988.0,5.0,29.0,0
+334,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-77.0114,45.654236,2018.0,5.0,23.0,0
+335,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-77.12069,45.664722,2018.0,5.0,23.0,0
+336,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-67.4689,45.8953,1939.0,3.0,29.0,0
+337,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-66.1667,46.2,1940.0,2.0,13.0,0
+338,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-65.3333,46.9667,1952.0,2.0,18.0,0
+339,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-66.8333,45.1667,1945.0,2.0,14.0,0
+340,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-63.5333,44.95,1973.0,7.0,10.0,0
+341,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-64.3167,44.6167,1967.0,7.0,20.0,0
+342,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-66.2333,45.85,,,,0
+343,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1933.0,5.0,2.0,0
+344,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1932.0,6.0,12.0,0
+345,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1941.0,5.0,11.0,0
+346,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1934.0,5.0,27.0,0
+347,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1952.0,5.0,24.0,0
+348,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1953.0,5.0,23.0,0
+349,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1935.0,6.0,2.0,0
+350,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1978.0,5.0,22.0,0
+351,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1938.0,5.0,22.0,0
+352,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1937.0,5.0,30.0,0
+353,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1935.0,6.0,2.0,0
+354,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1977.0,5.0,26.0,0
+355,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.6172,45.1853,1986.0,5.0,19.0,0
+356,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-70.56867,44.0091,1984.0,5.0,22.0,0
+357,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-65.4167,47.5833,1940.0,2.0,14.0,0
+358,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-66.4167,46.45,1974.0,6.0,14.0,0
+359,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-66.615,45.6603,1967.0,6.0,24.0,0
+360,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-73.2167,45.9667,1977.0,5.0,21.0,0
+361,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+362,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+363,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+364,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+365,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+366,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+367,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+368,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+369,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+370,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,1966.0,5.0,23.0,0
+371,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,,,,0
+372,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.59472,45.186302,1979.0,5.0,22.0,0
+373,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.8833,45.0667,1997.0,5.0,27.0,0
+374,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.8833,45.0667,1997.0,5.0,31.0,0
+375,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.9667,45.1167,1997.0,5.0,31.0,0
+376,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.9667,45.1167,1998.0,5.0,16.0,0
+377,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.9667,45.1167,1997.0,5.0,27.0,0
+378,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.8167,45.5,1982.0,5.0,22.0,0
+379,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.8167,45.5,1982.0,5.0,22.0,0
+380,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.8167,45.5,1982.0,5.0,22.0,0
+381,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.8167,45.5,1983.0,5.0,29.0,0
+382,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.8167,45.5,1982.0,5.0,22.0,0
+383,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.8167,45.5,1994.0,6.0,5.0,0
+384,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.8167,45.5,1982.0,5.0,22.0,0
+385,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-74.8167,45.5,1991.0,5.0,19.0,0
+386,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,2007.0,6.0,6.0,0
+387,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-68.35669,44.57703,1950.0,1.0,1.0,0
+388,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-70.78406,44.49069,1950.0,1.0,1.0,0
+389,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,1999.0,6.0,1.0,0
+390,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,1999.0,5.0,29.0,0
+391,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,1997.0,6.0,1.0,0
+392,Callophrys lanoraieensis,Callophrys_lanoraieensis,bison,-71.85713,42.409653,2004.0,5.0,30.0,0
+393,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1934.0,5.0,23.0,0
+394,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1940.0,5.0,29.0,0
+395,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+396,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+397,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+398,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+399,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1948.0,5.0,31.0,0
+400,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1935.0,6.0,2.0,0
+401,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.505024,45.362278,1700.0,1.0,2.0,0
+402,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+403,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1977.0,5.0,20.0,0
+404,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1957.0,5.0,27.0,0
+405,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.5056,45.3622,1950.0,5.0,30.0,0
+406,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1959.0,5.0,19.0,0
+407,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1967.0,6.0,3.0,0
+408,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+409,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1976.0,5.0,14.0,0
+410,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1959.0,3.0,21.0,0
+411,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+412,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.505024,45.362278,1950.0,5.0,30.0,0
+413,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+414,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1978.0,5.0,27.0,0
+415,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1973.0,6.0,5.0,0
+416,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+417,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+418,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.505024,45.362278,1950.0,5.0,30.0,0
+419,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+420,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.616694,45.185336,1966.0,5.0,22.0,0
+421,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+422,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1966.0,5.0,26.0,0
+423,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.505024,45.362278,1940.0,5.0,25.0,0
+424,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1966.0,5.0,23.0,0
+425,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1978.0,5.0,24.0,0
+426,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.5689,45.2489,1965.0,5.0,16.0,0
+427,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1940.0,5.0,29.0,0
+428,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1966.0,5.0,23.0,0
+429,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+430,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.5056,45.3622,1939.0,5.0,26.0,0
+431,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1980.0,5.0,24.0,0
+432,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.57652,45.18236,,,,0
+433,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+434,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1986.0,5.0,10.0,0
+435,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+436,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-73.21667,45.96667,1961.0,6.0,2.0,0
+437,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1959.0,3.0,19.0,0
+438,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+439,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1976.0,5.0,16.0,0
+440,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1973.0,6.0,5.0,0
+441,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1947.0,5.0,31.0,0
+442,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+443,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1960.0,5.0,21.0,0
+444,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1941.0,5.0,16.0,0
+445,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,1979.0,5.0,23.0,0
+446,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,1979.0,5.0,23.0,0
+447,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1949.0,5.0,15.0,0
+448,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.5056,45.3622,1949.0,5.0,22.0,0
+449,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1967.0,6.0,3.0,0
+450,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+451,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1976.0,5.0,16.0,0
+452,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-66.670833,45.906667,1998.0,4.0,18.0,0
+453,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.5689,45.2489,1957.0,6.0,1.0,0
+454,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+455,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1979.0,5.0,9.0,0
+456,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1939.0,5.0,21.0,0
+457,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1959.0,5.0,21.0,0
+458,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1939.0,5.0,21.0,0
+459,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-66.670833,45.906667,1998.0,4.0,20.0,0
+460,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1937.0,5.0,23.0,0
+461,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+462,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1940.0,6.0,20.0,0
+463,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,1979.0,5.0,23.0,0
+464,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+465,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1959.0,5.0,13.0,0
+466,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,1979.0,5.0,23.0,0
+467,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1986.0,5.0,19.0,0
+468,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.5056,45.3622,1938.0,5.0,30.0,0
+469,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-69.901727,45.429771,1940.0,4.0,2.0,0
+470,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1949.0,5.0,16.0,0
+471,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1966.0,5.0,21.0,0
+472,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1977.0,5.0,20.0,0
+473,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+474,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1978.0,5.0,24.0,0
+475,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,1966.0,5.0,23.0,0
+476,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1976.0,5.0,1.0,0
+477,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.5056,45.3622,1953.0,5.0,24.0,0
+478,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.5056,45.3622,1953.0,5.0,24.0,0
+479,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1940.0,6.0,2.0,0
+480,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1966.0,5.0,23.0,0
+481,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1966.0,5.0,21.0,0
+482,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,1979.0,5.0,22.0,0
+483,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1976.0,5.0,14.0,0
+484,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-70.56867,44.0091,1984.0,5.0,22.0,0
+485,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+486,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-73.21667,45.96667,1938.0,5.0,22.0,0
+487,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-73.21667,45.96667,1936.0,5.0,24.0,0
+488,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1976.0,5.0,11.0,0
+489,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.5056,45.3622,1938.0,5.0,28.0,0
+490,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+491,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1976.0,5.0,14.0,0
+492,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+493,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1977.0,5.0,30.0,0
+494,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1945.0,5.0,30.0,0
+495,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-66.670833,45.906667,1998.0,4.0,18.0,0
+496,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1967.0,6.0,3.0,0
+497,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1966.0,5.0,23.0,0
+498,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+499,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+500,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,1979.0,5.0,22.0,0
+501,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-70.56867,44.0091,1984.0,5.0,22.0,0
+502,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.6172,45.1853,1978.0,5.0,23.0,0
+503,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.594721,45.186304,,,,0
+504,callophrys lanoraieensis,Callophrys_lanoraieensis,idigbio,-68.78933,44.99094,1940.0,5.0,29.0,0
+505,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-63.5333,44.95,1973.0,7.0,10.0,0
+506,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-63.8057,44.8408,2011.0,5.0,23.0,0
+507,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-63.808684,44.838599,2015.0,5.0,30.0,0
+508,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-64.0,45.3,1980.0,5.0,18.0,0
+509,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-64.0833,44.6333,1975.0,5.0,4.0,0
+510,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-64.3167,44.6167,1967.0,7.0,20.0,0
+511,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-64.3167,44.5333,1969.0,4.0,27.0,0
+512,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-64.3167,44.5333,1986.0,6.0,10.0,0
+513,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-64.3167,44.5333,1976.0,5.0,6.0,0
+514,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-64.32331,44.537576,1970.0,6.0,1.0,0
+515,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-64.5167,44.3833,1969.0,5.0,11.0,0
+516,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-64.75,46.7833,1977.0,5.0,24.0,0
+517,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-64.965753,46.222785,2008.0,5.0,30.0,0
+518,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-64.971889,46.224662,2008.0,6.0,3.0,0
+519,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.2963,47.1315,2015.0,5.0,30.0,0
+520,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.3333,46.9667,1952.0,2.0,18.0,0
+521,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.4167,47.5833,1940.0,2.0,14.0,0
+522,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.431985,47.338769,2010.0,5.0,20.0,0
+523,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.439291,47.338637,2014.0,6.0,2.0,0
+524,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.4826,46.6719,2014.0,5.0,30.0,0
+525,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.4901,46.6454,2014.0,5.0,30.0,0
+526,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.4956,46.6637,2014.0,5.0,30.0,0
+527,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.5331,47.1123,2013.0,5.0,15.0,0
+528,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.5446,47.0956,2013.0,5.0,19.0,0
+529,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.5471,47.078,2012.0,5.0,21.0,0
+530,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.550077,47.022194,2014.0,6.0,12.0,0
+531,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.5511,47.1188,2014.0,6.0,1.0,0
+532,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.5995,46.7683,2012.0,5.0,18.0,0
+533,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.5995,46.7683,2012.0,5.0,18.0,0
+534,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.6132,46.9511,2015.0,6.0,4.0,0
+535,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.6799,47.2189,2012.0,5.0,25.0,0
+536,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.711535,46.89575,2015.0,5.0,24.0,0
+537,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.7444,47.2058,2012.0,6.0,7.0,0
+538,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.7444,47.2058,2012.0,6.0,7.0,0
+539,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.773,47.3177,2015.0,6.0,5.0,0
+540,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.781917,46.70615,2012.0,6.0,1.0,0
+541,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.806807,46.708799,2012.0,5.0,22.0,0
+542,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.806807,46.708799,2012.0,5.0,22.0,0
+543,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.825,47.2296,2015.0,6.0,5.0,0
+544,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.864325,46.598683,2014.0,6.0,17.0,0
+545,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.887928,46.640598,2014.0,6.0,1.0,0
+546,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-65.986032,46.417979,2015.0,6.0,5.0,0
+547,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-66.010151,46.729036,2014.0,6.0,8.0,0
+548,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-66.042595,46.451814,2014.0,6.0,3.0,0
+549,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-66.042595,46.451814,2015.0,6.0,5.0,0
+550,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-66.082935,46.509026,2014.0,6.0,3.0,0
+551,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-66.1667,46.2,1940.0,2.0,13.0,0
+552,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-66.2129,47.2238,2015.0,5.0,25.0,0
+553,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-66.4167,46.45,1974.0,6.0,14.0,0
+554,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-66.5315,46.9564,2015.0,5.0,27.0,0
+555,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-66.615,45.6603,1967.0,6.0,24.0,0
+556,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-66.766995,45.68754,2012.0,5.0,18.0,0
+557,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-66.766995,45.68754,2012.0,5.0,18.0,0
+558,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-66.8333,45.1667,1945.0,2.0,14.0,0
+559,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-67.4689,45.8953,1939.0,3.0,29.0,0
+560,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-67.716,47.18317,2012.0,5.0,22.0,0
+561,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-71.739521,45.345329,2008.0,5.0,28.0,0
+562,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-71.739521,45.345329,2008.0,5.0,28.0,0
+563,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-71.882858,45.400379,1991.0,5.0,26.0,0
+564,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-71.882858,45.400379,1991.0,5.0,26.0,0
+565,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-72.0,46.25,1988.0,5.0,20.0,0
+566,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-72.002119,46.36804,2006.0,5.0,27.0,0
+567,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-72.002119,46.36804,2009.0,5.0,9.0,0
+568,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-72.002119,46.36804,2008.0,5.0,10.0,0
+569,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-72.178488,49.502026,1982.0,6.0,6.0,1
+570,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-72.681971,46.285304,2002.0,6.0,1.0,0
+571,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.2167,45.9667,1932.0,6.0,12.0,0
+572,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.2167,45.9667,1933.0,5.0,2.0,0
+573,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.2167,45.9667,1934.0,5.0,27.0,0
+574,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.2167,45.9667,1935.0,6.0,2.0,0
+575,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.2167,45.9667,1937.0,5.0,30.0,0
+576,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.2167,45.9667,1938.0,5.0,22.0,0
+577,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.2167,45.9667,1941.0,5.0,11.0,0
+578,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.2167,45.9667,1952.0,5.0,24.0,0
+579,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.2167,45.9667,1953.0,5.0,23.0,0
+580,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.2167,45.9667,1977.0,5.0,21.0,0
+581,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.2167,45.9667,1977.0,5.0,26.0,0
+582,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.2167,45.9667,1978.0,5.0,22.0,0
+583,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.21967,45.958702,2000.0,6.0,1.0,0
+584,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.299067,45.997178,1999.0,5.0,22.0,0
+585,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.3,45.9833,1933.0,5.0,21.0,0
+586,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.3,45.9833,1934.0,5.0,27.0,0
+587,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-73.3,45.9833,1977.0,5.0,22.0,0
+588,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.81623583,45.50704824,2006.0,5.0,28.0,0
+589,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.81653584,45.50704824,2003.0,3.0,6.0,0
+590,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8166,45.507,2006.0,5.0,28.0,0
+591,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8167,45.5333,1972.0,5.0,22.0,0
+592,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8169,45.507,2003.0,6.0,3.0,0
+593,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8171,45.5007,1983.0,5.0,29.0,0
+594,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8171,45.5007,1984.0,5.0,28.0,0
+595,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8171,45.5007,1988.0,5.0,29.0,0
+596,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8171,45.5007,1982.0,5.0,22.0,0
+597,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8171,45.5007,1983.0,5.0,29.0,0
+598,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8171,45.5007,1991.0,5.0,19.0,0
+599,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8171,45.5007,1994.0,6.0,5.0,0
+600,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8171,45.5007,1991.0,5.0,19.0,0
+601,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8171,45.5007,1994.0,6.0,4.0,0
+602,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8171,45.5007,1988.0,5.0,29.0,0
+603,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.81877812,45.49890918,2007.0,5.0,21.0,0
+604,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8191,45.4989,2007.0,5.0,21.0,0
+605,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.881,45.0675,1997.0,5.0,27.0,0
+606,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.881,45.0675,1997.0,5.0,31.0,0
+607,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.8833,45.0667,1997.0,5.0,27.0,0
+608,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.9667,45.1167,1998.0,5.0,16.0,0
+609,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.972445,45.111562,2012.0,4.0,19.0,0
+610,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.972445,45.111562,2012.0,5.0,14.0,0
+611,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.972445,45.111562,2012.0,4.0,19.0,0
+612,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.972445,45.111562,2012.0,4.0,19.0,0
+613,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.972445,45.111562,2012.0,4.0,19.0,0
+614,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.972445,45.111562,2014.0,5.0,21.0,0
+615,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.9737096,45.111023,2011.0,5.0,13.0,0
+616,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.9737096,45.111023,2011.0,5.0,13.0,0
+617,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.9738,45.1166,2011.0,5.0,21.0,0
+618,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.975499,45.110427,2015.0,5.0,24.0,0
+619,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.975499,45.110427,2015.0,5.0,24.0,0
+620,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.976357,45.115667,2012.0,5.0,14.0,0
+621,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.976357,45.115667,2013.0,6.0,1.0,0
+622,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.976357,45.115667,2013.0,6.0,1.0,0
+623,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.976357,45.115667,2013.0,6.0,1.0,0
+624,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.9767,45.1163,1996.0,5.0,28.0,0
+625,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.9767,45.1163,1997.0,5.0,31.0,0
+626,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.9767,45.1163,1997.0,5.0,10.0,0
+627,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.9767,45.1163,1998.0,5.0,31.0,0
+628,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.9767,45.1163,1998.0,5.0,10.0,0
+629,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.978,45.1151,1997.0,5.0,27.0,0
+630,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.978,45.1151,1997.0,5.0,31.0,0
+631,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.978,45.1151,1998.0,5.0,16.0,0
+632,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.9795,45.1174,2011.0,5.0,13.0,0
+633,Callophrys lanoraieensis,Callophrys_lanoraieensis,master,-74.9833,45.1167,1996.0,5.0,19.0,0

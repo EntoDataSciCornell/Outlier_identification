@@ -1,0 +1,623 @@
+,old_name,final_name,source,longitude,latitude,year,month,day,outliers
+0,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.565348,39.138536,2018.0,7.0,1.0,0
+1,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-109.832718,40.766697,2017.0,7.0,8.0,0
+2,Erebia magdalena magdalena,Erebia_magdalena,gbif,-110.896991,40.683463,2016.0,7.0,1.0,0
+3,Erebia magdalena magdalena,Erebia_magdalena,gbif,-110.896991,40.683463,2016.0,7.0,1.0,0
+4,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-109.743869,43.202998,2016.0,7.0,25.0,0
+5,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-109.743869,43.202998,2016.0,7.0,26.0,0
+6,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.25125,39.576572,2015.0,7.0,15.0,0
+7,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.901105,40.682267,2014.0,7.0,15.0,0
+8,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.513449,43.669896,2014.0,7.0,19.0,0
+9,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-109.674596,43.22134,2013.0,7.0,26.0,0
+10,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.890726,40.680372,2012.0,6.0,25.0,0
+11,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.890726,40.680372,2012.0,6.0,25.0,0
+12,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.890726,40.680372,2012.0,6.0,25.0,0
+13,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.699733,37.996388,2012.0,6.0,15.0,0
+14,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.803897,39.720265,2012.0,6.0,18.0,0
+15,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-109.760711,43.26106,2011.0,7.0,16.0,0
+16,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.513449,43.669896,2011.0,8.0,14.0,0
+17,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.409192,38.827773,2010.0,7.0,24.0,0
+18,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.038352,39.481654,2010.0,7.0,10.0,0
+19,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.165009,37.289458,2009.0,7.0,5.0,0
+20,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.901957,39.808876,2008.0,7.0,10.0,0
+21,"Erebia magdalena saxicola Hilchie, 1990",Erebia_magdalena,gbif,-119.612,53.775,2007.0,7.0,14.0,0
+22,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-127.5361,64.9264,2006.0,6.0,16.0,1
+23,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.2333,65.07083,2005.0,6.0,23.0,0
+24,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.6828,39.9342,2003.0,7.0,8.0,0
+25,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.878806,39.654143,2002.0,7.0,14.0,0
+26,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.916837,39.663592,2000.0,6.0,15.0,0
+27,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.648608,42.333578,1998.0,7.0,17.0,0
+28,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.199768,67.024311,1996.0,6.0,21.0,0
+29,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.879178,39.663598,1995.0,8.0,28.0,0
+30,Erebia magdalena magdalena,Erebia_magdalena,gbif,-106.169425,39.195419,1994.0,7.0,8.0,0
+31,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.00525,40.801864,1992.0,7.0,17.0,0
+32,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.00525,40.801864,1992.0,7.0,17.0,0
+33,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.00525,40.801864,1992.0,7.0,17.0,0
+34,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.00525,40.801864,1992.0,7.0,17.0,0
+35,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.00525,40.801864,1992.0,7.0,17.0,0
+36,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.00525,40.801864,1992.0,7.0,17.0,0
+37,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.00525,40.801864,1992.0,7.0,17.0,0
+38,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-124.6667,58.6667,1990.0,6.0,17.0,0
+39,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-145.403611,65.484444,1987.0,6.0,6.0,0
+40,"Erebia magdalena saxicola Hilchie, 1990",Erebia_magdalena,gbif,-119.210577,53.968684,1985.0,7.0,27.0,0
+41,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-119.2,53.9667,1985.0,7.0,28.0,0
+42,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-107.422,37.94083,1982.0,7.0,23.0,0
+43,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-118.5667,53.7167,1982.0,7.0,11.0,0
+44,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-118.5667,53.7167,1982.0,7.0,12.0,0
+45,"Erebia magdalena saxicola Hilchie, 1990",Erebia_magdalena,gbif,-118.564096,53.723549,1982.0,7.0,11.0,0
+46,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-118.564096,53.723549,1982.0,7.0,28.0,0
+47,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-118.564,53.724,1982.0,7.0,12.0,0
+48,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-118.564,53.724,1982.0,7.0,11.0,0
+49,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-118.5667,53.7167,1982.0,7.0,25.0,0
+50,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-118.5667,53.7167,1982.0,7.0,25.0,0
+51,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-118.5667,53.7167,1982.0,7.0,24.0,0
+52,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-118.5667,53.7167,1982.0,7.0,25.0,0
+53,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.501274,40.865779,1981.0,7.0,10.0,0
+54,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.501274,40.865779,1981.0,7.0,10.0,0
+55,"Erebia magdalena saxicola Hilchie, 1990",Erebia_magdalena,gbif,-118.564096,53.723549,1981.0,7.0,4.0,0
+56,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-118.5667,53.7167,1981.0,8.0,1.0,0
+57,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-118.5667,53.7167,1981.0,8.0,1.0,0
+58,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.25,65.066667,1979.0,6.0,20.0,0
+59,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.25,65.066667,1979.0,6.0,20.0,0
+60,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.25,65.066667,1979.0,6.0,20.0,0
+61,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.25,65.066667,1979.0,6.0,20.0,0
+62,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.25,65.066667,1979.0,6.0,20.0,0
+63,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.25,65.066667,1979.0,6.0,20.0,0
+64,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.25,65.066667,1979.0,6.0,20.0,0
+65,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.25,65.066667,1979.0,6.0,20.0,0
+66,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.25,65.066667,1979.0,6.0,20.0,0
+67,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+68,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+69,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+70,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+71,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+72,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+73,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+74,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+75,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+76,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+77,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+78,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+79,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+80,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+81,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+82,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+83,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+84,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-136.2,67.166667,1979.0,7.0,3.0,0
+85,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.77722,39.79833,1979.0,7.0,8.0,0
+86,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.77722,39.79833,1979.0,7.0,8.0,0
+87,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.93629,38.97637,1978.0,7.0,8.0,0
+88,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.93629,38.97637,1978.0,7.0,8.0,0
+89,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.93629,38.97637,1978.0,7.0,8.0,0
+90,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.93629,38.97637,1978.0,7.0,8.0,0
+91,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.93629,38.97637,1978.0,7.0,8.0,0
+92,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.93629,38.97637,1978.0,7.0,8.0,0
+93,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.705684,40.397101,1978.0,7.0,9.0,0
+94,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1976.0,7.0,17.0,0
+95,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1976.0,7.0,17.0,0
+96,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1976.0,7.0,17.0,0
+97,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1976.0,7.0,17.0,0
+98,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1976.0,7.0,17.0,0
+99,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.833333,61.233333,1976.0,7.0,2.0,0
+100,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.833333,61.233333,1976.0,7.0,2.0,0
+101,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-138.833333,61.233333,1976.0,7.0,2.0,0
+102,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1975.0,7.0,17.0,0
+103,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-119.2,53.9667,1975.0,7.0,27.0,0
+104,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1972.0,7.0,9.0,0
+105,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.624686,38.014003,1972.0,7.0,10.0,0
+106,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.879092,39.663465,1972.0,7.0,16.0,0
+107,Erebia magdalena magdalena,Erebia_magdalena,gbif,-106.128667,39.328492,1971.0,7.0,4.0,0
+108,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.624686,39.792284,1971.0,7.0,17.0,0
+109,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.624686,39.792284,1971.0,7.0,17.0,0
+110,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.777408,39.798153,1971.0,7.0,27.0,0
+111,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.8703869,39.65991984,1970.0,7.0,19.0,0
+112,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.73584,39.46054,1970.0,7.0,25.0,0
+113,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1970.0,7.0,19.0,0
+114,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1970.0,7.0,19.0,0
+115,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.835663,39.507126,1968.0,7.0,4.0,0
+116,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.409237,38.827879,1967.0,7.0,22.0,0
+117,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.484196,38.689159,1967.0,7.0,12.0,0
+118,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-107.2381,41.7911,1967.0,7.0,6.0,0
+119,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.27777,38.26195,1965.0,7.0,17.0,0
+120,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.682147,39.931747,1965.0,7.0,19.0,0
+121,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.747721,39.592112,1964.0,7.0,18.0,0
+122,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.747721,39.592112,1964.0,7.0,18.0,0
+123,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.94204,39.00477,1962.0,7.0,16.0,0
+124,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.9804099,38.9499258,1961.0,7.0,9.0,0
+125,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.98977,38.95916,1961.0,7.0,29.0,0
+126,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.9804099,38.9499258,1961.0,7.0,2.0,0
+127,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.94204,39.00477,1961.0,7.0,1.0,0
+128,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.615962,40.098841,1961.0,7.0,4.0,0
+129,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.747721,39.592112,1961.0,7.0,1.0,0
+130,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.712313,39.59577,1961.0,7.0,2.0,0
+131,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.747721,39.592112,1961.0,7.0,1.0,0
+132,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.747721,39.592112,1961.0,7.0,1.0,0
+133,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.712313,39.59577,1961.0,7.0,2.0,0
+134,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1961.0,8.0,12.0,0
+135,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.94199,39.01166,1960.0,7.0,4.0,0
+136,Erebia magdalena magdalena,Erebia_magdalena,gbif,-106.121293,39.314336,1959.0,6.0,29.0,0
+137,Erebia magdalena magdalena,Erebia_magdalena,gbif,-106.121293,39.314336,1959.0,6.0,29.0,0
+138,Erebia magdalena magdalena,Erebia_magdalena,gbif,-106.121293,39.314336,1959.0,6.0,29.0,0
+139,Erebia magdalena magdalena,Erebia_magdalena,gbif,-106.121293,39.314336,1959.0,6.0,29.0,0
+140,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-107.010601,38.956381,1959.0,7.0,5.0,0
+141,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.9404094,38.99992513,1959.0,7.0,19.0,0
+142,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.615962,40.098841,1959.0,7.0,9.0,0
+143,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1959.0,7.0,12.0,0
+144,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1959.0,8.0,12.0,0
+145,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1959.0,8.0,12.0,0
+146,Erebia magdalena magdalena,Erebia_magdalena,gbif,-105.879178,39.663598,1959.0,8.0,12.0,0
+147,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.92754,38.98055,1956.0,7.0,8.0,0
+148,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.99866,39.04443,1956.0,7.0,4.0,0
+149,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-106.408835,38.82735,1955.0,7.0,31.0,0
+150,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.8703869,39.65991984,1955.0,7.0,21.0,0
+151,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.6103839,40.08991439,1955.0,7.0,7.0,0
+152,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.77779,39.79832,1949.0,7.0,16.0,0
+153,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.6103839,40.08991439,1949.0,7.0,26.0,0
+154,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.6103835,40.04991502,1948.0,7.0,11.0,0
+155,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.6905,40.3383,1941.0,7.0,17.0,0
+156,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.6905,40.3383,1937.0,7.0,8.0,0
+157,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.6905,40.3383,1937.0,7.0,8.0,0
+158,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.6905,40.3383,1937.0,7.0,8.0,0
+159,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.80306,40.60056,1933.0,7.0,23.0,0
+160,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-110.80306,40.60056,1933.0,7.0,23.0,0
+161,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-140.0,65.0,,,,0
+162,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-107.328553,39.535977,,,,0
+163,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.692869,39.718247,,,,0
+164,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.698,39.7061,,,,0
+165,"Erebia magdalena Strecker, 1880",Erebia_magdalena,gbif,-105.692869,39.718247,,,,0
+166,Erebia magdalena,Erebia_magdalena,bison,-107.76362,39.658478,1950.0,1.0,1.0,0
+167,Erebia magdalena,Erebia_magdalena,bison,-110.99835,40.829758,1950.0,1.0,1.0,0
+168,Erebia magdalena,Erebia_magdalena,bison,-109.10026,45.28202,1950.0,1.0,1.0,0
+169,Erebia magdalena,Erebia_magdalena,bison,-108.52257,37.75303,1950.0,1.0,1.0,0
+170,Erebia magdalena,Erebia_magdalena,bison,-108.52257,37.75303,1950.0,1.0,1.0,0
+171,Erebia magdalena,Erebia_magdalena,bison,-106.25221,40.681923,1950.0,1.0,1.0,0
+172,Erebia magdalena,Erebia_magdalena,bison,-108.09411,44.603638,1950.0,1.0,1.0,0
+173,Erebia magdalena,Erebia_magdalena,bison,-107.1012,40.47716,1950.0,1.0,1.0,0
+174,Erebia magdalena,Erebia_magdalena,bison,-105.25125,39.576572,2015.0,7.0,15.0,0
+175,Erebia magdalena,Erebia_magdalena,bison,-118.564,53.724,1982.0,7.0,12.0,0
+176,Erebia magdalena,Erebia_magdalena,bison,-118.564,53.724,1982.0,7.0,11.0,0
+177,Erebia magdalena,Erebia_magdalena,bison,-110.80306,40.60056,1933.0,7.0,23.0,0
+178,Erebia magdalena,Erebia_magdalena,bison,-110.00525,40.801865,1992.0,7.0,17.0,0
+179,Erebia magdalena,Erebia_magdalena,bison,-110.890724,40.68037,2012.0,6.0,25.0,0
+180,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+181,Erebia magdalena,Erebia_magdalena,bison,-119.2,53.9667,1975.0,7.0,27.0,0
+182,Erebia magdalena,Erebia_magdalena,bison,-124.6667,58.6667,1990.0,6.0,17.0,0
+183,Erebia magdalena,Erebia_magdalena,bison,-105.77779,39.79832,1949.0,7.0,16.0,0
+184,Erebia magdalena,Erebia_magdalena,bison,-106.93629,38.97637,1978.0,7.0,8.0,0
+185,Erebia magdalena,Erebia_magdalena,bison,-105.870384,39.65992,1955.0,7.0,21.0,0
+186,Erebia magdalena,Erebia_magdalena,bison,-105.73584,39.46054,1970.0,7.0,25.0,0
+187,Erebia magdalena,Erebia_magdalena,bison,-106.99866,39.04443,1956.0,7.0,4.0,0
+188,Erebia magdalena,Erebia_magdalena,bison,-107.422,37.94083,1982.0,7.0,23.0,0
+189,Erebia magdalena,Erebia_magdalena,bison,-106.93629,38.97637,1978.0,7.0,8.0,0
+190,Erebia magdalena,Erebia_magdalena,bison,-106.94204,39.00477,1962.0,7.0,16.0,0
+191,Erebia magdalena,Erebia_magdalena,bison,-106.4842,38.68916,1967.0,7.0,12.0,0
+192,Erebia magdalena,Erebia_magdalena,bison,-105.453674,39.877014,1950.0,1.0,1.0,0
+193,Erebia magdalena,Erebia_magdalena,bison,-105.6905,40.3383,1937.0,7.0,8.0,0
+194,Erebia magdalena,Erebia_magdalena,bison,-106.13756,39.62102,2011.0,8.0,2.0,0
+195,Erebia magdalena,Erebia_magdalena,bison,-105.77722,39.79833,1979.0,7.0,8.0,0
+196,Erebia magdalena,Erebia_magdalena,bison,-105.77722,39.79833,1979.0,7.0,8.0,0
+197,Erebia magdalena,Erebia_magdalena,bison,-140.0,65.0,,,,0
+198,Erebia magdalena,Erebia_magdalena,bison,-118.5667,53.7167,1982.0,7.0,25.0,0
+199,Erebia magdalena,Erebia_magdalena,bison,-118.5667,53.7167,1981.0,8.0,1.0,0
+200,Erebia magdalena,Erebia_magdalena,bison,-118.5667,53.7167,1982.0,7.0,25.0,0
+201,Erebia magdalena,Erebia_magdalena,bison,-118.5667,53.7167,1981.0,8.0,1.0,0
+202,Erebia magdalena,Erebia_magdalena,bison,-118.5667,53.7167,1982.0,7.0,24.0,0
+203,Erebia magdalena,Erebia_magdalena,bison,-118.5667,53.7167,1982.0,7.0,25.0,0
+204,Erebia magdalena,Erebia_magdalena,bison,-119.2,53.9667,1985.0,7.0,28.0,0
+205,Erebia magdalena,Erebia_magdalena,bison,-110.90111,40.682266,2014.0,7.0,15.0,0
+206,Erebia magdalena,Erebia_magdalena,bison,-110.501274,40.86578,1981.0,7.0,10.0,0
+207,Erebia magdalena,Erebia_magdalena,bison,-110.80306,40.60056,1933.0,7.0,23.0,0
+208,Erebia magdalena,Erebia_magdalena,bison,-110.501274,40.86578,1981.0,7.0,10.0,0
+209,Erebia magdalena,Erebia_magdalena,bison,-110.00525,40.801865,1992.0,7.0,17.0,0
+210,Erebia magdalena,Erebia_magdalena,bison,-145.40361,65.48444,1987.0,6.0,6.0,0
+211,Erebia magdalena,Erebia_magdalena,bison,-110.00525,40.801865,1992.0,7.0,17.0,0
+212,Erebia magdalena,Erebia_magdalena,bison,-110.00525,40.801865,1992.0,7.0,17.0,0
+213,Erebia magdalena,Erebia_magdalena,bison,-110.00525,40.801865,1992.0,7.0,17.0,0
+214,Erebia magdalena,Erebia_magdalena,bison,-136.19977,67.02431,1996.0,6.0,21.0,0
+215,Erebia magdalena,Erebia_magdalena,bison,-110.890724,40.68037,2012.0,6.0,25.0,0
+216,Erebia magdalena,Erebia_magdalena,bison,-110.890724,40.68037,2012.0,6.0,25.0,0
+217,Erebia magdalena,Erebia_magdalena,bison,-110.00525,40.801865,1992.0,7.0,17.0,0
+218,Erebia magdalena,Erebia_magdalena,bison,-110.00525,40.801865,1992.0,7.0,17.0,0
+219,Erebia magdalena,Erebia_magdalena,bison,-105.698,39.7061,,,,0
+220,Erebia magdalena,Erebia_magdalena,bison,-138.2333,65.07083,2005.0,6.0,23.0,0
+221,Erebia magdalena,Erebia_magdalena,bison,-106.92754,38.98055,1956.0,7.0,8.0,0
+222,Erebia magdalena,Erebia_magdalena,bison,-106.98041,38.949924,1961.0,7.0,9.0,0
+223,Erebia magdalena,Erebia_magdalena,bison,-106.40884,38.82735,1955.0,7.0,31.0,0
+224,Erebia magdalena,Erebia_magdalena,bison,-106.98041,38.949924,1961.0,7.0,2.0,0
+225,Erebia magdalena,Erebia_magdalena,bison,-105.61038,40.089916,1949.0,7.0,26.0,0
+226,Erebia magdalena,Erebia_magdalena,bison,-106.93629,38.97637,1978.0,7.0,8.0,0
+227,Erebia magdalena,Erebia_magdalena,bison,-106.94204,39.00477,1961.0,7.0,1.0,0
+228,Erebia magdalena,Erebia_magdalena,bison,-105.870384,39.65992,1970.0,7.0,19.0,0
+229,Erebia magdalena,Erebia_magdalena,bison,-106.93629,38.97637,1978.0,7.0,8.0,0
+230,Erebia magdalena,Erebia_magdalena,bison,-105.61038,40.049915,1948.0,7.0,11.0,0
+231,Erebia magdalena,Erebia_magdalena,bison,-107.0106,38.956383,1959.0,7.0,5.0,0
+232,Erebia magdalena,Erebia_magdalena,bison,-106.98977,38.95916,1961.0,7.0,29.0,0
+233,Erebia magdalena,Erebia_magdalena,bison,-105.6905,40.3383,1941.0,7.0,17.0,0
+234,Erebia magdalena,Erebia_magdalena,bison,-106.94199,39.01166,1960.0,7.0,4.0,0
+235,Erebia magdalena,Erebia_magdalena,bison,-105.6905,40.3383,1937.0,7.0,8.0,0
+236,Erebia magdalena,Erebia_magdalena,bison,-106.93629,38.97637,1978.0,7.0,8.0,0
+237,Erebia magdalena,Erebia_magdalena,bison,-106.40924,38.82788,1967.0,7.0,22.0,0
+238,Erebia magdalena,Erebia_magdalena,bison,-105.6905,40.3383,1937.0,7.0,8.0,0
+239,Erebia magdalena,Erebia_magdalena,bison,-106.94041,38.999924,1959.0,7.0,19.0,0
+240,Erebia magdalena,Erebia_magdalena,bison,-105.61038,40.089916,1955.0,7.0,7.0,0
+241,Erebia magdalena,Erebia_magdalena,bison,-105.27777,38.26195,1965.0,7.0,17.0,0
+242,Erebia magdalena,Erebia_magdalena,bison,-106.93629,38.97637,1978.0,7.0,8.0,0
+243,Erebia magdalena,Erebia_magdalena,bison,-118.5667,53.7167,1982.0,7.0,11.0,0
+244,Erebia magdalena,Erebia_magdalena,bison,-118.5667,53.7167,1982.0,7.0,12.0,0
+245,Erebia magdalena,Erebia_magdalena,bison,-138.83333,61.233334,1976.0,7.0,2.0,0
+246,Erebia magdalena,Erebia_magdalena,bison,-138.83333,61.233334,1976.0,7.0,2.0,0
+247,Erebia magdalena,Erebia_magdalena,bison,-138.83333,61.233334,1976.0,7.0,2.0,0
+248,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+249,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+250,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+251,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+252,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+253,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+254,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+255,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+256,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+257,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+258,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+259,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+260,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+261,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+262,Erebia magdalena,Erebia_magdalena,bison,-138.25,65.066666,1979.0,6.0,20.0,0
+263,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+264,Erebia magdalena,Erebia_magdalena,bison,-138.25,65.066666,1979.0,6.0,20.0,0
+265,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+266,Erebia magdalena,Erebia_magdalena,bison,-138.25,65.066666,1979.0,6.0,20.0,0
+267,Erebia magdalena,Erebia_magdalena,bison,-136.2,67.166664,1979.0,7.0,3.0,0
+268,Erebia magdalena,Erebia_magdalena,bison,-138.25,65.066666,1979.0,6.0,20.0,0
+269,Erebia magdalena,Erebia_magdalena,bison,-138.25,65.066666,1979.0,6.0,20.0,0
+270,Erebia magdalena,Erebia_magdalena,bison,-138.25,65.066666,1979.0,6.0,20.0,0
+271,Erebia magdalena,Erebia_magdalena,bison,-138.25,65.066666,1979.0,6.0,20.0,0
+272,Erebia magdalena,Erebia_magdalena,bison,-138.25,65.066666,1979.0,6.0,20.0,0
+273,Erebia magdalena,Erebia_magdalena,bison,-138.25,65.066666,1979.0,6.0,20.0,0
+274,Erebia magdalena,Erebia_magdalena,bison,-105.87909,39.663464,1972.0,7.0,16.0,0
+275,Erebia magdalena,Erebia_magdalena,bison,-105.777405,39.798153,1971.0,7.0,27.0,0
+276,Erebia magdalena,Erebia_magdalena,bison,-118.564095,53.72355,1982.0,7.0,28.0,0
+277,Erebia magdalena,Erebia_magdalena,bison,-105.87881,39.654144,2002.0,7.0,14.0,0
+278,Erebia magdalena,Erebia_magdalena,bison,-105.61596,40.098843,1959.0,7.0,9.0,0
+279,Erebia magdalena,Erebia_magdalena,bison,-105.61596,40.098843,1961.0,7.0,4.0,0
+280,Erebia magdalena,Erebia_magdalena,bison,-105.682144,39.931747,1965.0,7.0,19.0,0
+281,Erebia magdalena,Erebia_magdalena,bison,-104.93889,37.6126,1950.0,1.0,1.0,0
+282,Erebia magdalena,Erebia_magdalena,bison,-107.07414,44.168297,2014.0,7.0,19.0,0
+283,Erebia magdalena,Erebia_magdalena,bison,-105.50055,40.15121,1950.0,1.0,1.0,0
+284,Erebia magdalena,Erebia_magdalena,bison,-109.5211,40.905384,1950.0,1.0,1.0,0
+285,Erebia magdalena,Erebia_magdalena,bison,-109.75917,42.813873,1950.0,1.0,1.0,0
+286,Erebia magdalena,Erebia_magdalena,bison,-105.87601,37.654037,1950.0,1.0,1.0,0
+287,Erebia magdalena,Erebia_magdalena,bison,-105.31312,38.061558,1950.0,1.0,1.0,0
+288,Erebia magdalena,Erebia_magdalena,bison,-106.31669,39.22027,1950.0,1.0,1.0,0
+289,Erebia magdalena,Erebia_magdalena,bison,-107.00671,38.643707,1950.0,1.0,1.0,0
+290,Erebia magdalena,Erebia_magdalena,bison,-106.34638,38.00196,1950.0,1.0,1.0,0
+291,Erebia magdalena,Erebia_magdalena,bison,-106.06402,39.591187,1950.0,1.0,1.0,0
+292,Erebia magdalena,Erebia_magdalena,bison,-110.63145,43.853634,1950.0,1.0,1.0,0
+293,Erebia magdalena,Erebia_magdalena,bison,-106.723465,39.576405,1950.0,1.0,1.0,0
+294,Erebia magdalena,Erebia_magdalena,bison,-106.81784,39.1591,1950.0,1.0,1.0,0
+295,Erebia magdalena,Erebia_magdalena,bison,-106.25221,38.75367,1950.0,1.0,1.0,0
+296,Erebia magdalena,Erebia_magdalena,bison,-109.37832,40.10695,1950.0,1.0,1.0,0
+297,Erebia magdalena,Erebia_magdalena,bison,-107.07368,44.17017,2011.0,8.0,14.0,0
+298,Erebia magdalena,Erebia_magdalena,bison,-108.61756,43.011997,1950.0,1.0,1.0,0
+299,Erebia magdalena,Erebia_magdalena,bison,-105.59434,40.695557,1950.0,1.0,1.0,0
+300,Erebia magdalena,Erebia_magdalena,bison,-106.06402,40.07274,1950.0,1.0,1.0,0
+301,Erebia magdalena,Erebia_magdalena,bison,-106.06402,40.07274,1950.0,1.0,1.0,0
+302,Erebia magdalena,Erebia_magdalena,bison,-108.14287,37.978123,1950.0,1.0,1.0,0
+303,Erebia magdalena,Erebia_magdalena,bison,-105.64125,39.690445,1950.0,1.0,1.0,0
+304,Erebia magdalena,Erebia_magdalena,bison,-106.42728,43.955723,1950.0,1.0,1.0,0
+305,Erebia magdalena,Erebia_magdalena,bison,-110.64244,44.462086,1950.0,1.0,1.0,0
+306,Erebia magdalena,Erebia_magdalena,bison,-110.99835,40.36294,1950.0,1.0,1.0,0
+307,Erebia magdalena,Erebia_magdalena,bison,-107.76362,37.212585,1950.0,1.0,1.0,0
+308,Erebia magdalena,Erebia_magdalena,bison,-110.521545,40.217243,1950.0,1.0,1.0,0
+309,Erebia magdalena,Erebia_magdalena,bison,-105.50055,38.53065,1950.0,1.0,1.0,0
+310,Erebia magdalena,Erebia_magdalena,bison,-107.76362,38.201614,1950.0,1.0,1.0,0
+311,Erebia magdalena,Erebia_magdalena,bison,-109.457985,44.67821,1950.0,1.0,1.0,0
+312,Erebia magdalena,Erebia_magdalena,bison,-107.00671,37.658367,1950.0,1.0,1.0,0
+313,Erebia magdalena,Erebia_magdalena,bison,-105.59434,36.43587,1950.0,1.0,1.0,0
+314,Erebia magdalena,Erebia_magdalena,bison,-105.50055,37.20496,1950.0,1.0,1.0,0
+315,Erebia magdalena,Erebia_magdalena,bison,-105.59434,39.089794,1950.0,1.0,1.0,0
+316,Erebia magdalena,Erebia_magdalena,bison,-107.38488,37.93163,1950.0,1.0,1.0,0
+317,Erebia magdalena,Erebia_magdalena,bison,-107.38488,37.93163,1950.0,1.0,1.0,0
+318,Erebia magdalena,Erebia_magdalena,bison,-108.61756,38.958538,1950.0,1.0,1.0,0
+319,erebia magdalena,Erebia_magdalena,idigbio,-106.9806006,38.94999142,1961.0,7.0,9.0,0
+320,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663532,1959.0,8.0,12.0,0
+321,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663598,1972.0,7.0,9.0,0
+322,erebia magdalena,Erebia_magdalena,idigbio,-106.93629,38.97637,1978.0,7.0,8.0,0
+323,erebia magdalena,Erebia_magdalena,idigbio,-105.735841,39.460543,1902.0,7.0,20.0,0
+324,erebia magdalena,Erebia_magdalena,idigbio,-106.129117,39.197816,1969.0,7.0,26.0,0
+325,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663598,1976.0,7.0,17.0,0
+326,erebia magdalena,Erebia_magdalena,idigbio,-106.091422,39.292115,1959.0,6.0,29.0,0
+327,erebia magdalena,Erebia_magdalena,idigbio,-106.940599,38.99999092,1959.0,7.0,19.0,0
+328,erebia magdalena,Erebia_magdalena,idigbio,-105.777408,39.798153,1971.0,7.0,27.0,0
+329,erebia magdalena,Erebia_magdalena,idigbio,-105.73584,39.46054,1970.0,7.0,25.0,0
+330,erebia magdalena,Erebia_magdalena,idigbio,-107.422,37.94083,1982.0,7.0,23.0,0
+331,erebia magdalena,Erebia_magdalena,idigbio,-110.00525,40.801864,1992.0,7.0,17.0,0
+332,erebia magdalena,Erebia_magdalena,idigbio,-105.77722,39.79833,1979.0,7.0,8.0,0
+333,erebia magdalena,Erebia_magdalena,idigbio,-105.711116,39.594987,1964.0,7.0,18.0,0
+334,erebia magdalena,Erebia_magdalena,idigbio,-105.615962,40.098841,1961.0,7.0,4.0,0
+335,erebia magdalena,Erebia_magdalena,idigbio,-136.199768,67.024311,1996.0,6.0,21.0,0
+336,erebia magdalena,Erebia_magdalena,idigbio,-106.94204,39.00477,1961.0,7.0,7.0,0
+337,erebia magdalena,Erebia_magdalena,idigbio,-105.711116,39.594921,1961.0,7.0,2.0,0
+338,erebia magdalena,Erebia_magdalena,idigbio,-106.123624,39.193559,1971.0,7.0,4.0,0
+339,erebia magdalena,Erebia_magdalena,idigbio,-105.6905,40.3383,1937.0,7.0,8.0,0
+340,erebia magdalena,Erebia_magdalena,idigbio,-105.77779,39.79832,1949.0,7.0,16.0,0
+341,erebia magdalena,Erebia_magdalena,idigbio,-106.99866,39.04443,1956.0,7.0,4.0,0
+342,erebia magdalena,Erebia_magdalena,idigbio,-105.878878,39.663532,1976.0,7.0,17.0,0
+343,erebia magdalena,Erebia_magdalena,idigbio,-105.624251,38.012673,1972.0,7.0,10.0,0
+344,erebia magdalena,Erebia_magdalena,idigbio,-106.091422,39.292115,1959.0,6.0,29.0,0
+345,erebia magdalena,Erebia_magdalena,idigbio,-110.501274,40.865779,1981.0,7.0,10.0,0
+346,erebia magdalena,Erebia_magdalena,idigbio,-118.564,53.724,1982.0,7.0,11.0,0
+347,erebia magdalena,Erebia_magdalena,idigbio,-105.6905,40.3383,1937.0,7.0,8.0,0
+348,erebia magdalena,Erebia_magdalena,idigbio,-110.00525,40.801864,1992.0,7.0,17.0,0
+349,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663598,1970.0,7.0,19.0,0
+350,erebia magdalena,Erebia_magdalena,idigbio,-106.4092368,38.8278787,1967.0,7.0,22.0,0
+351,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663598,1959.0,8.0,12.0,0
+352,erebia magdalena,Erebia_magdalena,idigbio,-145.403611,65.484444,1987.0,6.0,6.0,0
+353,erebia magdalena,Erebia_magdalena,idigbio,-105.735841,39.460543,1968.0,7.0,4.0,0
+354,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663598,1976.0,7.0,17.0,0
+355,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663598,1959.0,8.0,12.0,0
+356,erebia magdalena,Erebia_magdalena,idigbio,-105.777785,39.79832,1971.0,7.0,17.0,0
+357,erebia magdalena,Erebia_magdalena,idigbio,-110.501274,40.865779,1981.0,7.0,10.0,0
+358,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663598,1976.0,7.0,17.0,0
+359,erebia magdalena,Erebia_magdalena,idigbio,-110.00525,40.801864,1992.0,7.0,17.0,0
+360,erebia magdalena,Erebia_magdalena,idigbio,-106.129117,39.197816,1971.0,7.0,4.0,0
+361,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663598,1975.0,7.0,17.0,0
+362,erebia magdalena,Erebia_magdalena,idigbio,-105.711116,39.594987,1964.0,7.0,18.0,0
+363,erebia magdalena,Erebia_magdalena,idigbio,-105.8705669,39.65998683,1955.0,7.0,21.0,0
+364,erebia magdalena,Erebia_magdalena,idigbio,-107.2381,41.7911,1967.0,7.0,6.0,0
+365,erebia magdalena,Erebia_magdalena,idigbio,-106.091422,39.292115,1971.0,7.0,4.0,0
+366,erebia magdalena,Erebia_magdalena,idigbio,-107.010601,38.9563808,1959.0,7.0,5.0,0
+367,erebia magdalena,Erebia_magdalena,idigbio,-105.698,39.7061,,,,0
+368,erebia magdalena,Erebia_magdalena,idigbio,-105.8705669,39.65998683,1970.0,7.0,19.0,0
+369,erebia magdalena,Erebia_magdalena,idigbio,-110.890726,40.680372,2012.0,6.0,25.0,0
+370,erebia magdalena,Erebia_magdalena,idigbio,-105.777785,39.79832,1971.0,7.0,17.0,0
+371,erebia magdalena,Erebia_magdalena,idigbio,-106.4841957,38.6891594,1967.0,7.0,12.0,0
+372,erebia magdalena,Erebia_magdalena,idigbio,-118.5640956,53.72354897,1982.0,7.0,28.0,0
+373,erebia magdalena,Erebia_magdalena,idigbio,-105.6105577,40.08998608,1949.0,7.0,26.0,0
+374,erebia magdalena,Erebia_magdalena,idigbio,-106.128617,39.197177,1969.0,7.0,26.0,0
+375,erebia magdalena,Erebia_magdalena,idigbio,-106.129117,39.197816,1969.0,7.0,26.0,0
+376,erebia magdalena,Erebia_magdalena,idigbio,-105.615962,40.098841,1959.0,7.0,9.0,0
+377,erebia magdalena,Erebia_magdalena,idigbio,-105.879092,39.663465,1972.0,7.0,16.0,0
+378,erebia magdalena,Erebia_magdalena,idigbio,-106.185299,39.185824,1994.0,7.0,8.0,0
+379,erebia magdalena,Erebia_magdalena,idigbio,-106.94199,39.01166,1960.0,7.0,4.0,0
+380,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663598,1976.0,7.0,17.0,0
+381,erebia magdalena,Erebia_magdalena,idigbio,-110.00525,40.801864,1992.0,7.0,17.0,0
+382,erebia magdalena,Erebia_magdalena,idigbio,-118.564,53.724,1982.0,7.0,12.0,0
+383,erebia magdalena,Erebia_magdalena,idigbio,-105.27777,38.26195,1965.0,7.0,17.0,0
+384,erebia magdalena,Erebia_magdalena,idigbio,-105.6905,40.3383,1941.0,7.0,17.0,0
+385,erebia magdalena,Erebia_magdalena,idigbio,-106.93629,38.97637,1978.0,7.0,8.0,0
+386,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663598,1970.0,7.0,19.0,0
+387,erebia magdalena,Erebia_magdalena,idigbio,-110.00525,40.801864,1992.0,7.0,17.0,0
+388,erebia magdalena,Erebia_magdalena,idigbio,-110.890726,40.680372,2012.0,6.0,25.0,0
+389,erebia magdalena,Erebia_magdalena,idigbio,-105.711116,39.594987,1961.0,7.0,1.0,0
+390,erebia magdalena,Erebia_magdalena,idigbio,-110.00525,40.801864,1992.0,7.0,17.0,0
+391,erebia magdalena,Erebia_magdalena,idigbio,-110.00525,40.801864,1992.0,7.0,17.0,0
+392,erebia magdalena,Erebia_magdalena,idigbio,-105.6905,40.3383,1937.0,7.0,8.0,0
+393,erebia magdalena,Erebia_magdalena,idigbio,-105.6105575,40.04998642,1948.0,7.0,11.0,0
+394,erebia magdalena,Erebia_magdalena,idigbio,-110.890726,40.680372,2012.0,6.0,25.0,0
+395,erebia magdalena,Erebia_magdalena,idigbio,-110.80306,40.60056,1933.0,7.0,23.0,0
+396,erebia magdalena,Erebia_magdalena,idigbio,-106.98977,38.95916,1961.0,7.0,29.0,0
+397,erebia magdalena,Erebia_magdalena,idigbio,-105.682147,39.931747,1965.0,7.0,19.0,0
+398,erebia magdalena,Erebia_magdalena,idigbio,-106.091422,39.292115,1959.0,6.0,29.0,0
+399,erebia magdalena,Erebia_magdalena,idigbio,-105.77722,39.79833,1979.0,7.0,8.0,0
+400,erebia magdalena,Erebia_magdalena,idigbio,-138.2333,65.07083,2005.0,6.0,23.0,0
+401,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663598,1959.0,7.0,12.0,0
+402,erebia magdalena,Erebia_magdalena,idigbio,-106.088075,39.293045,1959.0,6.0,29.0,0
+403,erebia magdalena,Erebia_magdalena,idigbio,-105.711116,39.594987,1961.0,7.0,1.0,0
+404,erebia magdalena,Erebia_magdalena,idigbio,-106.129117,39.197816,1971.0,7.0,4.0,0
+405,erebia magdalena,Erebia_magdalena,idigbio,-106.93629,38.97637,1978.0,7.0,8.0,0
+406,erebia magdalena,Erebia_magdalena,idigbio,-106.93629,38.97637,1978.0,7.0,8.0,0
+407,erebia magdalena,Erebia_magdalena,idigbio,-105.6105577,40.08998608,1955.0,7.0,7.0,0
+408,erebia magdalena,Erebia_magdalena,idigbio,-105.879178,39.663598,1959.0,8.0,12.0,0
+409,erebia magdalena,Erebia_magdalena,idigbio,-106.93629,38.97637,1978.0,7.0,8.0,0
+410,erebia magdalena,Erebia_magdalena,idigbio,-110.80306,40.60056,1933.0,7.0,23.0,0
+411,erebia magdalena,Erebia_magdalena,idigbio,-106.94204,39.00477,1962.0,7.0,16.0,0
+412,erebia magdalena,Erebia_magdalena,idigbio,-106.129117,39.197816,1971.0,7.0,4.0,0
+413,erebia magdalena,Erebia_magdalena,idigbio,-106.408835,38.8273496,1955.0,7.0,31.0,0
+414,erebia magdalena,Erebia_magdalena,idigbio,-106.9806006,38.94999142,1961.0,7.0,2.0,0
+415,erebia magdalena,Erebia_magdalena,idigbio,-106.92754,38.98055,1956.0,7.0,8.0,0
+416,erebia magdalena,Erebia_magdalena,idigbio,-106.93629,38.97637,1978.0,7.0,8.0,0
+417,erebia magdalena,Erebia_magdalena,idigbio,-105.711116,39.594987,1961.0,7.0,2.0,0
+418,erebia magdalena,Erebia_magdalena,idigbio,-105.711116,39.594987,1961.0,7.0,1.0,0
+419,Erebia mackinleyensis,Erebia_magdalena,master,-84.9117,54.5127,1981.0,7.0,3.0,1
+420,Erebia magdalena,Erebia_magdalena,master,-118.56,53.71,1981.0,8.0,1.0,0
+421,Erebia magdalena,Erebia_magdalena,master,-118.56,53.71,1982.0,7.0,24.0,0
+422,Erebia magdalena,Erebia_magdalena,master,-118.56,53.71,1982.0,7.0,25.0,0
+423,Erebia magdalena,Erebia_magdalena,master,-118.56,53.71,1982.0,7.0,11.0,0
+424,Erebia magdalena,Erebia_magdalena,master,-118.56,53.71,1982.0,7.0,12.0,0
+425,,Erebia_magdalena,master,-118.5667,53.7167,1981.0,7.0,4.0,0
+426,,Erebia_magdalena,master,-118.5667,53.7167,1981.0,7.0,10.0,0
+427,,Erebia_magdalena,master,-118.5667,53.7167,1981.0,8.0,1.0,0
+428,,Erebia_magdalena,master,-118.5667,53.7167,1982.0,7.0,11.0,0
+429,,Erebia_magdalena,master,-118.5667,53.7167,1982.0,7.0,12.0,0
+430,,Erebia_magdalena,master,-118.5667,53.7167,1982.0,7.0,13.0,0
+431,,Erebia_magdalena,master,-118.5667,53.7167,1982.0,7.0,24.0,0
+432,,Erebia_magdalena,master,-118.5667,53.7167,1982.0,7.0,25.0,0
+433,,Erebia_magdalena,master,-119.2,53.9667,1975.0,7.0,27.0,0
+434,,Erebia_magdalena,master,-119.2,53.9667,1984.0,7.0,23.0,0
+435,,Erebia_magdalena,master,-119.2,53.9667,1985.0,7.0,26.0,0
+436,,Erebia_magdalena,master,-119.2,53.9667,1985.0,7.0,27.0,0
+437,,Erebia_magdalena,master,-119.2,53.9667,1985.0,7.0,28.0,0
+438,Erebia magdalena,Erebia_magdalena,master,-119.2,53.96,1975.0,7.0,27.0,0
+439,Erebia magdalena,Erebia_magdalena,master,-119.2,53.96,1985.0,7.0,26.0,0
+440,Erebia magdalena,Erebia_magdalena,master,-119.2,53.96,1985.0,7.0,28.0,0
+441,Erebia magdalena,Erebia_magdalena,master,-119.2,53.96,1985.0,7.0,27.0,0
+442,Erebia magdalena,Erebia_magdalena,master,-119.60444,53.78005,2007.0,7.0,13.0,0
+443,Erebia magdalena,Erebia_magdalena,master,-124.66,58.66,1990.0,6.0,17.0,0
+444,,Erebia_magdalena,master,-124.6667,58.6667,1990.0,6.0,17.0,0
+445,Erebia magdalena ,Erebia_magdalena,master,-124.6667,58.6333,1992.0,6.0,14.0,0
+446,,Erebia_magdalena,master,-124.6667,58.6333,1992.0,6.0,14.0,0
+447,,Erebia_magdalena,master,-127.5361,64.9264,2000.0,6.0,16.0,1
+448,Erebia magdalena,Erebia_magdalena,master,-127.5361111,64.92638889,2006.0,6.0,16.0,1
+449,Erebia mackinleyensis,Erebia_magdalena,master,-129.3491,64.4463,2010.0,7.0,26.0,1
+450,Erebia mackinleyensis,Erebia_magdalena,master,-129.36169,63.26794444,2008.0,7.0,18.0,1
+451,Erebia mackinleyensis,Erebia_magdalena,master,-129.3617,63.2679,2008.0,7.0,18.0,1
+452,Erebia mackinleyensis,Erebia_magdalena,master,-129.3678,64.4783,2005.0,6.0,15.0,1
+453,Erebia mackinleyensis,Erebia_magdalena,master,-129.3722,64.4808,2007.0,6.0,24.0,1
+454,Erebia mackinleyensis,Erebia_magdalena,master,-129.3722222,64.48083333,2007.0,6.0,24.0,1
+455,Erebia mackinleyensis,Erebia_magdalena,master,-129.3826,64.4811,2007.0,6.0,24.0,1
+456,Erebia mackinleyensis,Erebia_magdalena,master,-129.3826389,64.48111111,2007.0,6.0,24.0,1
+457,Erebia mackinleyensis,Erebia_magdalena,master,-129.5622,64.5339,2005.0,6.0,20.0,1
+458,Erebia mackinleyensis,Erebia_magdalena,master,-129.5677778,64.53055556,2007.0,6.0,30.0,1
+459,Erebia mackinleyensis,Erebia_magdalena,master,-129.5678,64.5306,2007.0,6.0,30.0,1
+460,Erebia mackinleyensis,Erebia_magdalena,master,-129.5833,64.5219,2007.0,6.0,30.0,1
+461,Erebia mackinleyensis,Erebia_magdalena,master,-129.5833333,64.52194444,2007.0,6.0,30.0,1
+462,Erebia mackinleyensis,Erebia_magdalena,master,-134.6,60.1,1989.0,6.0,17.0,0
+463,Erebia mackinleyensis,Erebia_magdalena,master,-134.683,60.0833,1985.0,7.0,18.0,0
+464,Erebia mackinleyensis,Erebia_magdalena,master,-134.683,60.0167,1980.0,7.0,18.0,0
+465,Erebia mackinleyensis,Erebia_magdalena,master,-134.6833,60.0833,1985.0,7.0,18.0,0
+466,Erebia mackinleyensis,Erebia_magdalena,master,-134.6833,60.0833,1989.0,6.0,17.0,0
+467,Erebia mackinleyensis,Erebia_magdalena,master,-134.6833,60.0569,1985.0,7.0,18.0,0
+468,Erebia mackinleyensis,Erebia_magdalena,master,-134.6833,60.0569,1990.0,6.0,30.0,0
+469,Erebia mackinleyensis,Erebia_magdalena,master,-134.6833,60.0569,1990.0,7.0,6.0,0
+470,Erebia mackinleyensis,Erebia_magdalena,master,-134.6833,60.0569,1990.0,7.0,13.0,0
+471,Erebia mackinleyensis,Erebia_magdalena,master,-134.7,60.0167,1980.0,7.0,18.0,0
+472,Erebia mackinleyensis,Erebia_magdalena,master,-135.7667,66.1333,1982.0,7.0,6.0,0
+473,Erebia mackinleyensis,Erebia_magdalena,master,-135.7667,66.1333,1982.0,7.0,6.0,0
+474,Erebia mackinleyensis,Erebia_magdalena,master,-135.8167,66.3667,1982.0,7.0,6.0,0
+475,Erebia mackinleyensis,Erebia_magdalena,master,-135.8167,66.3667,1982.0,7.0,6.0,0
+476,Erebia mackinleyensis,Erebia_magdalena,master,-136.1667,67.9833,1987.0,7.0,8.0,0
+477,Erebia mackinleyensis,Erebia_magdalena,master,-136.1667,67.9833,1987.0,7.0,8.0,0
+478,Erebia mackinleyensis,Erebia_magdalena,master,-136.1833,67.05,1980.0,6.0,23.0,0
+479,Erebia mackinleyensis,Erebia_magdalena,master,-136.2,67.0167,1980.0,6.0,23.0,0
+480,Erebia mackinleyensis,Erebia_magdalena,master,-136.2,67.0167,1980.0,6.0,26.0,0
+481,Erebia mackinleyensis,Erebia_magdalena,master,-136.2,67.0167,1980.0,6.0,23.0,0
+482,Erebia mackinleyensis,Erebia_magdalena,master,-136.2,67.0167,1980.0,6.0,26.0,0
+483,Erebia mackinleyensis,Erebia_magdalena,master,-136.2167,66.9833,1987.0,6.0,18.0,0
+484,Erebia mackinleyensis,Erebia_magdalena,master,-136.2167,66.9833,1987.0,6.0,19.0,0
+485,Erebia mackinleyensis,Erebia_magdalena,master,-136.2167,66.9833,1987.0,6.0,21.0,0
+486,Erebia mackinleyensis,Erebia_magdalena,master,-136.2167,66.9833,1980.0,6.0,26.0,0
+487,Erebia mackinleyensis,Erebia_magdalena,master,-136.283,66.63,1987.0,6.0,11.0,0
+488,Erebia mackinleyensis,Erebia_magdalena,master,-136.283,66.63,1987.0,6.0,11.0,0
+489,Erebia mackinleyensis,Erebia_magdalena,master,-136.2833,66.6333,1987.0,6.0,,0
+490,Erebia mackinleyensis,Erebia_magdalena,master,-136.3,66.65,1989.0,6.0,21.0,0
+491,Erebia mackinleyensis,Erebia_magdalena,master,-136.5833,66.45,1979.0,7.0,3.0,0
+492,Erebia mackinleyensis,Erebia_magdalena,master,-136.5833,66.45,1979.0,7.0,3.0,0
+493,Erebia mackinleyensis,Erebia_magdalena,master,-136.6333,68.0,1982.0,7.0,13.0,0
+494,Erebia mackinleyensis,Erebia_magdalena,master,-136.6333,68.0,1982.0,7.0,13.0,0
+495,Erebia mackinleyensis,Erebia_magdalena,master,-136.7167,67.9833,1987.0,7.0,8.0,0
+496,Erebia mackinleyensis,Erebia_magdalena,master,-136.7833,66.0333,1982.0,7.0,5.0,0
+497,Erebia mackinleyensis,Erebia_magdalena,master,-136.7833,66.0333,1982.0,7.0,5.0,0
+498,Erebia mackinleyensis,Erebia_magdalena,master,-137.6833,65.8333,1981.0,6.0,24.0,0
+499,Erebia mackinleyensis,Erebia_magdalena,master,-138.1618,65.0719,2007.0,6.0,21.0,0
+500,Erebia mackinleyensis,Erebia_magdalena,master,-138.167,65.0333,1993.0,6.0,15.0,0
+501,Erebia mackinleyensis,Erebia_magdalena,master,-138.167,65.0333,1993.0,6.0,15.0,0
+502,Erebia mackinleyensis,Erebia_magdalena,master,-138.2,65.0833,1989.0,6.0,30.0,0
+503,Erebia mackinleyensis,Erebia_magdalena,master,-138.2,65.0167,1977.0,7.0,4.0,0
+504,Erebia mackinleyensis,Erebia_magdalena,master,-138.2,65.0167,1977.0,7.0,4.0,0
+505,Erebia mackinleyensis,Erebia_magdalena,master,-138.2167,65.0833,1989.0,6.0,28.0,0
+506,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0933,1981.0,6.0,16.0,0
+507,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0933,1981.0,6.0,17.0,0
+508,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1980.0,6.0,18.0,0
+509,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1982.0,6.0,22.0,0
+510,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1985.0,7.0,6.0,0
+511,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1981.0,7.0,13.0,0
+512,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1981.0,7.0,16.0,0
+513,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1979.0,6.0,23.0,0
+514,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1979.0,6.0,24.0,0
+515,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1982.0,6.0,25.0,0
+516,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1980.0,6.0,29.0,0
+517,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1981.0,6.0,19.0,0
+518,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1984.0,,,0
+519,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1981.0,6.0,19.0,0
+520,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1982.0,6.0,22.0,0
+521,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1985.0,7.0,6.0,0
+522,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1981.0,7.0,13.0,0
+523,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1981.0,7.0,16.0,0
+524,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1982.0,6.0,25.0,0
+525,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1980.0,6.0,18.0,0
+526,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1980.0,6.0,29.0,0
+527,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1979.0,6.0,23.0,0
+528,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0833,1979.0,6.0,24.0,0
+529,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0667,1973.0,7.0,3.0,0
+530,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0667,1974.0,6.0,15.0,0
+531,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0667,1973.0,7.0,3.0,0
+532,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0667,1979.0,6.0,24.0,0
+533,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0667,1981.0,6.0,14.0,0
+534,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0667,1979.0,6.0,23.0,0
+535,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0667,1980.0,6.0,18.0,0
+536,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.0667,1979.0,6.0,24.0,0
+537,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,65.05,1986.0,6.0,6.0,0
+538,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,64.4667,1980.0,7.0,5.0,0
+539,Erebia mackinleyensis,Erebia_magdalena,master,-138.2333,64.4667,1980.0,7.0,5.0,0
+540,Erebia mackinleyensis,Erebia_magdalena,master,-138.25,65.0667,1979.0,6.0,20.0,0
+541,Erebia mackinleyensis,Erebia_magdalena,master,-138.25,64.95,1972.0,6.0,17.0,0
+542,Erebia mackinleyensis,Erebia_magdalena,master,-138.25,64.95,1972.0,6.0,19.0,0
+543,Erebia mackinleyensis,Erebia_magdalena,master,-138.25,64.95,1972.0,6.0,23.0,0
+544,Erebia mackinleyensis,Erebia_magdalena,master,-138.25,64.95,1972.0,6.0,17.0,0
+545,Erebia mackinleyensis,Erebia_magdalena,master,-138.25,64.95,1972.0,6.0,19.0,0
+546,Erebia mackinleyensis,Erebia_magdalena,master,-138.25,64.95,1972.0,6.0,23.0,0
+547,Erebia mackinleyensis,Erebia_magdalena,master,-138.25,64.9333,1993.0,6.0,8.0,0
+548,Erebia mackinleyensis,Erebia_magdalena,master,-138.25,61.217,2002.0,6.0,26.0,0
+549,Erebia mackinleyensis,Erebia_magdalena,master,-138.25,61.217,2002.0,7.0,8.0,0
+550,Erebia mackinleyensis,Erebia_magdalena,master,-138.2628,65.0635,2007.0,6.0,21.0,0
+551,Erebia mackinleyensis,Erebia_magdalena,master,-138.2667,64.9333,1993.0,6.0,8.0,0
+552,Erebia mackinleyensis,Erebia_magdalena,master,-138.2667,64.9333,1993.0,6.0,14.0,0
+553,Erebia mackinleyensis,Erebia_magdalena,master,-138.2781,65.0732,2007.0,6.0,21.0,0
+554,Erebia mackinleyensis,Erebia_magdalena,master,-138.2833,65.0667,1989.0,6.0,20.0,0
+555,Erebia mackinleyensis,Erebia_magdalena,master,-138.2833,65.0667,1996.0,6.0,20.0,0
+556,Erebia mackinleyensis,Erebia_magdalena,master,-138.2833,65.0667,1981.0,6.0,17.0,0
+557,Erebia mackinleyensis,Erebia_magdalena,master,-138.3167,65.0667,1981.0,6.0,19.0,0
+558,Erebia mackinleyensis,Erebia_magdalena,master,-138.3167,65.0667,1981.0,6.0,19.0,0
+559,Erebia mackinleyensis,Erebia_magdalena,master,-138.3333,67.5333,1987.0,7.0,7.0,0
+560,Erebia mackinleyensis,Erebia_magdalena,master,-138.3333,65.0667,1977.0,6.0,27.0,0
+561,Erebia mackinleyensis,Erebia_magdalena,master,-138.3333,65.0667,1977.0,6.0,27.0,0
+562,Erebia mackinleyensis,Erebia_magdalena,master,-138.4167,65.25,1981.0,6.0,15.0,0
+563,Erebia mackinleyensis,Erebia_magdalena,master,-138.4167,65.25,1981.0,6.0,16.0,0
+564,Erebia mackinleyensis,Erebia_magdalena,master,-138.4167,65.25,1981.0,6.0,15.0,0
+565,Erebia mackinleyensis,Erebia_magdalena,master,-138.4167,65.25,1981.0,6.0,16.0,0
+566,Erebia mackinleyensis,Erebia_magdalena,master,-138.4167,65.1667,1983.0,7.0,22.0,0
+567,Erebia mackinleyensis,Erebia_magdalena,master,-138.4167,65.1667,2000.0,7.0,22.0,0
+568,Erebia mackinleyensis,Erebia_magdalena,master,-138.417,65.25,1980.0,6.0,18.0,0
+569,Erebia mackinleyensis,Erebia_magdalena,master,-138.417,65.25,1981.0,6.0,17.0,0
+570,Erebia mackinleyensis,Erebia_magdalena,master,-138.417,65.25,1981.0,6.0,17.0,0
+571,Erebia mackinleyensis,Erebia_magdalena,master,-138.417,65.25,1980.0,6.0,18.0,0
+572,Erebia mackinleyensis,Erebia_magdalena,master,-138.45,65.2833,1985.0,7.0,5.0,0
+573,Erebia mackinleyensis,Erebia_magdalena,master,-138.45,65.2833,1985.0,7.0,5.0,0
+574,Erebia mackinleyensis,Erebia_magdalena,master,-138.6167,68.4167,1974.0,7.0,12.0,0
+575,Erebia mackinleyensis,Erebia_magdalena,master,-138.6167,68.4167,1974.0,,,0
+576,Erebia mackinleyensis,Erebia_magdalena,master,-138.7167,61.0833,1982.0,7.0,28.0,0
+577,Erebia mackinleyensis,Erebia_magdalena,master,-138.7167,61.0833,1982.0,6.0,26.0,0
+578,Erebia mackinleyensis,Erebia_magdalena,master,-138.7167,61.0833,1982.0,7.0,28.0,0
+579,Erebia mackinleyensis,Erebia_magdalena,master,-138.8,61.25,1976.0,7.0,1.0,0
+580,Erebia mackinleyensis,Erebia_magdalena,master,-138.8333,61.2333,1976.0,7.0,2.0,0
+581,Erebia mackinleyensis,Erebia_magdalena,master,-138.866,60.65,1991.0,7.0,4.0,0
+582,Erebia mackinleyensis,Erebia_magdalena,master,-138.8667,60.65,1991.0,7.0,4.0,0
+583,Erebia mackinleyensis,Erebia_magdalena,master,-139.2333,61.4333,1980.0,7.0,11.0,0
+584,Erebia mackinleyensis,Erebia_magdalena,master,-139.4667,61.4667,1985.0,6.0,29.0,0
+585,Erebia mackinleyensis,Erebia_magdalena,master,-139.4667,61.4667,1985.0,6.0,30.0,0
+586,Erebia mackinleyensis,Erebia_magdalena,master,-139.4667,61.4667,1985.0,6.0,29.0,0
+587,Erebia mackinleyensis,Erebia_magdalena,master,-139.4667,61.4667,1985.0,6.0,30.0,0
+588,Erebia mackinleyensis,Erebia_magdalena,master,-139.5,60.75,1976.0,7.0,1.0,0
+589,Erebia mackinleyensis,Erebia_magdalena,master,-139.516,61.4833,1980.0,7.0,11.0,0
+590,Erebia mackinleyensis,Erebia_magdalena,master,-139.5167,61.4833,1980.0,7.0,11.0,0
+591,Erebia mackinleyensis,Erebia_magdalena,master,-139.7,61.1833,1981.0,6.0,24.0,0
+592,Erebia mackinleyensis,Erebia_magdalena,master,-139.7,61.1833,1981.0,6.0,24.0,0
+593,Erebia mackinleyensis,Erebia_magdalena,master,-140.0333,69.25,1984.0,6.0,24.0,0
+594,Erebia mackinleyensis,Erebia_magdalena,master,-140.0333,69.25,1984.0,6.0,24.0,0
+595,Erebia mackinleyensis,Erebia_magdalena,master,-140.05,69.2833,1984.0,6.0,17.0,0
+596,Erebia mackinleyensis,Erebia_magdalena,master,-140.05,69.2833,1984.0,6.0,17.0,0
+597,Erebia mackinleyensis,Erebia_magdalena,master,-140.0667,69.2167,1984.0,6.0,29.0,0
+598,Erebia mackinleyensis,Erebia_magdalena,master,-140.0667,69.2167,1984.0,6.0,29.0,0
+599,Erebia mackinleyensis,Erebia_magdalena,master,-140.0833,69.2167,1984.0,6.0,18.0,0
+600,Erebia mackinleyensis,Erebia_magdalena,master,-140.0833,69.2167,1984.0,6.0,18.0,0
+601,Erebia mackinleyensis,Erebia_magdalena,master,-140.1667,69.2167,1984.0,6.0,16.0,0
+602,Erebia mackinleyensis,Erebia_magdalena,master,-140.1667,69.2167,1984.0,6.0,19.0,0
+603,Erebia mackinleyensis,Erebia_magdalena,master,-140.1667,69.2167,1984.0,6.0,22.0,0
+604,Erebia mackinleyensis,Erebia_magdalena,master,-140.1667,69.2167,1984.0,6.0,16.0,0
+605,Erebia mackinleyensis,Erebia_magdalena,master,-140.1667,69.2167,1984.0,6.0,19.0,0
+606,Erebia mackinleyensis,Erebia_magdalena,master,-140.1667,69.2167,1984.0,6.0,22.0,0
+607,Erebia mackinleyensis,Erebia_magdalena,master,-140.1776,65.3658,2007.0,6.0,26.0,0
+608,Erebia mackinleyensis,Erebia_magdalena,master,-140.1785,65.3649,2007.0,6.0,26.0,0
+609,Erebia mackinleyensis,Erebia_magdalena,master,-140.1785,65.3623,2007.0,6.0,22.0,0
+610,Erebia mackinleyensis,Erebia_magdalena,master,-140.182,65.3632,2007.0,6.0,24.0,0
+611,Erebia mackinleyensis,Erebia_magdalena,master,-140.1864,65.3559,2007.0,6.0,24.0,0
+612,Erebia mackinleyensis,Erebia_magdalena,master,-140.1865,65.3572,2007.0,6.0,24.0,0
+613,Erebia mackinleyensis,Erebia_magdalena,master,-140.1866,65.3585,2007.0,6.0,24.0,0
+614,Erebia mackinleyensis,Erebia_magdalena,master,-140.2007,65.3685,2007.0,6.0,23.0,0
+615,Erebia mackinleyensis,Erebia_magdalena,master,-140.2025,65.3682,2007.0,6.0,23.0,0
+616,Erebia mackinleyensis,Erebia_magdalena,master,-140.2035,65.3648,2007.0,6.0,23.0,0
+617,Erebia mackinleyensis,Erebia_magdalena,master,-140.73,65.3621,2007.0,6.0,24.0,0
+618,Erebia mackinleyensis,Erebia_magdalena,master,-140.75,64.0333,1970.0,5.0,31.0,0
+619,Erebia mackinleyensis,Erebia_magdalena,master,-140.79,65.3667,2007.0,6.0,25.0,0
+620,Erebia mackinleyensis,Erebia_magdalena,master,-141.0,65.1667,1912.0,7.0,30.0,0
+621,Erebia mackinleyensis,Erebia_magdalena,master,-141.0,65.1667,1912.0,7.0,30.0,0
