@@ -1,0 +1,445 @@
+,old_name,final_name,source,longitude,latitude,year,month,day,outliers
+0,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.458533,42.092757,2019.0,6.0,4.0,0
+1,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.649753,39.623904,2019.0,7.0,6.0,0
+2,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.955073,41.30746,2019.0,7.0,6.0,0
+3,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.132684,42.909884,2019.0,7.0,16.0,0
+4,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-123.03795,41.404542,2019.0,7.0,16.0,0
+5,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.17408,39.107848,2019.0,7.0,20.0,0
+6,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.945341,39.779164,2019.0,7.0,23.0,0
+7,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.174837,42.940883,2019.0,7.0,28.0,0
+8,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.360611,39.35172,2019.0,7.0,24.0,0
+9,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.667162,39.619343,2019.0,7.0,6.0,0
+10,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.230427,39.316836,2019.0,7.0,20.0,0
+11,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.365888,40.064643,2019.0,7.0,18.0,0
+12,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.43728,43.17127,2019.0,7.0,18.0,0
+13,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.481917,40.415018,2019.0,7.0,20.0,0
+14,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.651362,39.419518,2019.0,7.0,10.0,0
+15,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.026599,38.911495,2019.0,7.0,21.0,0
+16,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-119.892838,39.169795,2019.0,7.0,22.0,0
+17,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.744987,39.73425,2019.0,7.0,5.0,0
+18,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.651111,39.591645,2019.0,8.0,7.0,0
+19,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.36058,39.351795,2019.0,8.0,2.0,0
+20,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.304107,40.488002,2019.0,8.0,8.0,0
+21,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-123.310631,41.564625,2018.0,6.0,30.0,0
+22,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.576869,39.625057,2018.0,6.0,29.0,0
+23,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.677658,39.69457,2018.0,6.0,29.0,0
+24,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.722422,45.336621,2018.0,7.0,17.0,0
+25,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.430337,40.465183,2018.0,7.0,13.0,0
+26,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.288727,41.149972,2018.0,7.0,5.0,0
+27,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.64672,39.619733,2018.0,7.0,11.0,0
+28,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.548752,39.67901,2018.0,7.0,7.0,0
+29,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.451553,42.065097,2018.0,7.0,19.0,0
+30,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.887653,40.044955,2018.0,7.0,5.0,0
+31,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.107549,38.955604,2017.0,6.0,25.0,0
+32,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.68888,41.19933,2017.0,6.0,5.0,0
+33,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.439913,42.108509,2017.0,6.0,17.0,0
+34,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.528964,47.312902,2017.0,7.0,15.0,0
+35,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.825058,40.012042,2017.0,7.0,4.0,0
+36,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.471372,40.420688,2017.0,7.0,22.0,0
+37,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.302002,40.434979,2016.0,7.0,23.0,0
+38,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.887402,40.911242,2016.0,7.0,3.0,0
+39,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.50993,39.28816,2015.0,6.0,15.0,0
+40,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.686417,39.69362,2015.0,6.0,28.0,0
+41,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.420655,40.49766,2015.0,6.0,30.0,0
+42,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.638313,40.301711,2015.0,6.0,20.0,0
+43,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.69176,40.342335,2015.0,6.0,20.0,0
+44,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.711242,45.331207,2015.0,7.0,5.0,0
+45,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.14241,38.761276,2015.0,7.0,6.0,0
+46,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.14241,38.761276,2015.0,7.0,6.0,0
+47,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.122932,39.053625,2014.0,6.0,30.0,0
+48,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.618552,39.766287,2014.0,6.0,20.0,0
+49,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.490317,39.616653,2014.0,6.0,22.0,0
+50,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.421703,39.479718,2014.0,6.0,24.0,0
+51,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-119.898047,39.16118,2014.0,7.0,8.0,0
+52,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-123.049233,41.014961,2014.0,7.0,6.0,0
+53,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.621607,39.616709,2013.0,6.0,10.0,0
+54,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.327909,39.345061,2013.0,6.0,17.0,0
+55,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.247373,39.43302,2013.0,6.0,30.0,0
+56,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.326485,40.46216,2013.0,7.0,2.0,0
+57,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.359669,39.320582,2013.0,7.0,17.0,0
+58,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.3825,39.3235,2013.0,7.0,5.0,0
+59,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.066666,38.831684,2013.0,7.0,14.0,0
+60,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.221173,38.869211,2013.0,7.0,12.0,0
+61,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-119.907711,39.3102,2013.0,7.0,12.0,0
+62,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.524199,40.532216,2011.0,7.0,21.0,0
+63,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-119.677431,38.361243,2011.0,9.0,6.0,0
+64,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.202106,39.06353,2011.0,9.0,11.0,0
+65,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.108075,42.920792,2010.0,7.0,25.0,0
+66,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.108075,42.920792,2010.0,7.0,25.0,0
+67,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.638723,39.673682,2009.0,6.0,29.0,0
+68,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.278705,41.143941,2008.0,6.0,17.0,0
+69,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.102593,42.936844,2008.0,8.0,12.0,0
+70,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-123.413381,41.032078,2007.0,6.0,15.0,0
+71,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-123.413381,41.032078,2007.0,6.0,10.0,0
+72,BOLD:ABY7860,Chlosyne_hoffmanni,gbif,-120.666,39.7783,2007.0,6.0,29.0,0
+73,BOLD:ABY7860,Chlosyne_hoffmanni,gbif,-120.666,39.7783,2007.0,6.0,29.0,0
+74,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.226221,39.075427,2006.0,7.0,16.0,0
+75,"Chlosyne hoffmanni manchada Bauer, 1960",Chlosyne_hoffmanni,gbif,-120.639257,47.688177,2005.0,6.0,26.0,0
+76,"Chlosyne hoffmanni manchada Bauer, 1960",Chlosyne_hoffmanni,gbif,-120.587914,47.196976,2005.0,6.0,20.0,0
+77,"Chlosyne hoffmanni manchada Bauer, 1960",Chlosyne_hoffmanni,gbif,-120.587816,47.569516,2005.0,6.0,26.0,0
+78,BOLD:ABY7860,Chlosyne_hoffmanni,gbif,-120.68,48.742,2005.0,7.0,23.0,0
+79,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.954296,41.387154,2002.0,6.0,17.0,0
+80,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.954296,41.387154,2002.0,6.0,13.0,0
+81,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.954296,41.387154,2002.0,6.0,14.0,0
+82,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.954296,41.387154,2002.0,6.0,16.0,0
+83,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.954296,41.387154,2002.0,6.0,17.0,0
+84,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.954296,41.387154,2002.0,6.0,22.0,0
+85,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.954296,41.387154,2002.0,6.0,13.0,0
+86,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.954296,41.387154,2002.0,6.0,13.0,0
+87,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.954296,41.387154,2002.0,6.0,16.0,0
+88,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.954296,41.387154,2002.0,6.0,15.0,0
+89,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.954296,41.387154,2002.0,6.0,14.0,0
+90,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.149735,42.112272,2001.0,6.0,2.0,0
+91,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.149735,42.112272,2001.0,6.0,2.0,0
+92,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.149735,42.112272,2001.0,6.0,9.0,0
+93,BOLD:ABY7860,Chlosyne_hoffmanni,gbif,-120.662,48.72,2001.0,7.0,9.0,0
+94,BOLD:ABY7860,Chlosyne_hoffmanni,gbif,-120.662,48.72,2001.0,7.0,9.0,0
+95,BOLD:ABY7860,Chlosyne_hoffmanni,gbif,-120.662,48.72,2001.0,7.0,9.0,0
+96,BOLD:ABY7860,Chlosyne_hoffmanni,gbif,-120.662,48.72,2001.0,7.0,9.0,0
+97,BOLD:ABY7860,Chlosyne_hoffmanni,gbif,-120.662,48.72,2001.0,7.0,9.0,0
+98,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.799108,39.359342,2000.0,5.0,21.0,0
+99,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.587816,47.569516,1999.0,6.0,18.0,0
+100,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.587816,47.569516,1999.0,6.0,18.0,0
+101,"Chlosyne hoffmanni segregata Barnes & McDunnough, 1918",Chlosyne_hoffmanni,gbif,-121.734654,41.190593,1999.0,6.0,22.0,0
+102,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-119.536534,37.454384,1996.0,7.0,1.0,0
+103,Chlosyne hoffmanni hoffmanni,Chlosyne_hoffmanni,gbif,-120.265,38.481111,1994.0,6.0,19.0,0
+104,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.196053,41.19073,1993.0,7.0,23.0,0
+105,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.66092,48.71973361,1990.0,6.0,11.0,0
+106,Chlosyne hoffmanni hoffmanni,Chlosyne_hoffmanni,gbif,-121.521389,40.325556,1989.0,6.0,20.0,0
+107,Chlosyne hoffmanni hoffmanni,Chlosyne_hoffmanni,gbif,-121.521389,40.325556,1989.0,6.0,21.0,0
+108,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.9167,49.0667,1978.0,7.0,24.0,0
+109,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.95582,46.54865,1970.0,6.0,20.0,0
+110,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.617,49.1345,1969.0,6.0,1.0,0
+111,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.617,49.1345,1969.0,6.0,1.0,0
+112,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.617,49.1345,1969.0,6.0,1.0,0
+113,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.617,49.1345,1969.0,6.0,1.0,0
+114,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.617,49.1345,1969.0,6.0,1.0,0
+115,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.79968,44.67421,1964.0,8.0,23.0,0
+116,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.65,49.1167,1962.0,7.0,9.0,0
+117,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.65,49.1167,1962.0,7.0,9.0,0
+118,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.9167,49.0667,1961.0,7.0,3.0,0
+119,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.9167,49.0667,1961.0,7.0,3.0,0
+120,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.086,47.746,1959.0,8.0,6.0,0
+121,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.56038,48.45681,1956.0,7.0,2.0,0
+122,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.56038,48.45681,1956.0,7.0,2.0,0
+123,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.129921,39.068508,1953.0,7.0,22.0,0
+124,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.3326,48.22793,1939.0,7.0,9.0,0
+125,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.13945,41.25571,1938.0,6.0,24.0,0
+126,"Chlosyne hoffmanni segregata Barnes & McDunnough, 1918",Chlosyne_hoffmanni,gbif,-119.781132,48.102857,1938.0,7.0,10.0,0
+127,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-119.780617,48.095978,1937.0,5.0,9.0,0
+128,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.3326,48.22793,1937.0,7.0,18.0,0
+129,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.106694,42.94374,1937.0,7.0,13.0,0
+130,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.6426,48.4668,1937.0,7.0,7.0,0
+131,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-119.740856,48.548712,1937.0,7.0,7.0,0
+132,"Chlosyne hoffmanni segregata Barnes & McDunnough, 1918",Chlosyne_hoffmanni,gbif,-119.781132,48.102857,1937.0,7.0,14.0,0
+133,"Chlosyne hoffmanni segregata Barnes & McDunnough, 1918",Chlosyne_hoffmanni,gbif,-119.781132,48.102857,1937.0,7.0,14.0,0
+134,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.56038,48.45681,1934.0,6.0,10.0,0
+135,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.56038,48.45681,1934.0,6.0,8.0,0
+136,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.56038,48.45681,1934.0,7.0,2.0,0
+137,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-119.5307122,37.83986286,1934.0,7.0,11.0,0
+138,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-119.30913,38.08524,1934.0,7.0,5.0,0
+139,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.838598,40.004682,1932.0,8.0,7.0,0
+140,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.129921,39.068508,1930.0,6.0,26.0,0
+141,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.13552,39.94156,1928.0,7.0,15.0,0
+142,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.13552,39.94156,1928.0,7.0,17.0,0
+143,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.13552,39.94156,1928.0,7.0,9.0,0
+144,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-121.692,49.176,1915.0,7.0,22.0,0
+145,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-122.419416,37.77493,1700.0,1.0,1.0,1
+146,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.770764,39.009344,1700.0,1.0,1.0,0
+147,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.770764,39.009344,1700.0,1.0,1.0,0
+148,"Chlosyne hoffmanni Behr, 1863",Chlosyne_hoffmanni,gbif,-120.617,49.1345,,,,0
+149,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,1991.0,7.0,21.0,0
+150,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,2004.0,7.0,1.0,0
+151,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,2004.0,6.0,30.0,0
+152,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,1999.0,7.0,5.0,0
+153,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,1999.0,7.0,11.0,0
+154,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,1950.0,1.0,1.0,0
+155,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.66182,43.96101,1950.0,1.0,1.0,0
+156,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.88152,37.512794,1921.0,7.0,2.0,0
+157,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.88152,37.512794,1933.0,7.0,18.0,0
+158,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.88152,37.512794,1933.0,7.0,14.0,0
+159,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.88152,37.512794,1950.0,1.0,1.0,0
+160,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.63788,45.560547,1950.0,1.0,1.0,0
+161,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.23751,45.060005,1950.0,1.0,1.0,0
+162,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.59274,44.84464,1950.0,1.0,1.0,0
+163,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.45687,42.344757,1950.0,1.0,1.0,0
+164,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.80532,47.36999,2013.0,6.0,22.0,0
+165,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.251274,39.553284,1962.0,7.0,8.0,0
+166,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.251274,39.553284,1950.0,1.0,1.0,0
+167,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.712006,40.53944,1950.0,1.0,1.0,0
+168,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-118.952866,37.92186,1975.0,8.0,3.0,0
+169,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-118.952866,37.92186,1974.0,7.0,16.0,0
+170,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.76576,39.141876,1950.0,1.0,1.0,0
+171,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-118.952866,37.92186,1950.0,1.0,1.0,0
+172,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.76412,47.38417,2012.0,7.0,14.0,0
+173,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.45547,46.619545,1950.0,1.0,1.0,0
+174,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.97405,38.029655,2002.0,7.0,4.0,0
+175,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.97405,38.029655,1987.0,7.0,13.0,0
+176,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.97405,38.029655,1987.0,7.0,8.0,0
+177,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.97405,38.029655,1994.0,7.0,13.0,0
+178,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.97405,38.029655,1978.0,7.0,15.0,0
+179,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.97405,38.029655,1934.0,7.0,24.0,0
+180,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.97405,38.029655,1934.0,7.0,23.0,0
+181,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.97405,38.029655,1950.0,1.0,1.0,0
+182,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.129524,47.06759,1950.0,1.0,1.0,0
+183,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.062256,40.63295,1976.0,7.0,30.0,0
+184,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.062256,40.63295,1977.0,7.0,19.0,0
+185,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.062256,40.63295,1976.0,6.0,25.0,0
+186,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.062256,40.63295,1950.0,1.0,1.0,0
+187,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.17461,40.09822,1989.0,7.0,22.0,0
+188,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.17461,40.09822,1950.0,1.0,1.0,0
+189,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.84745,40.790886,1950.0,1.0,1.0,0
+190,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.80395,39.091576,1960.0,6.0,25.0,0
+191,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.80395,39.091576,1976.0,8.0,26.0,0
+192,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.80395,39.091576,1960.0,8.0,6.0,0
+193,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.80395,39.091576,1960.0,8.0,6.0,0
+194,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.80395,39.091576,1960.0,8.0,6.0,0
+195,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.80395,39.091576,1950.0,1.0,1.0,0
+196,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.75583,46.543606,1950.0,1.0,1.0,0
+197,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.674904,47.944534,2010.0,7.0,12.0,0
+198,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.666,38.40924,1947.0,7.0,19.0,0
+199,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.666,38.40924,1950.0,1.0,1.0,0
+200,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.43576,38.742638,1950.0,1.0,1.0,0
+201,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.57701,41.774326,1979.0,7.0,12.0,0
+202,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.57701,41.774326,1976.0,6.0,25.0,0
+203,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.57701,41.774326,1991.0,7.0,6.0,0
+204,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.57701,41.774326,1985.0,7.0,3.0,0
+205,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.57701,41.774326,1976.0,6.0,27.0,0
+206,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.57701,41.774326,1976.0,6.0,26.0,0
+207,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.57701,41.774326,1950.0,1.0,1.0,0
+208,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.26166,43.83251,1950.0,1.0,1.0,0
+209,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.61999,38.231087,1950.0,1.0,1.0,0
+210,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.24263,37.159264,2002.0,7.0,4.0,0
+211,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.86951,40.745007,1990.0,8.0,1.0,0
+212,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.12992,39.06851,1953.0,7.0,22.0,0
+213,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.68642,39.69362,2015.0,6.0,28.0,0
+214,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.1067,42.94374,1937.0,7.0,13.0,0
+215,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.56038,48.45681,1934.0,7.0,2.0,0
+216,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.56038,48.45681,1934.0,6.0,10.0,0
+217,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.30913,38.08524,1934.0,7.0,5.0,0
+218,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.13552,39.94156,1928.0,7.0,17.0,0
+219,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.3326,48.22793,1937.0,7.0,18.0,0
+220,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.773445,39.29519,2013.0,6.0,6.0,0
+221,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.5242,40.532215,2011.0,7.0,21.0,0
+222,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.31063,41.564625,2018.0,6.0,30.0,0
+223,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.887405,40.911243,2016.0,7.0,3.0,0
+224,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.32791,39.345062,2013.0,6.0,17.0,0
+225,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.57701,41.774326,1978.0,8.0,6.0,0
+226,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.521996,39.576923,2006.0,6.0,29.0,0
+227,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.653854,38.44355,2008.0,7.0,5.0,0
+228,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.53329,41.587986,2006.0,7.0,4.0,0
+229,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.72272,39.06203,2011.0,9.0,11.0,0
+230,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.14241,38.761276,2015.0,7.0,6.0,0
+231,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.14241,38.761276,2015.0,7.0,6.0,0
+232,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.49032,39.616653,2014.0,6.0,22.0,0
+233,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.4217,39.479717,2014.0,6.0,24.0,0
+234,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.2021,39.06353,2011.0,9.0,11.0,0
+235,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.638725,39.673683,2009.0,6.0,29.0,0
+236,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.50993,39.28816,2015.0,6.0,15.0,0
+237,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.10755,38.955605,2017.0,6.0,25.0,0
+238,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.247375,39.43302,2013.0,6.0,30.0,0
+239,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.621605,39.61671,2013.0,6.0,10.0,0
+240,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.3825,39.3235,2013.0,7.0,5.0,0
+241,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.221176,38.86921,2013.0,7.0,12.0,0
+242,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.066666,38.831684,2013.0,7.0,14.0,0
+243,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.326485,40.46216,2013.0,7.0,2.0,0
+244,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.82506,40.012043,2017.0,7.0,4.0,0
+245,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.471375,40.42069,2017.0,7.0,22.0,0
+246,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.10808,42.92079,2010.0,7.0,25.0,0
+247,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.420654,40.49766,2015.0,6.0,30.0,0
+248,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.89805,39.16118,2014.0,7.0,8.0,0
+249,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.71124,45.331207,2015.0,7.0,5.0,0
+250,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.95429,41.387154,2002.0,6.0,17.0,0
+251,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.149734,42.11227,2001.0,6.0,2.0,0
+252,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.587814,47.569515,1999.0,6.0,18.0,0
+253,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.95429,41.387154,2002.0,6.0,13.0,0
+254,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.95429,41.387154,2002.0,6.0,14.0,0
+255,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.95429,41.387154,2002.0,6.0,16.0,0
+256,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.95429,41.387154,2002.0,6.0,17.0,0
+257,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.41338,41.032078,2007.0,6.0,15.0,0
+258,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.149734,42.11227,2001.0,6.0,2.0,0
+259,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.95429,41.387154,2002.0,6.0,22.0,0
+260,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.95429,41.387154,2002.0,6.0,13.0,0
+261,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.95429,41.387154,2002.0,6.0,13.0,0
+262,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.587814,47.569515,1999.0,6.0,18.0,0
+263,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.95429,41.387154,2002.0,6.0,16.0,0
+264,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.95429,41.387154,2002.0,6.0,15.0,0
+265,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.41338,41.032078,2007.0,6.0,10.0,0
+266,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.149734,42.11227,2001.0,6.0,9.0,0
+267,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.95429,41.387154,2002.0,6.0,14.0,0
+268,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.3144,39.7783,1931.0,6.0,22.0,0
+269,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.576866,39.625057,2018.0,6.0,29.0,0
+270,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.2787,41.14394,2008.0,6.0,17.0,0
+271,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.72242,45.33662,2018.0,7.0,17.0,0
+272,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.302,40.43498,2016.0,7.0,23.0,0
+273,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.430336,40.465183,2018.0,7.0,13.0,0
+274,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-118.54573,35.895138,2015.0,6.0,21.0,0
+275,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.56038,48.45681,1956.0,7.0,2.0,0
+276,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.78062,48.095978,1937.0,5.0,9.0,0
+277,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.530716,37.839863,1934.0,7.0,11.0,0
+278,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.66092,48.719734,1990.0,6.0,11.0,0
+279,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.13945,41.25571,1938.0,6.0,24.0,0
+280,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.56038,48.45681,1934.0,6.0,8.0,0
+281,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.95582,46.54865,1970.0,6.0,20.0,0
+282,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.6426,48.4668,1937.0,7.0,7.0,0
+283,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.13552,39.94156,1928.0,7.0,15.0,0
+284,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.12992,39.06851,1930.0,6.0,26.0,0
+285,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.79968,44.67421,1964.0,8.0,23.0,0
+286,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.3326,48.22793,1939.0,7.0,9.0,0
+287,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.13552,39.94156,1928.0,7.0,9.0,0
+288,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.52896,47.3129,2017.0,7.0,15.0,0
+289,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.56038,48.45681,1956.0,7.0,2.0,0
+290,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.9167,49.0667,1978.0,7.0,24.0,0
+291,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.9167,49.0667,1961.0,7.0,3.0,0
+292,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.65,49.1167,1962.0,7.0,9.0,0
+293,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.65,49.1167,1962.0,7.0,9.0,0
+294,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.617,49.1345,,,,0
+295,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.9167,49.0667,1961.0,7.0,3.0,0
+296,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.617,49.1345,1969.0,6.0,1.0,0
+297,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.617,49.1345,1969.0,6.0,1.0,0
+298,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.617,49.1345,1969.0,6.0,1.0,0
+299,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.617,49.1345,1969.0,6.0,1.0,0
+300,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.617,49.1345,1969.0,6.0,1.0,0
+301,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.692,49.176,1915.0,7.0,22.0,0
+302,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.10808,42.92079,2010.0,7.0,25.0,0
+303,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.22622,39.075428,2006.0,7.0,16.0,0
+304,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.04923,41.01496,2014.0,7.0,6.0,0
+305,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.90771,39.3102,2013.0,7.0,12.0,0
+306,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.67671,47.124443,2012.0,8.0,11.0,0
+307,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,2003.0,8.0,14.0,0
+308,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-118.85968,36.134174,1944.0,8.0,8.0,0
+309,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,1989.0,7.0,20.0,0
+310,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.43576,38.742638,1935.0,7.0,23.0,0
+311,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,1990.0,7.0,12.0,0
+312,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,2004.0,7.0,9.0,0
+313,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,2000.0,8.0,2.0,0
+314,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,1996.0,7.0,2.0,0
+315,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.696266,37.251926,1996.0,7.0,1.0,0
+316,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.674904,47.944534,1950.0,1.0,1.0,0
+317,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.17858,44.66733,1950.0,1.0,1.0,0
+318,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.055626,41.95451,2011.0,8.0,11.0,0
+319,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-118.85968,36.134174,1943.0,7.0,1.0,0
+320,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-118.85968,36.134174,1929.0,7.0,18.0,0
+321,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-118.85968,36.134174,1950.0,1.0,1.0,0
+322,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.7558,47.38388,2012.0,7.0,14.0,0
+323,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.37732,41.254036,2011.0,7.0,15.0,0
+324,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.77469,46.17465,1950.0,1.0,1.0,0
+325,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.603546,40.56084,1950.0,1.0,1.0,0
+326,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.9711,45.888824,1950.0,1.0,1.0,0
+327,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.054634,37.31474,1930.0,6.0,28.0,0
+328,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.171036,39.134666,1950.0,1.0,1.0,0
+329,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.83961,47.37005,2012.0,7.0,1.0,0
+330,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.9605,47.412174,2007.0,7.0,7.0,0
+331,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.97186,48.878716,1950.0,1.0,1.0,0
+332,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.84534,44.478176,2015.0,6.0,29.0,0
+333,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.1189,45.202385,1950.0,1.0,1.0,0
+334,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.80395,39.992683,1950.0,1.0,1.0,0
+335,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.764656,42.334534,1950.0,1.0,1.0,0
+336,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.97405,38.029655,1995.0,7.0,23.0,0
+337,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.97405,38.029655,1995.0,7.0,22.0,0
+338,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.97405,38.029655,1956.0,7.0,10.0,0
+339,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.75235,45.3457,2016.0,7.0,21.0,0
+340,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.585976,47.17847,2010.0,7.0,11.0,0
+341,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.554306,39.644592,1950.0,1.0,1.0,0
+342,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.75583,46.543606,1950.0,1.0,1.0,0
+343,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.24924,43.12607,1950.0,1.0,1.0,0
+344,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.90735,38.313404,2016.0,7.0,4.0,0
+345,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.629364,41.456516,1950.0,1.0,1.0,0
+346,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.983604,47.548035,1950.0,1.0,1.0,0
+347,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.652214,48.589684,1950.0,1.0,1.0,0
+348,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.896225,45.942852,1950.0,1.0,1.0,0
+349,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.57701,41.774326,1974.0,6.0,28.0,0
+350,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.61421,42.69528,1950.0,1.0,1.0,0
+351,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.72428,47.360058,2014.0,7.0,5.0,0
+352,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.57701,41.774326,1976.0,8.0,9.0,0
+353,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.57701,41.774326,1968.0,7.0,23.0,0
+354,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-122.53401,44.409977,1950.0,1.0,1.0,0
+355,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.23208,36.985897,1950.0,1.0,1.0,0
+356,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.23208,36.985897,2002.0,7.0,4.0,0
+357,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.23208,36.985897,1930.0,6.0,28.0,0
+358,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.23208,36.985897,1950.0,1.0,1.0,0
+359,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.96597,41.70763,1950.0,1.0,1.0,0
+360,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.71668,47.357384,2014.0,7.0,5.0,0
+361,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.72184,45.33578,2015.0,7.0,5.0,0
+362,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-123.86951,40.745007,1950.0,1.0,1.0,0
+363,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.76629,38.736015,2011.0,9.0,6.0,0
+364,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.76629,38.736015,1987.0,6.0,29.0,0
+365,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-119.76629,38.736015,1950.0,1.0,1.0,0
+366,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-121.818985,44.49943,2016.0,7.0,26.0,0
+367,Chlosyne hoffmanni,Chlosyne_hoffmanni,bison,-120.93194,47.174953,1950.0,1.0,1.0,0
+368,Chlosyne hoffmanni,Chlosyne_hoffmanni,ecoengine,-120.4102,38.7995,1992.0,7.0,1.0,0
+369,Chlosyne hoffmanni,Chlosyne_hoffmanni,ecoengine,-120.4102,38.7995,1992.0,7.0,1.0,0
+370,Chlosyne hoffmanni,Chlosyne_hoffmanni,ecoengine,-119.6047,37.7133,2010.0,8.0,4.0,0
+371,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.954296,41.387154,2002.0,6.0,14.0,0
+372,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.56038,48.45681,1956.0,7.0,2.0,0
+373,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-121.3144,39.7783,1931.0,6.0,22.0,0
+374,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.419416,37.77493,1700.0,1.0,1.0,1
+375,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-121.13552,39.94156,1928.0,7.0,15.0,0
+376,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-121.086,47.746,1959.0,8.0,6.0,0
+377,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.770764,39.009344,1700.0,1.0,1.0,0
+378,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.13945,41.25571,1938.0,6.0,24.0,0
+379,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.954296,41.387154,2002.0,6.0,17.0,0
+380,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.129921,39.06850815,1930.0,6.0,26.0,0
+381,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.149735,42.112272,2001.0,6.0,2.0,0
+382,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.1066944,42.9437401,1937.0,7.0,13.0,0
+383,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-121.13552,39.94156,1928.0,7.0,9.0,0
+384,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.954296,41.387154,2002.0,6.0,14.0,0
+385,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.56038,48.45681,1934.0,7.0,2.0,0
+386,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-119.5309976,37.83992336,1934.0,7.0,11.0,0
+387,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.149735,42.112272,2001.0,6.0,9.0,0
+388,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.56038,48.45681,1956.0,7.0,2.0,0
+389,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-121.68888,41.19933,2017.0,6.0,5.0,0
+390,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.954296,41.387154,2002.0,6.0,17.0,0
+391,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.954296,41.387154,2002.0,6.0,15.0,0
+392,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.954296,41.387154,2002.0,6.0,22.0,0
+393,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.95582,46.54865,1970.0,6.0,20.0,0
+394,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-119.30913,38.08524,1934.0,7.0,5.0,0
+395,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.838598,40.004682,1932.0,8.0,7.0,0
+396,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.6612181,48.71985867,1990.0,6.0,11.0,0
+397,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.770764,39.009344,1700.0,1.0,1.0,0
+398,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-121.79968,44.67421,1964.0,8.0,23.0,0
+399,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-119.7806166,48.0959784,1937.0,5.0,9.0,0
+400,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.954296,41.387154,2002.0,6.0,16.0,0
+401,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.3326,48.22793,1939.0,7.0,9.0,0
+402,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.587816,47.569516,1999.0,6.0,18.0,0
+403,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.56038,48.45681,1934.0,6.0,8.0,0
+404,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.954296,41.387154,2002.0,6.0,13.0,0
+405,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.954296,41.387154,2002.0,6.0,13.0,0
+406,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-123.413381,41.032078,2007.0,6.0,15.0,0
+407,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.56038,48.45681,1934.0,6.0,10.0,0
+408,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-121.13552,39.94156,1928.0,7.0,17.0,0
+409,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.587816,47.569516,1999.0,6.0,18.0,0
+410,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.129921,39.06850815,1953.0,7.0,22.0,0
+411,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.6426,48.4668,1937.0,7.0,7.0,0
+412,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-119.740856,48.548712,1937.0,7.0,7.0,0
+413,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-120.3326,48.22793,1937.0,7.0,18.0,0
+414,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.149735,42.112272,2001.0,6.0,2.0,0
+415,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.954296,41.387154,2002.0,6.0,16.0,0
+416,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-123.413381,41.032078,2007.0,6.0,10.0,0
+417,chlosyne hoffmanni,Chlosyne_hoffmanni,idigbio,-122.954296,41.387154,2002.0,6.0,13.0,0
+418,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.6167,49.15,1961.0,7.0,19.0,0
+419,,Chlosyne_hoffmanni,master,-120.617,49.1345,1969.0,6.0,,0
+420,Chlosyne hoffmanni,Chlosyne_hoffmanni,master,-120.6494,49.1206,1962.0,7.0,9.0,0
+421,Chlosyne hoffmanni,Chlosyne_hoffmanni,master,-120.6494,49.1206,1962.0,7.0,9.0,0
+422,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.65,49.1167,1961.0,6.0,27.0,0
+423,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.65,49.1167,1962.0,7.0,9.0,0
+424,,Chlosyne_hoffmanni,master,-120.65,49.1167,1962.0,7.0,9.0,0
+425,Chlosyne hoffmanni,Chlosyne_hoffmanni,master,-120.65,49.11,1962.0,7.0,9.0,0
+426,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.8833,49.0667,1961.0,7.0,3.0,0
+427,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.8833,49.0667,1978.0,7.0,23.0,0
+428,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.8833,49.05,1973.0,7.0,14.0,0
+429,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.88333,49.06667,1973.0,7.0,14.0,0
+430,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.88333,49.05,1973.0,7.0,14.0,0
+431,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.88333,49.05,1973.0,7.0,14.0,0
+432,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.88333,49.05,1973.0,7.0,14.0,0
+433,Chlosyne hoffmanni,Chlosyne_hoffmanni,master,-120.91,49.06,1978.0,7.0,24.0,0
+434,Chlosyne hoffmanni,Chlosyne_hoffmanni,master,-120.91,49.06,1961.0,7.0,3.0,0
+435,,Chlosyne_hoffmanni,master,-120.9167,49.0667,1961.0,7.0,3.0,0
+436,,Chlosyne_hoffmanni,master,-120.9167,49.0667,1978.0,7.0,24.0,0
+437,Chlosyne hoffmanni,Chlosyne_hoffmanni,master,-120.9272,49.0692,1961.0,7.0,3.0,0
+438,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.93333,49.08333,1978.0,7.0,24.0,0
+439,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.93333,49.08333,1978.0,7.0,24.0,0
+440,Charidryas hoffmanni,Chlosyne_hoffmanni,master,-120.93333,49.08333,1978.0,7.0,24.0,0
+441,Chlosyne hoffmanni,Chlosyne_hoffmanni,master,-121.69,49.17,1915.0,7.0,22.0,0
+442,,Chlosyne_hoffmanni,master,-121.692,49.176,1915.0,7.0,22.0,0
+443,Chlosyne hoffmanni,Chlosyne_hoffmanni,master,-121.6978,49.1822,1915.0,7.0,22.0,0
