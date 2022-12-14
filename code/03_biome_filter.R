@@ -23,7 +23,13 @@ calculate_accuracy_biome <- function(species_ecoregion, level, proportion_data, 
   
   sorted_ecoregions <- sort(proportion_ecoregions, decreasing = TRUE)
   
-  ecoregions_90_prop <- sorted_ecoregions[cumsum(sorted_ecoregions) < proportion_cumulative]
+  if(max(proportion_ecoregions) > proportion_cumulative){
+    ecoregions_90_prop <- sorted_ecoregions[cumsum(sorted_ecoregions) <= max(proportion_ecoregions)]
+    
+  }else{
+    ecoregions_90_prop <- sorted_ecoregions[cumsum(sorted_ecoregions) < proportion_cumulative]
+    
+  }
   
   ## calculate the percentage of right outliers
   
@@ -39,6 +45,14 @@ calculate_accuracy_biome <- function(species_ecoregion, level, proportion_data, 
   table_outliers_prop <- table(species_ecoregion_outlier$outliers, species_ecoregion_outlier$ecoregion_outlier)
   
   table_outliers_cum <- table(species_ecoregion_outlier$outliers, species_ecoregion_outlier$ecoregion_outlier_cum)
+  
+  if(all(species_ecoregion_outlier$ecoregion_outlier == 0)){
+    table_outliers_prop <- cbind(table(species_ecoregion_outlier$outliers, species_ecoregion_outlier$ecoregion_outlier), c(0,0))
+  }
+  
+  if(all(species_ecoregion_outlier$ecoregion_outlier_cum == 0)){
+    table_outliers_cum <- cbind(table(species_ecoregion_outlier$outliers, species_ecoregion_outlier$ecoregion_outlier_cum), c(0,0))
+  }
   
   ## return all values 
   
@@ -165,3 +179,5 @@ species_outputs_combined %>%
   filter(tss  == max(tss)) %>% 
   mutate(ratio_outliers = total_number_outliers/total_number_points)
   
+
+saveRDS(species_outputs_combined, "outputs/ecoregion_combined.rds")
