@@ -17,7 +17,13 @@ calculate_accuracy_biome <- function(species_ecoregion, level, proportion_data, 
   
   proportion_ecoregions <- table(species_ecoregion[[col_use]])/nrow(species_ecoregion)
   
-  ecoregions_more_prop <- proportion_ecoregions[proportion_ecoregions > proportion_data]
+  if(max(proportion_ecoregions) < proportion_data){
+    ecoregions_more_prop <- proportion_ecoregions[proportion_ecoregions >= max(proportion_ecoregions)]
+    
+  }else{
+    ecoregions_more_prop <- proportion_ecoregions[proportion_ecoregions > proportion_data]
+  }
+  
   
   ## ecoregions that contain 90% of data
   
@@ -85,7 +91,7 @@ species_outputs <- list()
 
 ## loop over all species files
 
-for(file_s in species_files){
+for(file_s in species_files[53:length(species_files)]){
   
   # extract species names from the file
   
@@ -95,6 +101,8 @@ for(file_s in species_files){
   
   species_data <- read.csv(file_s) %>% 
     filter(!is.na(longitude) & !is.na(latitude))
+  
+  if(length(table(species_data$outliers)) ==1) next
   
   # transform coordinates into sf object and change crs to match ecoregion crs
   
@@ -149,15 +157,16 @@ species_output_cum <- species_outputs_all %>%
 
 
 species_output_prop %>% 
-  ggplot(aes(x = proportion, y = values, colour = factor(level), shape = finalname)) +
+  ggplot(aes(x = proportion, y = values, colour = factor(level))) +
   facet_wrap(~test, scales = 'free_y') +
   geom_point() +
   scale_x_log10() +
-  theme_cowplot()
+  theme_cowplot() +
+  theme(legend.position = 'none')
 
 
 species_output_cum %>% 
-  ggplot(aes(x = proportion, y = values, colour = factor(level), shape = finalname)) +
+  ggplot(aes(x = proportion, y = values, colour = factor(level))) +
   facet_wrap(~test, scales = 'free_y') +
   geom_point() +
   scale_x_log10() +
@@ -172,12 +181,19 @@ species_outputs_combined <- bind_rows(species_output_prop, species_output_cum) %
   pivot_wider(names_from = test, values_from = values) %>%
   mutate(tss = sensitivity + specificity - 1)
 
+
+species_outputs_combined %>% 
+  ggplot(aes(x = total_number_points, y = tss, colour = factor(proportion))) +
+  facet_wrap(~level) +
+  geom_point() +
+  scale_x_log10()
+
+
 ## maximize tss
 
 species_outputs_combined %>% 
   group_by(finalname) %>% 
   filter(tss  == max(tss)) %>% 
-  mutate(ratio_outliers = total_number_outliers/total_number_points)
-  
+  mutate(ratio_outliers = total_number_outliers/total_number_points) 
 
 saveRDS(species_outputs_combined, "outputs/ecoregion_combined.rds")
