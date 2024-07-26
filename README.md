@@ -1,4 +1,4 @@
-#A comparison of outlier detection methods for species distribution data, from geographical filters to machine learning 
+**A comparison of outlier detection methods for species distribution data, from geographical filters to machine learning 
 
 This repository contains code associated with the analysis for Lewthwaite, Brownlee and Guzman “A comparison of outlier detection methods for species distribution data, from geographical filters to machine learning.”
 
