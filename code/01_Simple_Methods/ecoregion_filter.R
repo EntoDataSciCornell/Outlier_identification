@@ -29,7 +29,7 @@ calculate_accuracy_biome <- function(species_ecoregion, level, proportion_data, 
   
   species_ecoregion_outlier <- species_ecoregion %>% 
     st_drop_geometry() %>% 
-    select(old_name:outliers, all_of(col_use)) %>% 
+    select(final_name:outliers, all_of(col_use)) %>% 
     rename(ecoregion_name = all_of(col_use)) %>% 
     mutate(ecoregion_outlier = ifelse(ecoregion_name %in% names(ecoregions_more_prop), 0, 1)) %>% 
     mutate(ecoregion_outlier_cum = ifelse(ecoregion_name %in% names(ecoregions_90_prop), 0, 1))
@@ -38,7 +38,7 @@ calculate_accuracy_biome <- function(species_ecoregion, level, proportion_data, 
   
   table_outliers_prop <- table(species_ecoregion_outlier$outliers, species_ecoregion_outlier$ecoregion_outlier)
   
-  table_outliers_cum <- table(species_ecoregion_outlier$outliers, species_ecoregion_outlier$ecoregion_outlier_cum)
+  table_outliers_cum <- table(species_ecoregion_outlier$outliers, species_ecoregion_outlier$ecoregion_outlier)
   
   ## return all values 
   
@@ -59,13 +59,13 @@ calculate_accuracy_biome <- function(species_ecoregion, level, proportion_data, 
 # define level ecoregion 
 
 #ecoregion files can be obtained from https://www.epa.gov/eco-research/ecoregions-north-america; they are too large to upload to GitHub. 
-ecoregion <- read_sf('biome_raw_files/na_cec_eco_l3')
+ecoregion <- read_sf('biome_raw_files/NA_CEC_Eco_Level3/NA_CEC_Eco_Level3.shp')
 
 ecoregion_crs <- ecoregion %>% st_crs()
 
 ## read the species files ##
 
-species_files <- list.files('data/', full.names = TRUE)
+species_files <- list.files('data/labeled_outlier_files/', full.names = TRUE)
 
 species_outputs <- list()
 
