@@ -7,6 +7,8 @@ library(cowplot)
 library(stringr)
 library(purrr)
 
+######## re run putting lat and long 
+
 ## function to calculate accuracy 
 
 calculate_accuracy_biome <- function(species_ecoregion, level, proportion_data, proportion_cumulative){
@@ -41,7 +43,7 @@ calculate_accuracy_biome <- function(species_ecoregion, level, proportion_data, 
   
   species_ecoregion_outlier <- species_ecoregion %>% 
     st_drop_geometry() %>% 
-    select(old_name:outliers, all_of(col_use)) %>% 
+    select(final_name:outliers, all_of(col_use)) %>% 
     rename(ecoregion_name = all_of(col_use)) %>% 
     mutate(ecoregion_outlier = ifelse(ecoregion_name %in% names(ecoregions_more_prop), 0, 1)) %>% 
     mutate(ecoregion_outlier_cum = ifelse(ecoregion_name %in% names(ecoregions_90_prop), 0, 1))
@@ -91,7 +93,7 @@ species_outputs <- list()
 
 ## loop over all species files
 
-for(file_s in species_files[53:length(species_files)]){
+for(file_s in species_files){
   
   # extract species names from the file
   
@@ -107,28 +109,34 @@ for(file_s in species_files[53:length(species_files)]){
   # transform coordinates into sf object and change crs to match ecoregion crs
   
   species_lat <- st_as_sf(species_data, coords = c("longitude", "latitude"), 
-                          crs = 4326) %>% 
+                          crs = 4326, 
+                          remove = FALSE) %>% 
     st_transform(ecoregion_crs)
   
   ## intersect the points with the ecoregions ##
   
   species_ecoregion <- st_join(species_lat, ecoregion, join = st_within)
   
+  no_geom_species_ecoregion <- st_drop_geometry(species_ecoregion) %>% 
+    select(final_name:NA_L1NAME)
+  
+  write.csv(no_geom_species_ecoregion, paste0("data/ecoregion/", species_name, "_ecoregion.csv"),row.names = FALSE)
+  
   ## parameters that we want to test for ecoregion level and proportions used
   
   level_test <- cbind(expand.grid(level = c(1:3), proportion_data = c(0.001, 0.01, 0.1)), expand.grid(level = c(1:3), proportion_cumulative = c(0.9, 0.95, 0.99)))
-  
+
   ## run the accuracy function for all combinations of the level-test
-  
-  biome_outlier_test <- lapply(1:nrow(level_test), FUN = function(x) calculate_accuracy_biome(species_ecoregion = species_ecoregion, 
-                                                                                              level = level_test$level[x], 
-                                                                                              proportion_data = level_test$proportion_data[x], 
+
+  biome_outlier_test <- lapply(1:nrow(level_test), FUN = function(x) calculate_accuracy_biome(species_ecoregion = species_ecoregion,
+                                                                                              level = level_test$level[x],
+                                                                                              proportion_data = level_test$proportion_data[x],
                                                                                               proportion_cumulative = level_test$proportion_cumulative[x]))
-  
-  
-  ## output in list 
+
+
+  ## output in list
   species_outputs[[species_name]] <- rbindlist(biome_outlier_test)
-  
+
 }
 
 
@@ -152,6 +160,17 @@ species_output_cum <- species_outputs_all %>%
   mutate(method = 'ecoregion_cum') %>% 
   rename(proportion = proportion_cumulative)
 
+## join the proportion and cumulative proportion data
+## calculate tss
+
+species_outputs_combined <- bind_rows(species_output_prop, species_output_cum) %>% 
+  mutate(test = str_remove(test, "\\_[a-z]+")) %>% 
+  pivot_wider(names_from = test, values_from = values) %>%
+  mutate(tss = sensitivity + specificity - 1)
+
+
+saveRDS(species_outputs_combined, "outputs/ecoregion_combined.rds")
+
 
 ## plot the results for each species across proportions
 
@@ -173,14 +192,6 @@ species_output_cum %>%
   theme_cowplot()
 
 
-## join the proportion and cumulative proportion data
-## calculate tss
-
-species_outputs_combined <- bind_rows(species_output_prop, species_output_cum) %>% 
-  mutate(test = str_remove(test, "\\_[a-z]+")) %>% 
-  pivot_wider(names_from = test, values_from = values) %>%
-  mutate(tss = sensitivity + specificity - 1)
-
 
 species_outputs_combined %>% 
   ggplot(aes(x = total_number_points, y = tss, colour = factor(proportion))) +
@@ -196,4 +207,3 @@ species_outputs_combined %>%
   filter(tss  == max(tss)) %>% 
   mutate(ratio_outliers = total_number_outliers/total_number_points) 
 
-saveRDS(species_outputs_combined, "outputs/ecoregion_combined.rds")
