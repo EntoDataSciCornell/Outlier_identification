@@ -8,6 +8,6 @@ This repository contains the following files and subfolders:
 
 data - this folder contains the raw distribution data we used for 147 North American butterfly species, with outliers labelled. It also contains eButterfly distribution data that was used for the checklist filter. As the raw data files for ecoregion and climate are too large to post on Github, we provide the links in the relevent R scripts (below) for where to download the raw data.
 
-code - this folder contains all of the code associated with each of the outlier detection methods, ordered by complexity: 01_Simple_Methods, 02_PseudoSDM, 03_Classifiers, 04_Neural_Networks
+code - this folder contains all of the code associated with each of the outlier detection methods, ordered by complexity: 01_Simple_Methods, 02_PseudoSDM, 03_Classifiers, 04_Neural_Networks, 05_Combined_Modelling
 
 output - this folder contains the performance values (specificity, sensitivity, accuracy and TSS) for all of the the models we ran, for each species.
