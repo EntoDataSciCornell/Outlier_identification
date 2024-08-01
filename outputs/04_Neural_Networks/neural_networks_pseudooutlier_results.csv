@@ -1,0 +1,11 @@
+species,num_points,num_outliers,percent_outliers,accuracy,sensitivity,specificity
+Erebia_discoidalis,1801,4,30%,0.9795322,0.98536587,1.0
+Apodemia_mormo,2779,12,30%,0.95660436,0.9809524,1.0
+Cupido_comyntas,23801,34,30%,0.961768,0.9920343,0.99984205
+Celastrina_lucia,9317,23,30%,0.9494017,0.9888025,0.9998648
+Celastrina_serotina,754,17,30%,0.9497608,0.97637796,1.0
+Colias_occidentalis,684,20,30%,0.95212764,0.9954751,1.0
+Hesperia_pahaska,692,2,30%,0.9390089,0.9755102,1.0
+Boloria_astarte,635,6,30%,0.9455307,0.962963,1.0
+Papilio_polyxenes,16543,19,30%,0.95873284,0.99018735,1.0
+Lycaena_helloides,4630,21,30%,0.94372624,0.96141684,1.0
