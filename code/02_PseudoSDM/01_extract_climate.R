@@ -1,16 +1,3 @@
-## Liu et al 2018
-
-#RF and SVM used in methods 9 and 10 are commonly used in SDM where the response is a binary variable. 
-#If true absences are not available, pseudo-absences (typically random points) are used. 
-#In applying methods 9 and 10, we used the Nrd occurrence records 
-#(including the outliers and database records representing sampling bias) 
-#and an additional 2 × Nrd random points as pseudo-absences, 
-#as suggested by some authors (Barbet-Massin et al., 2012; Liu, White, Newell & Griffioen, 2013), 
-#to build models using RF and SVM. Fitted models were then applied to the same set of training occurrence records 
-# (including outliers) to obtain predicted values. 
-#Finally, subtracting these predictions from 1 gave the deviation or “outlierness” or “outlier scores” of the records.
-#We anticipated that the degree of “outlierness” would discriminate outliers from most true presences.
-
 library(dplyr)
 library(stringr)
 library(geodata)
@@ -24,8 +11,6 @@ library(parallel)
 library(lubridate)
 
 ##### get climate stack for all variables #####
-
-#climate_files <- list.files('/Volumes/Rasters/USC/outlier_identification/rasters/', full.names = TRUE)
 
 climate_files <- list.files('rasters/', full.names = TRUE)
 
@@ -65,9 +50,8 @@ extract_climate <- function(file_s){
       stringsAsFactors = FALSE,
       remove = FALSE) 
   
-  ### this might be useful to do directly with all species at the same time-- not worth loading the raster each time?
   
-  ## extract the climatevariables manually for each point
+  ## extract the climate variables manually for each point
   
   n_bios <- 19
   
